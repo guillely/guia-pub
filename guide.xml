@@ -67,51 +67,58 @@
   </channel>
   <channel id="SPAIN | MOVISTAR LA LIGA">
     <display-name lang="es">SPAIN | MOVISTAR LA LIGA</display-name>
-    <url>http://www.movistarplus.es</url>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/movistar_laliga-mediano.png" />
+    <url>http://www.gatotv.com</url>
   </channel>
   <channel id="SPAIN | MOVISTAR LA LIGA  HD">
     <display-name lang="es">SPAIN | MOVISTAR LA LIGA  HD</display-name>
-    <url>http://www.movistarplus.es</url>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/movistar_laliga-mediano.png" />
+    <url>http://www.gatotv.com</url>
   </channel>
   <channel id="SPAIN | MOVISTAR LALIGA FHD">
     <display-name lang="es">SPAIN | MOVISTAR LALIGA FHD</display-name>
-    <url>http://www.movistarplus.es</url>
-  </channel>
-  <channel id="SPAIN | MOVISTAR #VAMOS">
-    <display-name lang="es">SPAIN | MOVISTAR #VAMOS</display-name>
-    <url>http://www.movistarplus.es</url>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/movistar_laliga-mediano.png" />
+    <url>http://www.gatotv.com</url>
   </channel>
   <channel id="SPAIN | MOVISTAR DEPORTE 8">
     <display-name lang="es">SPAIN | MOVISTAR DEPORTE 8</display-name>
-    <url>http://www.movistarplus.es</url>
+    <icon src="https://programacion-tv.elpais.com/imagenes/canales/377.jpg" />
+    <url>http://www.elpais.com.E</url>
   </channel>
-  <channel id="SPAIN | MOVISTAR DEPORTES FULL HD">
-    <display-name lang="es">SPAIN | MOVISTAR DEPORTES FULL HD</display-name>
-    <url>http://www.movistarplus.es</url>
+  <channel id="Movistar Deportes">
+    <display-name lang="es">SPAIN | MOVISTAR DEPORTE 8</display-name>
+    <icon src="https://programacion-tv.elpais.com/imagenes/canales/377.jpg" />
+    <url>http://www.elpais.com.E</url>
+  </channel>
+  <channel id="[ES]  SYFY">
+    <display-name lang="es">[ES]  SYFY</display-name>
+    <icon src="https://programacion-tv.elpais.com/imagenes/canales/520.jpg" />
+    <url>http://www.elpais.com.E</url>
   </channel>
   <channel id="[ES] CUATRO">
     <display-name lang="es">[ES] CUATRO</display-name>
-    <url>http://www.movistarplus.es</url>
+    <icon src="https://programacion-tv.elpais.com/imagenes/canales/496.jpg" />
+    <url>http://www.elpais.com.E</url>
   </channel>
   <channel id="[ES]  CUATRO FHD">
     <display-name lang="es">[ES]  CUATRO FHD</display-name>
-    <url>http://www.movistarplus.es</url>
+    <url>http://www.elpais.com.E</url>
   </channel>
   <channel id="[ES]  MOVISTAR ESTRENOS">
     <display-name lang="es">[ES]  MOVISTAR ESTRENOS</display-name>
-    <url>http://www.movistarplus.es</url>
+    <url>http://www.elpais.com.E</url>
   </channel>
   <channel id="[ES]  MOVISTAR ESTRENOS HD">
     <display-name lang="es">[ES]  MOVISTAR ESTRENOS HD</display-name>
-    <url>http://www.movistarplus.es</url>
+    <url>http://www.elpais.com.E</url>
   </channel>
   <channel id="[ES] CALLE 13">
     <display-name lang="es">[ES] CALLE 13</display-name>
-    <url>http://www.movistarplus.es</url>
+    <url>http://www.elpais.com.E</url>
   </channel>
   <channel id="[ES] CALLE 13 HD">
     <display-name lang="es">[ES] CALLE 13 HD</display-name>
-    <url>http://www.movistarplus.es</url>
+    <url>http://www.elpais.com.E</url>
   </channel>
   <programme start="20200922004000 +0200" stop="20200922010700 +0200" channel="69 | Discovery Kids">
     <title lang="es">44 Gatos</title>
@@ -1292,8 +1299,8 @@
   <programme start="20200922233000 +0200" stop="20200923000000 +0200" channel="66 | Baby TV">
     <title lang="es">El patio de la imaginación</title>
   </programme>
-  <programme start="20200923200000 +0200" stop="20200923203000 +0200" channel="66 | Baby TV">
-    <title lang="es">Los primeros descubrimientos</title>
+  <programme start="20200923203000 +0200" stop="20200923210000 +0200" channel="66 | Baby TV">
+    <title lang="es">El patio de la imaginación</title>
   </programme>
   <programme start="20200922003000 +0200" stop="20200922010000 +0200" channel="67 | Boomerang">
     <title lang="es">Las Chicas Superpoderosas</title>
@@ -4196,9 +4203,6 @@
   <programme start="20200923193000 +0200" stop="20200923200000 +0200" channel="72 | Disney XD">
     <title lang="es">Marvel's Spider-Man</title>
   </programme>
-  <programme start="20200923200000 +0200" stop="20200923203000 +0200" channel="72 | Disney XD">
-    <title lang="es">Trollhunters de Guillermo del Toro Relatos de Arcadia</title>
-  </programme>
   <programme start="20200923203000 +0200" stop="20200923210000 +0200" channel="72 | Disney XD">
     <title lang="es">Grandes héroes la serie</title>
   </programme>
@@ -5641,5 +5645,1607 @@
   </programme>
   <programme start="20200926234000 +0200" stop="20200927003200 +0200" channel="36 | Discovery Turbo">
     <title lang="es">Texas Trocas</title>
+  </programme>
+  <programme start="20200922005000 +0200" stop="20200922015000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Resumen LaLiga SmartBank</title>
+  </programme>
+  <programme start="20200922015000 +0200" stop="20200922025000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Resumen LaLiga</title>
+  </programme>
+  <programme start="20200922025000 +0200" stop="20200922044000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Granada-Alavés</title>
+  </programme>
+  <programme start="20200922044000 +0200" stop="20200922063000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Real Sociedad-Real Madrid</title>
+  </programme>
+  <programme start="20200922063000 +0200" stop="20200922082000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Getafe-Osasuna</title>
+  </programme>
+  <programme start="20200922082000 +0200" stop="20200922092000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Resumen LaLiga</title>
+  </programme>
+  <programme start="20200922092000 +0200" stop="20200922111000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Rayo-Sabadell</title>
+  </programme>
+  <programme start="20200922111000 +0200" stop="20200922130000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Celta-Valencia</title>
+  </programme>
+  <programme start="20200922130000 +0200" stop="20200922140000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Resumen LaLiga SmartBank</title>
+  </programme>
+  <programme start="20200922140000 +0200" stop="20200922143000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">LaLiga News 1</title>
+  </programme>
+  <programme start="20200922143000 +0200" stop="20200922150000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">LaLiga Nations</title>
+  </programme>
+  <programme start="20200922150000 +0200" stop="20200922165000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Huesca-Cádiz</title>
+  </programme>
+  <programme start="20200922165000 +0200" stop="20200922180000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">El Partidazo de Movistar</title>
+  </programme>
+  <programme start="20200922180000 +0200" stop="20200922183000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">LaLiga News 2</title>
+  </programme>
+  <programme start="20200922183000 +0200" stop="20200922203000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Lugo-Leganés</title>
+  </programme>
+  <programme start="20200922203000 +0200" stop="20200922210000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200922210000 +0200" stop="20200922225000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Granada-Alavés</title>
+  </programme>
+  <programme start="20200922225000 +0200" stop="20200922231500 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200922231500 +0200" stop="20200923004500 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">El día después</title>
+  </programme>
+  <programme start="20200923231500 +0200" stop="20200924004500 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">El día después</title>
+  </programme>
+  <programme start="20200924004500 +0200" stop="20200924011000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200924011000 +0200" stop="20200924022000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">El Partidazo de Movistar</title>
+  </programme>
+  <programme start="20200924022000 +0200" stop="20200924025000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200924025000 +0200" stop="20200924044000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Real Sociedad-Real Madrid</title>
+  </programme>
+  <programme start="20200924044000 +0200" stop="20200924063000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Villarreal-Eibar</title>
+  </programme>
+  <programme start="20200924063000 +0200" stop="20200924082000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Celta-Valencia</title>
+  </programme>
+  <programme start="20200924082000 +0200" stop="20200924085000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200924085000 +0200" stop="20200924104000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Espanyol-Mallorca</title>
+  </programme>
+  <programme start="20200924104000 +0200" stop="20200924123000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Huesca-Cádiz</title>
+  </programme>
+  <programme start="20200924123000 +0200" stop="20200924140000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">El día después</title>
+  </programme>
+  <programme start="20200924140000 +0200" stop="20200924143000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">LaLiga News 1</title>
+  </programme>
+  <programme start="20200924143000 +0200" stop="20200924150000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200924150000 +0200" stop="20200924170000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Granada-Alavés</title>
+  </programme>
+  <programme start="20200924170000 +0200" stop="20200924173000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200924173000 +0200" stop="20200924180000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Crónicas de LaLiga</title>
+  </programme>
+  <programme start="20200924180000 +0200" stop="20200924183000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">LaLiga News 2</title>
+  </programme>
+  <programme start="20200924183000 +0200" stop="20200924203000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Albacete-Ponferradina</title>
+  </programme>
+  <programme start="20200924203000 +0200" stop="20200924210000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Crónicas de LaLiga</title>
+  </programme>
+  <programme start="20200924210000 +0200" stop="20200924225000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Real Sociedad-Real Madrid</title>
+  </programme>
+  <programme start="20200924225000 +0200" stop="20200925005000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Cartagena-Sporting</title>
+  </programme>
+  <programme start="20200925005000 +0200" stop="20200925012000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Crónicas de LaLiga</title>
+  </programme>
+  <programme start="20200925012000 +0200" stop="20200925025000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">El día después</title>
+  </programme>
+  <programme start="20200925025000 +0200" stop="20200925044000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Villarreal-Eibar</title>
+  </programme>
+  <programme start="20200925044000 +0200" stop="20200925063000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Getafe-Osasuna</title>
+  </programme>
+  <programme start="20200925063000 +0200" stop="20200925082000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Huesca-Cádiz</title>
+  </programme>
+  <programme start="20200925082000 +0200" stop="20200925085000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Crónicas de LaLiga</title>
+  </programme>
+  <programme start="20200925085000 +0200" stop="20200925104000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Las Palmas-Fuenlabrada</title>
+  </programme>
+  <programme start="20200925104000 +0200" stop="20200925123000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Granada-Alavés</title>
+  </programme>
+  <programme start="20200925123000 +0200" stop="20200925133000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Resumen LaLiga</title>
+  </programme>
+  <programme start="20200925133000 +0200" stop="20200925140000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200925140000 +0200" stop="20200925143000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">LaLiga News 1</title>
+  </programme>
+  <programme start="20200925143000 +0200" stop="20200925150000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Crónicas de LaLiga</title>
+  </programme>
+  <programme start="20200925150000 +0200" stop="20200925170000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Real Sociedad-Real Madrid</title>
+  </programme>
+  <programme start="20200925170000 +0200" stop="20200925173000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Crónicas de LaLiga</title>
+  </programme>
+  <programme start="20200925173000 +0200" stop="20200925180000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200925180000 +0200" stop="20200925183000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">LaLiga News 2</title>
+  </programme>
+  <programme start="20200925183000 +0200" stop="20200925203000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Mirandés-Real Oviedo</title>
+  </programme>
+  <programme start="20200925203000 +0200" stop="20200925210000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">LaLiga Show</title>
+  </programme>
+  <programme start="20200925210000 +0200" stop="20200925225000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Villarreal-Eibar</title>
+  </programme>
+  <programme start="20200925225000 +0200" stop="20200925232000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Magazine SmartBank</title>
+  </programme>
+  <programme start="20200925232000 +0200" stop="20200925235000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">LaLiga Show</title>
+  </programme>
+  <programme start="20200925235000 +0200" stop="20200926015000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Alcorcón-Tenerife</title>
+  </programme>
+  <programme start="20200926015000 +0200" stop="20200926022000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Magazine SmartBank</title>
+  </programme>
+  <programme start="20200926022000 +0200" stop="20200926025000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">LaLiga Show</title>
+  </programme>
+  <programme start="20200926025000 +0200" stop="20200926044000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Getafe-Osasuna</title>
+  </programme>
+  <programme start="20200926044000 +0200" stop="20200926063000 +0200" channel="SPAIN | MOVISTAR LA LIGA">
+    <title lang="es">Celta-Valencia</title>
+  </programme>
+  <programme start="20200922005000 +0200" stop="20200922015000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Resumen LaLiga SmartBank</title>
+  </programme>
+  <programme start="20200922015000 +0200" stop="20200922025000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Resumen LaLiga</title>
+  </programme>
+  <programme start="20200922025000 +0200" stop="20200922044000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Granada-Alavés</title>
+  </programme>
+  <programme start="20200922044000 +0200" stop="20200922063000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Real Sociedad-Real Madrid</title>
+  </programme>
+  <programme start="20200922063000 +0200" stop="20200922082000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Getafe-Osasuna</title>
+  </programme>
+  <programme start="20200922082000 +0200" stop="20200922092000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Resumen LaLiga</title>
+  </programme>
+  <programme start="20200922092000 +0200" stop="20200922111000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Rayo-Sabadell</title>
+  </programme>
+  <programme start="20200922111000 +0200" stop="20200922130000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Celta-Valencia</title>
+  </programme>
+  <programme start="20200922130000 +0200" stop="20200922140000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Resumen LaLiga SmartBank</title>
+  </programme>
+  <programme start="20200922140000 +0200" stop="20200922143000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">LaLiga News 1</title>
+  </programme>
+  <programme start="20200922143000 +0200" stop="20200922150000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">LaLiga Nations</title>
+  </programme>
+  <programme start="20200922150000 +0200" stop="20200922165000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Huesca-Cádiz</title>
+  </programme>
+  <programme start="20200922165000 +0200" stop="20200922180000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">El Partidazo de Movistar</title>
+  </programme>
+  <programme start="20200922180000 +0200" stop="20200922183000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">LaLiga News 2</title>
+  </programme>
+  <programme start="20200922183000 +0200" stop="20200922203000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Lugo-Leganés</title>
+  </programme>
+  <programme start="20200922203000 +0200" stop="20200922210000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200922210000 +0200" stop="20200922225000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Granada-Alavés</title>
+  </programme>
+  <programme start="20200922225000 +0200" stop="20200922231500 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200922231500 +0200" stop="20200923004500 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">El día después</title>
+  </programme>
+  <programme start="20200923231500 +0200" stop="20200924004500 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">El día después</title>
+  </programme>
+  <programme start="20200924004500 +0200" stop="20200924011000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200924011000 +0200" stop="20200924022000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">El Partidazo de Movistar</title>
+  </programme>
+  <programme start="20200924022000 +0200" stop="20200924025000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200924025000 +0200" stop="20200924044000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Real Sociedad-Real Madrid</title>
+  </programme>
+  <programme start="20200924044000 +0200" stop="20200924063000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Villarreal-Eibar</title>
+  </programme>
+  <programme start="20200924063000 +0200" stop="20200924082000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Celta-Valencia</title>
+  </programme>
+  <programme start="20200924082000 +0200" stop="20200924085000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200924085000 +0200" stop="20200924104000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Espanyol-Mallorca</title>
+  </programme>
+  <programme start="20200924104000 +0200" stop="20200924123000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Huesca-Cádiz</title>
+  </programme>
+  <programme start="20200924123000 +0200" stop="20200924140000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">El día después</title>
+  </programme>
+  <programme start="20200924140000 +0200" stop="20200924143000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">LaLiga News 1</title>
+  </programme>
+  <programme start="20200924143000 +0200" stop="20200924150000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200924150000 +0200" stop="20200924170000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Granada-Alavés</title>
+  </programme>
+  <programme start="20200924170000 +0200" stop="20200924173000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200924173000 +0200" stop="20200924180000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Crónicas de LaLiga</title>
+  </programme>
+  <programme start="20200924180000 +0200" stop="20200924183000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">LaLiga News 2</title>
+  </programme>
+  <programme start="20200924183000 +0200" stop="20200924203000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Albacete-Ponferradina</title>
+  </programme>
+  <programme start="20200924203000 +0200" stop="20200924210000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Crónicas de LaLiga</title>
+  </programme>
+  <programme start="20200924210000 +0200" stop="20200924225000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Real Sociedad-Real Madrid</title>
+  </programme>
+  <programme start="20200924225000 +0200" stop="20200925005000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Cartagena-Sporting</title>
+  </programme>
+  <programme start="20200925005000 +0200" stop="20200925012000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Crónicas de LaLiga</title>
+  </programme>
+  <programme start="20200925012000 +0200" stop="20200925025000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">El día después</title>
+  </programme>
+  <programme start="20200925025000 +0200" stop="20200925044000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Villarreal-Eibar</title>
+  </programme>
+  <programme start="20200925044000 +0200" stop="20200925063000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Getafe-Osasuna</title>
+  </programme>
+  <programme start="20200925063000 +0200" stop="20200925082000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Huesca-Cádiz</title>
+  </programme>
+  <programme start="20200925082000 +0200" stop="20200925085000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Crónicas de LaLiga</title>
+  </programme>
+  <programme start="20200925085000 +0200" stop="20200925104000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Las Palmas-Fuenlabrada</title>
+  </programme>
+  <programme start="20200925104000 +0200" stop="20200925123000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Granada-Alavés</title>
+  </programme>
+  <programme start="20200925123000 +0200" stop="20200925133000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Resumen LaLiga</title>
+  </programme>
+  <programme start="20200925133000 +0200" stop="20200925140000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200925140000 +0200" stop="20200925143000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">LaLiga News 1</title>
+  </programme>
+  <programme start="20200925143000 +0200" stop="20200925150000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Crónicas de LaLiga</title>
+  </programme>
+  <programme start="20200925150000 +0200" stop="20200925170000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Real Sociedad-Real Madrid</title>
+  </programme>
+  <programme start="20200925170000 +0200" stop="20200925173000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Crónicas de LaLiga</title>
+  </programme>
+  <programme start="20200925173000 +0200" stop="20200925180000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200925180000 +0200" stop="20200925183000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">LaLiga News 2</title>
+  </programme>
+  <programme start="20200925183000 +0200" stop="20200925203000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Mirandés-Real Oviedo</title>
+  </programme>
+  <programme start="20200925203000 +0200" stop="20200925210000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">LaLiga Show</title>
+  </programme>
+  <programme start="20200925210000 +0200" stop="20200925225000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Villarreal-Eibar</title>
+  </programme>
+  <programme start="20200925225000 +0200" stop="20200925232000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Magazine SmartBank</title>
+  </programme>
+  <programme start="20200925232000 +0200" stop="20200925235000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">LaLiga Show</title>
+  </programme>
+  <programme start="20200925235000 +0200" stop="20200926015000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Alcorcón-Tenerife</title>
+  </programme>
+  <programme start="20200926015000 +0200" stop="20200926022000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Magazine SmartBank</title>
+  </programme>
+  <programme start="20200926022000 +0200" stop="20200926025000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">LaLiga Show</title>
+  </programme>
+  <programme start="20200926025000 +0200" stop="20200926044000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Getafe-Osasuna</title>
+  </programme>
+  <programme start="20200926044000 +0200" stop="20200926063000 +0200" channel="SPAIN | MOVISTAR LA LIGA  HD">
+    <title lang="es">Celta-Valencia</title>
+  </programme>
+  <programme start="20200922005000 +0200" stop="20200922015000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Resumen LaLiga SmartBank</title>
+  </programme>
+  <programme start="20200922015000 +0200" stop="20200922025000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Resumen LaLiga</title>
+  </programme>
+  <programme start="20200922025000 +0200" stop="20200922044000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Granada-Alavés</title>
+  </programme>
+  <programme start="20200922044000 +0200" stop="20200922063000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Real Sociedad-Real Madrid</title>
+  </programme>
+  <programme start="20200922063000 +0200" stop="20200922082000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Getafe-Osasuna</title>
+  </programme>
+  <programme start="20200922082000 +0200" stop="20200922092000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Resumen LaLiga</title>
+  </programme>
+  <programme start="20200922092000 +0200" stop="20200922111000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Rayo-Sabadell</title>
+  </programme>
+  <programme start="20200922111000 +0200" stop="20200922130000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Celta-Valencia</title>
+  </programme>
+  <programme start="20200922130000 +0200" stop="20200922140000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Resumen LaLiga SmartBank</title>
+  </programme>
+  <programme start="20200922140000 +0200" stop="20200922143000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">LaLiga News 1</title>
+  </programme>
+  <programme start="20200922143000 +0200" stop="20200922150000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">LaLiga Nations</title>
+  </programme>
+  <programme start="20200922150000 +0200" stop="20200922165000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Huesca-Cádiz</title>
+  </programme>
+  <programme start="20200922165000 +0200" stop="20200922180000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">El Partidazo de Movistar</title>
+  </programme>
+  <programme start="20200922180000 +0200" stop="20200922183000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">LaLiga News 2</title>
+  </programme>
+  <programme start="20200922183000 +0200" stop="20200922203000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Lugo-Leganés</title>
+  </programme>
+  <programme start="20200922203000 +0200" stop="20200922210000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200922210000 +0200" stop="20200922225000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Granada-Alavés</title>
+  </programme>
+  <programme start="20200922225000 +0200" stop="20200922231500 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200922231500 +0200" stop="20200923004500 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">El día después</title>
+  </programme>
+  <programme start="20200923231500 +0200" stop="20200924004500 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">El día después</title>
+  </programme>
+  <programme start="20200924004500 +0200" stop="20200924011000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200924011000 +0200" stop="20200924022000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">El Partidazo de Movistar</title>
+  </programme>
+  <programme start="20200924022000 +0200" stop="20200924025000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200924025000 +0200" stop="20200924044000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Real Sociedad-Real Madrid</title>
+  </programme>
+  <programme start="20200924044000 +0200" stop="20200924063000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Villarreal-Eibar</title>
+  </programme>
+  <programme start="20200924063000 +0200" stop="20200924082000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Celta-Valencia</title>
+  </programme>
+  <programme start="20200924082000 +0200" stop="20200924085000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200924085000 +0200" stop="20200924104000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Espanyol-Mallorca</title>
+  </programme>
+  <programme start="20200924104000 +0200" stop="20200924123000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Huesca-Cádiz</title>
+  </programme>
+  <programme start="20200924123000 +0200" stop="20200924140000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">El día después</title>
+  </programme>
+  <programme start="20200924140000 +0200" stop="20200924143000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">LaLiga News 1</title>
+  </programme>
+  <programme start="20200924143000 +0200" stop="20200924150000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200924150000 +0200" stop="20200924170000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Granada-Alavés</title>
+  </programme>
+  <programme start="20200924170000 +0200" stop="20200924173000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200924173000 +0200" stop="20200924180000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Crónicas de LaLiga</title>
+  </programme>
+  <programme start="20200924180000 +0200" stop="20200924183000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">LaLiga News 2</title>
+  </programme>
+  <programme start="20200924183000 +0200" stop="20200924203000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Albacete-Ponferradina</title>
+  </programme>
+  <programme start="20200924203000 +0200" stop="20200924210000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Crónicas de LaLiga</title>
+  </programme>
+  <programme start="20200924210000 +0200" stop="20200924225000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Real Sociedad-Real Madrid</title>
+  </programme>
+  <programme start="20200924225000 +0200" stop="20200925005000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Cartagena-Sporting</title>
+  </programme>
+  <programme start="20200925005000 +0200" stop="20200925012000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Crónicas de LaLiga</title>
+  </programme>
+  <programme start="20200925012000 +0200" stop="20200925025000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">El día después</title>
+  </programme>
+  <programme start="20200925025000 +0200" stop="20200925044000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Villarreal-Eibar</title>
+  </programme>
+  <programme start="20200925044000 +0200" stop="20200925063000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Getafe-Osasuna</title>
+  </programme>
+  <programme start="20200925063000 +0200" stop="20200925082000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Huesca-Cádiz</title>
+  </programme>
+  <programme start="20200925082000 +0200" stop="20200925085000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Crónicas de LaLiga</title>
+  </programme>
+  <programme start="20200925085000 +0200" stop="20200925104000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Las Palmas-Fuenlabrada</title>
+  </programme>
+  <programme start="20200925104000 +0200" stop="20200925123000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Granada-Alavés</title>
+  </programme>
+  <programme start="20200925123000 +0200" stop="20200925133000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Resumen LaLiga</title>
+  </programme>
+  <programme start="20200925133000 +0200" stop="20200925140000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200925140000 +0200" stop="20200925143000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">LaLiga News 1</title>
+  </programme>
+  <programme start="20200925143000 +0200" stop="20200925150000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Crónicas de LaLiga</title>
+  </programme>
+  <programme start="20200925150000 +0200" stop="20200925170000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Real Sociedad-Real Madrid</title>
+  </programme>
+  <programme start="20200925170000 +0200" stop="20200925173000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Crónicas de LaLiga</title>
+  </programme>
+  <programme start="20200925173000 +0200" stop="20200925180000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">LaLiga World</title>
+  </programme>
+  <programme start="20200925180000 +0200" stop="20200925183000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">LaLiga News 2</title>
+  </programme>
+  <programme start="20200925183000 +0200" stop="20200925203000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Mirandés-Real Oviedo</title>
+  </programme>
+  <programme start="20200925203000 +0200" stop="20200925210000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">LaLiga Show</title>
+  </programme>
+  <programme start="20200925210000 +0200" stop="20200925225000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Villarreal-Eibar</title>
+  </programme>
+  <programme start="20200925225000 +0200" stop="20200925232000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Magazine SmartBank</title>
+  </programme>
+  <programme start="20200925232000 +0200" stop="20200925235000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">LaLiga Show</title>
+  </programme>
+  <programme start="20200925235000 +0200" stop="20200926015000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Alcorcón-Tenerife</title>
+  </programme>
+  <programme start="20200926015000 +0200" stop="20200926022000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Magazine SmartBank</title>
+  </programme>
+  <programme start="20200926022000 +0200" stop="20200926025000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">LaLiga Show</title>
+  </programme>
+  <programme start="20200926025000 +0200" stop="20200926044000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Getafe-Osasuna</title>
+  </programme>
+  <programme start="20200926044000 +0200" stop="20200926063000 +0200" channel="SPAIN | MOVISTAR LALIGA FHD">
+    <title lang="es">Celta-Valencia</title>
+  </programme>
+  <programme start="20200922001500 +0200" stop="20200922004500 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">NBA al día (T19/20): Episodio 132</title>
+    <desc lang="es">Una cita diaria con la última hora de la NBA, de la mano de Iñaki Cano y José Ajero. Todos los partidos que se han jugado en la madrugada resumidos con las mejores canastas, rebotes y asistencias.(n)</desc>
+  </programme>
+  <programme start="20200922004500 +0200" stop="20200922011500 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">NBA en acción (T19/20): Episodio 30</title>
+    <desc lang="es">Magazine que repasa la actualidad semanal de la mejor Liga de baloncesto del mundo. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.(n)</desc>
+  </programme>
+  <programme start="20200922011500 +0200" stop="20200922021500 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Generación NBA (T19/20): Episodio 34</title>
+    <desc lang="es">Programa semanal presentado por Antoni Daimiel y Quique Peinado en el que repasamos la actualidad de la NBA y las actuaciones de los españoles: los mejores mates, asistencias, tapones... 'Generación NBA+' pone canasta, cronómetro y balón para analizar todo el mundo NBA a ritmo de partido.(n)</desc>
+  </programme>
+  <programme start="20200922021500 +0200" stop="20200922054500 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">NFL (T20/21): Las Vegas Raiders - New Orleans Saints</title>
+    <desc lang="es">Una temporada más, Movistar+ se vuelca con una de las competiciones más espectaculares y emocionantes de Estados Unidos: la NFL. 32 conjuntos repartidos en ocho divisiones y dos conferencias -Americana y Nacional-, disputan una temporada regular de 17 jornadas y unas rondas eliminatorias que tendrán como colofón el gran partido final, la Super Bowl.(n)</desc>
+  </programme>
+  <programme start="20200922054500 +0200" stop="20200922074500 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Liga Endesa (T20/21): Iberostar Tenerife - Casademont Zaragoza</title>
+    <desc lang="es">La mejor liga de baloncesto de Europa se juega en Movistar+, donde ofrecemos todos los partidos de cada jornada de Liga Endesa.(n)</desc>
+  </programme>
+  <programme start="20200922074500 +0200" stop="20200922080000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">El Quinto Cuarto (T20/21): Episodio 1</title>
+    <desc lang="es">Una cita diaria con la última hora de la NBA, de la mano de Iñaki Cano y José Ajero. Todos los partidos que se han jugado en la madrugada resumidos con las mejores canastas, rebotes y asistencias.(n)</desc>
+  </programme>
+  <programme start="20200922080000 +0200" stop="20200922101500 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Torneo de Hamburgo</title>
+    <desc lang="es">El Masters 1000 de Roma se juega en un mes poco habitual, para dar comienzo a la parte principal de lo que en 2020 va a ser la temporada de tierra, que se completará con el ATP 500 de Hamburgo y el Grand Slam de Roland Garros. A la cita italiana no van a faltar los dos mejores tenistas del circuito: Rafa Nadal y Novak Djokovic.(n)</desc>
+  </programme>
+  <programme start="20200922101500 +0200" stop="20200922103000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">El Quinto Cuarto (T20/21): Episodio 1</title>
+    <desc lang="es">sin descripción.(n)</desc>
+  </programme>
+  <programme start="20200922103000 +0200" stop="20200922123000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Torneo de Hamburgo</title>
+    <desc lang="es">El ruso, Daniil Medvedev y el griego, Stefanos Tsitsipas son los dos primeros cabezas de serie del ATP 500 de Rotterdam, en el que han entrado al cuadro principal dos españoles: Roberto Bautista y Pablo Carreño.(n)</desc>
+  </programme>
+  <programme start="20200922123000 +0200" stop="20200922153000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">NBA (T19/20): Miami Heat - Boston Celtics (4ª Final de Conferencia)</title>
+    <desc lang="es">La mejor liga de baloncesto de Europa se juega en Movistar+, donde ofrecemos todos los partidos de cada jornada de Liga Endesa.(n)</desc>
+  </programme>
+  <programme start="20200922153000 +0200" stop="20200922183000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Torneo de Hamburgo</title>
+    <desc lang="es">El ruso, Daniil Medvedev y el griego, Stefanos Tsitsipas son los dos primeros cabezas de serie del ATP 500 de Rotterdam, en el que han entrado al cuadro principal dos españoles: Roberto Bautista y Pablo Carreño.(n)</desc>
+  </programme>
+  <programme start="20200922183000 +0200" stop="20200922203000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Torneo de Hamburgo</title>
+    <desc lang="es">El ruso, Daniil Medvedev y el griego, Stefanos Tsitsipas son los dos primeros cabezas de serie del ATP 500 de Rotterdam, en el que han entrado al cuadro principal dos españoles: Roberto Bautista y Pablo Carreño.(n)</desc>
+  </programme>
+  <programme start="20200922203000 +0200" stop="20200922230000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">MLB (T2020): Cleveland Indians - Chicago White Sox</title>
+    <desc lang="es">Las grandes Ligas de Béisbol tienen un lugar privilegiado en Movistar +, donde ofrecemos los mejores partidos de cada jornada entre los equipos más destacados de la Liga Americana y de la Liga Nacional. Incluida la cita más importante de la temporada, las World Series, que enfrenta a los campeones de cada Liga al mejor de siete partidos.(n)</desc>
+  </programme>
+  <programme start="20200922230000 +0200" stop="20200923000000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">NFL en acción (T20/21): Jornada 2</title>
+    <desc lang="es">Vive toda la emoción de cada jornada, sin perder un solo detalle, con un amplio resumen de lo que acontece en cada encuentro de la NFL.(n)</desc>
+  </programme>
+  <programme start="20200923000000 +0200" stop="20200923030000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">NBA al día (T19/20): Episodio 133</title>
+    <desc lang="es">Una cita diaria con la última hora de la NBA, de la mano de Iñaki Cano y José Ajero. Todos los partidos que se han jugado en la madrugada resumidos con las mejores canastas, rebotes y asistencias.(n)</desc>
+  </programme>
+  <programme start="20200923030000 +0200" stop="20200923060000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">NBA (T19/20): Denver Nuggets - Los Angeles Lakers (3ª Final de Conferencia)</title>
+    <desc lang="es">Tercer partido de la Final de la Conferencia Oeste con ventaja 2-0 para Lakers, que ganaron con un triple agónico de Davies el segundo partido. Denver vuelve a demostrar que va a dar guerra.(n)</desc>
+  </programme>
+  <programme start="20200923060000 +0200" stop="20200923081500 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Torneo de Hamburgo</title>
+    <desc lang="es">El ruso, Daniil Medvedev y el griego, Stefanos Tsitsipas son los dos primeros cabezas de serie del ATP 500 de Rotterdam, en el que han entrado al cuadro principal dos españoles: Roberto Bautista y Pablo Carreño.(n)</desc>
+  </programme>
+  <programme start="20200923081500 +0200" stop="20200923100000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Heineken Champions Cup (T19/20): Toulouse - Ulster (Cuartos de Final)</title>
+    <desc lang="es">Toulouse, tetracampeón de Europa y vigente campeón de Francia, recibe a Ulster en el Ernest Wallon en el tercer choque de cuartos de final de la CHAMPIOPNS CUP. Los Rouge et Noir son favoritos apoyados en la magia de su genial bisagra Dupont-Ntamack, pero los irlandeses buscan la gran sorpresa tras perder la final de la PRO14 ante Leinster hace ocho días. Espectáculo asegurado.(n)</desc>
+  </programme>
+  <programme start="20200923100000 +0200" stop="20200923103000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Tactic Sport (T2020): Trofeo Príncipe de Asturias de Baiona. Septiembre  (versión larga)</title>
+    <desc lang="es">Repasamos las mejores competiciones vinculadas a la vela y el mar.(n)</desc>
+  </programme>
+  <programme start="20200923103000 +0200" stop="20200923123000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Torneo de Hamburgo</title>
+    <desc lang="es">El ruso, Daniil Medvedev y el griego, Stefanos Tsitsipas son los dos primeros cabezas de serie del ATP 500 de Rotterdam, en el que han entrado al cuadro principal dos españoles: Roberto Bautista y Pablo Carreño.(n)</desc>
+  </programme>
+  <programme start="20200923123000 +0200" stop="20200923133000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Nascar Cup Series (T2020): BassPro Shops NRA Night Race. Bristol</title>
+    <desc lang="es">La prueba automovilística más importante de Norteamérica afronta una nueva cita. A lo largo de 26 pruebas en la temporada regular los pilotos buscan un puesto en el playoff final a lo largo de las 10 últimas carreras. Solo 16 pilotos acceden a esa lucha final por el título de campeón de la edición de 2020, un año en el que Kyle Busch defiende la corona.(n)</desc>
+  </programme>
+  <programme start="20200923133000 +0200" stop="20200923143000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Elegidos (T20/21): Episodio 2</title>
+    <desc lang="es">Conducido por David Carnicero y con un cuarteto de lujo formado por Amaya Valdemoro, Lucio Angulo, Sitapha Savané y Néstor 'Che' García, ELEGIDOS es el programa donde puedes encontrar todo el baloncesto: lo mejor de la Liga Endesa, la Euroliga y las imágenes más espectaculares de la NBA. Un lugar en el que también puedes participar a través de las diferentes secciones de nuestros colaboradores.(n)</desc>
+  </programme>
+  <programme start="20200923143000 +0200" stop="20200923163000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Torneo de Hamburgo</title>
+    <desc lang="es">El ruso, Daniil Medvedev y el griego, Stefanos Tsitsipas son los dos primeros cabezas de serie del ATP 500 de Rotterdam, en el que han entrado al cuadro principal dos españoles: Roberto Bautista y Pablo Carreño.(n)</desc>
+  </programme>
+  <programme start="20200923163000 +0200" stop="20200923183000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Torneo de Hamburgo</title>
+    <desc lang="es">El ruso, Daniil Medvedev y el griego, Stefanos Tsitsipas son los dos primeros cabezas de serie del ATP 500 de Rotterdam, en el que han entrado al cuadro principal dos españoles: Roberto Bautista y Pablo Carreño.(n)</desc>
+  </programme>
+  <programme start="20200923183000 +0200" stop="20200923185500 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">NBA al día (T19/20): Episodio 134</title>
+    <desc lang="es">Una cita diaria con la última hora de la NBA, de la mano de Iñaki Cano y José Ajero. Todos los partidos que se han jugado en la madrugada resumidos con las mejores canastas, rebotes y asistencias.(n)</desc>
+  </programme>
+  <programme start="20200923185500 +0200" stop="20200923211000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Liga Endesa (T20/21): Valencia Basket Club - MoraBanc Andorra</title>
+    <desc lang="es">La mejor liga de baloncesto de Europa se juega en Movistar+, donde ofrecemos todos los partidos de cada jornada de Liga Endesa.(n)</desc>
+  </programme>
+  <programme start="20200923211000 +0200" stop="20200923214000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">ATP al descubierto (T2020): Episodio 38</title>
+    <desc lang="es">Un espacio que analiza la actualidad de la ATP. A lo largo del año, el circuito profesional masculino se desplaza por todo el mundo: desde los torneos 250, 500 y 1000 hasta los Grand Slams.(n)</desc>
+  </programme>
+  <programme start="20200923214000 +0200" stop="20200924000000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Liga Endesa (T20/21): RetaBet Bilbao Basket - Iberostar Tenerife</title>
+    <desc lang="es">La mejor liga de baloncesto de Europa se juega en Movistar+, donde ofrecemos todos los partidos de cada jornada de Liga Endesa.(n)</desc>
+  </programme>
+  <programme start="20200924000000 +0200" stop="20200924003000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">NBA al día (T19/20): Episodio 134</title>
+    <desc lang="es">Una cita diaria con la última hora de la NBA, de la mano de Iñaki Cano y José Ajero. Todos los partidos que se han jugado en la madrugada resumidos con las mejores canastas, rebotes y asistencias.(n)</desc>
+  </programme>
+  <programme start="20200924003000 +0200" stop="20200924054500 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">NBA</title>
+    <desc lang="es">Una temporada más, la mejor liga de baloncesto del mundo continúa en Movistar+. Con 30 equipos, y todas sus estrellas, luchando por un título que la temporada pasada fue para los Toronto Raptors. El anillo más codiciado del mundo está en juego. ¡Esto es NBA!(n)</desc>
+  </programme>
+  <programme start="20200924054500 +0200" stop="20200924081500 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Torneo de Roma (T2020): N. Djokovic - D. Schwartzman. Final</title>
+    <desc lang="es">El Masters 1000 de Roma se juega en un mes poco habitual, para dar comienzo a la parte principal de lo que en 2020 va a ser la temporada de tierra, que se completará con el ATP 500 de Hamburgo y el Grand Slam de Roland Garros. A la cita italiana no van a faltar los dos mejores tenistas del circuito: Rafa Nadal y Novak Djokovic.(n)</desc>
+  </programme>
+  <programme start="20200924081500 +0200" stop="20200924100000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Liga Endesa (T20/21): RetaBet Bilbao Basket - Iberostar Tenerife</title>
+    <desc lang="es">La mejor liga de baloncesto de Europa se juega en Movistar+, donde ofrecemos todos los partidos de cada jornada de Liga Endesa.(n)</desc>
+  </programme>
+  <programme start="20200924100000 +0200" stop="20200924114500 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Heineken Champions Cup (T19/20): Exeter Chiefs - Northampton Saints (Cuartos de Final)</title>
+    <desc lang="es">Exeter Chiefs y Northampton Saints cierran los cuartos de final de la CHAMPIONS CUP con su derbi en Sandy Park. Los de Rob Baxter han jugado las últimas cuatro finales de Premiership con un crecimiento imparable y están ante su gran oportunidad europea. Enfrente, los Saints dejan el cartel de favorito a su rival y apelarán a la dirección del galés Biggar y la velocidad del australiano Naiyaravoro para dar el golpe. 100% rugby inglés.(n)</desc>
+  </programme>
+  <programme start="20200924114500 +0200" stop="20200924134500 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">NBA (T19/20): Miami Heat - Boston Celtics (4ª Final de Conferencia)</title>
+    <desc lang="es">Cuarto partido de la final del Oeste con ventaja 2-1 para Miami. Boston perdió los dos primeros, pese a tener claras ventajas, lo que provocó una crisis de vestuario, crisis que han resuelto ganando el tercero.(n)</desc>
+  </programme>
+  <programme start="20200924134500 +0200" stop="20200924143000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Generación NBA (T19/20): Episodio 35</title>
+    <desc lang="es">Programa semanal presentado por Antoni Daimiel y Quique Peinado en el que repasamos la actualidad de la NBA y las actuaciones de los españoles: los mejores mates, asistencias, tapones... 'Generación NBA+' pone canasta, cronómetro y balón para analizar todo el mundo NBA a ritmo de partido.(n)</desc>
+  </programme>
+  <programme start="20200924143000 +0200" stop="20200924163000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Torneo de Hamburgo</title>
+    <desc lang="es">El ruso, Daniil Medvedev y el griego, Stefanos Tsitsipas son los dos primeros cabezas de serie del ATP 500 de Rotterdam, en el que han entrado al cuadro principal dos españoles: Roberto Bautista y Pablo Carreño.(n)</desc>
+  </programme>
+  <programme start="20200924163000 +0200" stop="20200924183000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Torneo de Hamburgo</title>
+    <desc lang="es">El ruso, Daniil Medvedev y el griego, Stefanos Tsitsipas son los dos primeros cabezas de serie del ATP 500 de Rotterdam, en el que han entrado al cuadro principal dos españoles: Roberto Bautista y Pablo Carreño.(n)</desc>
+  </programme>
+  <programme start="20200924183000 +0200" stop="20200924185500 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">ATP al descubierto (T2020): Episodio 38</title>
+    <desc lang="es">Un espacio que analiza la actualidad de la ATP. A lo largo del año, el circuito profesional masculino se desplaza por todo el mundo: desde los torneos 250, 500 y 1000 hasta los Grand Slams.(n)</desc>
+  </programme>
+  <programme start="20200924185500 +0200" stop="20200924211000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Liga Endesa (T20/21): UCAM Murcia CB - Movistar Estudiantes</title>
+    <desc lang="es">La mejor liga de baloncesto de Europa se juega en Movistar+, donde ofrecemos todos los partidos de cada jornada de Liga Endesa.(n)</desc>
+  </programme>
+  <programme start="20200924211000 +0200" stop="20200924214000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Track and Field (T2020): Episodio 24</title>
+    <desc lang="es">La Diamond League es una de las competiciones más prestigiosas del Atletismo mundial. En Track &amp; Field conoceremos cada semana a los protagonistas que después nos hacen disfrutar con sus marcas sobre el tartán de cada una de las citas de esta competición. Tendremos entrevistas exclusivas, reportajes y aprenderemos junto a las estrellas de este deporte a practicar algunas de sus disciplinas. También recordaremos algunos de los momentos históricos.(n)</desc>
+  </programme>
+  <programme start="20200924214000 +0200" stop="20200925000000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">Liga Endesa (T20/21): Urbas Fuenlabrada - TD Systems Baskonia</title>
+    <desc lang="es">La mejor liga de baloncesto de Europa se juega en Movistar+, donde ofrecemos todos los partidos de cada jornada de Liga Endesa.(n)</desc>
+  </programme>
+  <programme start="20200925000000 +0200" stop="20200925003000 +0200" channel="SPAIN | MOVISTAR DEPORTE 8">
+    <title lang="es">NBA al día (T19/20): Episodio 135</title>
+    <desc lang="es">Una cita diaria con la última hora de la NBA, de la mano de Iñaki Cano y José Ajero. Todos los partidos que se han jugado en la madrugada resumidos con las mejores canastas, rebotes y asistencias.(n)</desc>
+  </programme>
+  <programme start="20200922001500 +0200" stop="20200922004500 +0200" channel="Movistar Deportes">
+    <title lang="es">NBA al día (T19/20): Episodio 132</title>
+    <desc lang="es">Una cita diaria con la última hora de la NBA, de la mano de Iñaki Cano y José Ajero. Todos los partidos que se han jugado en la madrugada resumidos con las mejores canastas, rebotes y asistencias.(n)</desc>
+  </programme>
+  <programme start="20200922004500 +0200" stop="20200922011500 +0200" channel="Movistar Deportes">
+    <title lang="es">NBA en acción (T19/20): Episodio 30</title>
+    <desc lang="es">Magazine que repasa la actualidad semanal de la mejor Liga de baloncesto del mundo. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.(n)</desc>
+  </programme>
+  <programme start="20200922011500 +0200" stop="20200922021500 +0200" channel="Movistar Deportes">
+    <title lang="es">Generación NBA (T19/20): Episodio 34</title>
+    <desc lang="es">Programa semanal presentado por Antoni Daimiel y Quique Peinado en el que repasamos la actualidad de la NBA y las actuaciones de los españoles: los mejores mates, asistencias, tapones... 'Generación NBA+' pone canasta, cronómetro y balón para analizar todo el mundo NBA a ritmo de partido.(n)</desc>
+  </programme>
+  <programme start="20200922021500 +0200" stop="20200922054500 +0200" channel="Movistar Deportes">
+    <title lang="es">NFL (T20/21): Las Vegas Raiders - New Orleans Saints</title>
+    <desc lang="es">Una temporada más, Movistar+ se vuelca con una de las competiciones más espectaculares y emocionantes de Estados Unidos: la NFL. 32 conjuntos repartidos en ocho divisiones y dos conferencias -Americana y Nacional-, disputan una temporada regular de 17 jornadas y unas rondas eliminatorias que tendrán como colofón el gran partido final, la Super Bowl.(n)</desc>
+  </programme>
+  <programme start="20200922054500 +0200" stop="20200922074500 +0200" channel="Movistar Deportes">
+    <title lang="es">Liga Endesa (T20/21): Iberostar Tenerife - Casademont Zaragoza</title>
+    <desc lang="es">La mejor liga de baloncesto de Europa se juega en Movistar+, donde ofrecemos todos los partidos de cada jornada de Liga Endesa.(n)</desc>
+  </programme>
+  <programme start="20200922074500 +0200" stop="20200922080000 +0200" channel="Movistar Deportes">
+    <title lang="es">El Quinto Cuarto (T20/21): Episodio 1</title>
+    <desc lang="es">Una cita diaria con la última hora de la NBA, de la mano de Iñaki Cano y José Ajero. Todos los partidos que se han jugado en la madrugada resumidos con las mejores canastas, rebotes y asistencias.(n)</desc>
+  </programme>
+  <programme start="20200922080000 +0200" stop="20200922101500 +0200" channel="Movistar Deportes">
+    <title lang="es">Torneo de Hamburgo</title>
+    <desc lang="es">El Masters 1000 de Roma se juega en un mes poco habitual, para dar comienzo a la parte principal de lo que en 2020 va a ser la temporada de tierra, que se completará con el ATP 500 de Hamburgo y el Grand Slam de Roland Garros. A la cita italiana no van a faltar los dos mejores tenistas del circuito: Rafa Nadal y Novak Djokovic.(n)</desc>
+  </programme>
+  <programme start="20200922101500 +0200" stop="20200922103000 +0200" channel="Movistar Deportes">
+    <title lang="es">El Quinto Cuarto (T20/21): Episodio 1</title>
+    <desc lang="es">sin descripción.(n)</desc>
+  </programme>
+  <programme start="20200922103000 +0200" stop="20200922123000 +0200" channel="Movistar Deportes">
+    <title lang="es">Torneo de Hamburgo</title>
+    <desc lang="es">El ruso, Daniil Medvedev y el griego, Stefanos Tsitsipas son los dos primeros cabezas de serie del ATP 500 de Rotterdam, en el que han entrado al cuadro principal dos españoles: Roberto Bautista y Pablo Carreño.(n)</desc>
+  </programme>
+  <programme start="20200922123000 +0200" stop="20200922153000 +0200" channel="Movistar Deportes">
+    <title lang="es">NBA (T19/20): Miami Heat - Boston Celtics (4ª Final de Conferencia)</title>
+    <desc lang="es">La mejor liga de baloncesto de Europa se juega en Movistar+, donde ofrecemos todos los partidos de cada jornada de Liga Endesa.(n)</desc>
+  </programme>
+  <programme start="20200922153000 +0200" stop="20200922183000 +0200" channel="Movistar Deportes">
+    <title lang="es">Torneo de Hamburgo</title>
+    <desc lang="es">El ruso, Daniil Medvedev y el griego, Stefanos Tsitsipas son los dos primeros cabezas de serie del ATP 500 de Rotterdam, en el que han entrado al cuadro principal dos españoles: Roberto Bautista y Pablo Carreño.(n)</desc>
+  </programme>
+  <programme start="20200922183000 +0200" stop="20200922203000 +0200" channel="Movistar Deportes">
+    <title lang="es">Torneo de Hamburgo</title>
+    <desc lang="es">El ruso, Daniil Medvedev y el griego, Stefanos Tsitsipas son los dos primeros cabezas de serie del ATP 500 de Rotterdam, en el que han entrado al cuadro principal dos españoles: Roberto Bautista y Pablo Carreño.(n)</desc>
+  </programme>
+  <programme start="20200922203000 +0200" stop="20200922230000 +0200" channel="Movistar Deportes">
+    <title lang="es">MLB (T2020): Cleveland Indians - Chicago White Sox</title>
+    <desc lang="es">Las grandes Ligas de Béisbol tienen un lugar privilegiado en Movistar +, donde ofrecemos los mejores partidos de cada jornada entre los equipos más destacados de la Liga Americana y de la Liga Nacional. Incluida la cita más importante de la temporada, las World Series, que enfrenta a los campeones de cada Liga al mejor de siete partidos.(n)</desc>
+  </programme>
+  <programme start="20200922230000 +0200" stop="20200923000000 +0200" channel="Movistar Deportes">
+    <title lang="es">NFL en acción (T20/21): Jornada 2</title>
+    <desc lang="es">Vive toda la emoción de cada jornada, sin perder un solo detalle, con un amplio resumen de lo que acontece en cada encuentro de la NFL.(n)</desc>
+  </programme>
+  <programme start="20200923000000 +0200" stop="20200923030000 +0200" channel="Movistar Deportes">
+    <title lang="es">NBA al día (T19/20): Episodio 133</title>
+    <desc lang="es">Una cita diaria con la última hora de la NBA, de la mano de Iñaki Cano y José Ajero. Todos los partidos que se han jugado en la madrugada resumidos con las mejores canastas, rebotes y asistencias.(n)</desc>
+  </programme>
+  <programme start="20200923030000 +0200" stop="20200923060000 +0200" channel="Movistar Deportes">
+    <title lang="es">NBA (T19/20): Denver Nuggets - Los Angeles Lakers (3ª Final de Conferencia)</title>
+    <desc lang="es">Tercer partido de la Final de la Conferencia Oeste con ventaja 2-0 para Lakers, que ganaron con un triple agónico de Davies el segundo partido. Denver vuelve a demostrar que va a dar guerra.(n)</desc>
+  </programme>
+  <programme start="20200923060000 +0200" stop="20200923081500 +0200" channel="Movistar Deportes">
+    <title lang="es">Torneo de Hamburgo</title>
+    <desc lang="es">El ruso, Daniil Medvedev y el griego, Stefanos Tsitsipas son los dos primeros cabezas de serie del ATP 500 de Rotterdam, en el que han entrado al cuadro principal dos españoles: Roberto Bautista y Pablo Carreño.(n)</desc>
+  </programme>
+  <programme start="20200923081500 +0200" stop="20200923100000 +0200" channel="Movistar Deportes">
+    <title lang="es">Heineken Champions Cup (T19/20): Toulouse - Ulster (Cuartos de Final)</title>
+    <desc lang="es">Toulouse, tetracampeón de Europa y vigente campeón de Francia, recibe a Ulster en el Ernest Wallon en el tercer choque de cuartos de final de la CHAMPIOPNS CUP. Los Rouge et Noir son favoritos apoyados en la magia de su genial bisagra Dupont-Ntamack, pero los irlandeses buscan la gran sorpresa tras perder la final de la PRO14 ante Leinster hace ocho días. Espectáculo asegurado.(n)</desc>
+  </programme>
+  <programme start="20200923100000 +0200" stop="20200923103000 +0200" channel="Movistar Deportes">
+    <title lang="es">Tactic Sport (T2020): Trofeo Príncipe de Asturias de Baiona. Septiembre  (versión larga)</title>
+    <desc lang="es">Repasamos las mejores competiciones vinculadas a la vela y el mar.(n)</desc>
+  </programme>
+  <programme start="20200923103000 +0200" stop="20200923123000 +0200" channel="Movistar Deportes">
+    <title lang="es">Torneo de Hamburgo</title>
+    <desc lang="es">El ruso, Daniil Medvedev y el griego, Stefanos Tsitsipas son los dos primeros cabezas de serie del ATP 500 de Rotterdam, en el que han entrado al cuadro principal dos españoles: Roberto Bautista y Pablo Carreño.(n)</desc>
+  </programme>
+  <programme start="20200923123000 +0200" stop="20200923133000 +0200" channel="Movistar Deportes">
+    <title lang="es">Nascar Cup Series (T2020): BassPro Shops NRA Night Race. Bristol</title>
+    <desc lang="es">La prueba automovilística más importante de Norteamérica afronta una nueva cita. A lo largo de 26 pruebas en la temporada regular los pilotos buscan un puesto en el playoff final a lo largo de las 10 últimas carreras. Solo 16 pilotos acceden a esa lucha final por el título de campeón de la edición de 2020, un año en el que Kyle Busch defiende la corona.(n)</desc>
+  </programme>
+  <programme start="20200923133000 +0200" stop="20200923143000 +0200" channel="Movistar Deportes">
+    <title lang="es">Elegidos (T20/21): Episodio 2</title>
+    <desc lang="es">Conducido por David Carnicero y con un cuarteto de lujo formado por Amaya Valdemoro, Lucio Angulo, Sitapha Savané y Néstor 'Che' García, ELEGIDOS es el programa donde puedes encontrar todo el baloncesto: lo mejor de la Liga Endesa, la Euroliga y las imágenes más espectaculares de la NBA. Un lugar en el que también puedes participar a través de las diferentes secciones de nuestros colaboradores.(n)</desc>
+  </programme>
+  <programme start="20200923143000 +0200" stop="20200923163000 +0200" channel="Movistar Deportes">
+    <title lang="es">Torneo de Hamburgo</title>
+    <desc lang="es">El ruso, Daniil Medvedev y el griego, Stefanos Tsitsipas son los dos primeros cabezas de serie del ATP 500 de Rotterdam, en el que han entrado al cuadro principal dos españoles: Roberto Bautista y Pablo Carreño.(n)</desc>
+  </programme>
+  <programme start="20200923163000 +0200" stop="20200923183000 +0200" channel="Movistar Deportes">
+    <title lang="es">Torneo de Hamburgo</title>
+    <desc lang="es">El ruso, Daniil Medvedev y el griego, Stefanos Tsitsipas son los dos primeros cabezas de serie del ATP 500 de Rotterdam, en el que han entrado al cuadro principal dos españoles: Roberto Bautista y Pablo Carreño.(n)</desc>
+  </programme>
+  <programme start="20200923183000 +0200" stop="20200923185500 +0200" channel="Movistar Deportes">
+    <title lang="es">NBA al día (T19/20): Episodio 134</title>
+    <desc lang="es">Una cita diaria con la última hora de la NBA, de la mano de Iñaki Cano y José Ajero. Todos los partidos que se han jugado en la madrugada resumidos con las mejores canastas, rebotes y asistencias.(n)</desc>
+  </programme>
+  <programme start="20200923185500 +0200" stop="20200923211000 +0200" channel="Movistar Deportes">
+    <title lang="es">Liga Endesa (T20/21): Valencia Basket Club - MoraBanc Andorra</title>
+    <desc lang="es">La mejor liga de baloncesto de Europa se juega en Movistar+, donde ofrecemos todos los partidos de cada jornada de Liga Endesa.(n)</desc>
+  </programme>
+  <programme start="20200923211000 +0200" stop="20200923214000 +0200" channel="Movistar Deportes">
+    <title lang="es">ATP al descubierto (T2020): Episodio 38</title>
+    <desc lang="es">Un espacio que analiza la actualidad de la ATP. A lo largo del año, el circuito profesional masculino se desplaza por todo el mundo: desde los torneos 250, 500 y 1000 hasta los Grand Slams.(n)</desc>
+  </programme>
+  <programme start="20200923214000 +0200" stop="20200924000000 +0200" channel="Movistar Deportes">
+    <title lang="es">Liga Endesa (T20/21): RetaBet Bilbao Basket - Iberostar Tenerife</title>
+    <desc lang="es">La mejor liga de baloncesto de Europa se juega en Movistar+, donde ofrecemos todos los partidos de cada jornada de Liga Endesa.(n)</desc>
+  </programme>
+  <programme start="20200924000000 +0200" stop="20200924003000 +0200" channel="Movistar Deportes">
+    <title lang="es">NBA al día (T19/20): Episodio 134</title>
+    <desc lang="es">Una cita diaria con la última hora de la NBA, de la mano de Iñaki Cano y José Ajero. Todos los partidos que se han jugado en la madrugada resumidos con las mejores canastas, rebotes y asistencias.(n)</desc>
+  </programme>
+  <programme start="20200924003000 +0200" stop="20200924054500 +0200" channel="Movistar Deportes">
+    <title lang="es">NBA</title>
+    <desc lang="es">Una temporada más, la mejor liga de baloncesto del mundo continúa en Movistar+. Con 30 equipos, y todas sus estrellas, luchando por un título que la temporada pasada fue para los Toronto Raptors. El anillo más codiciado del mundo está en juego. ¡Esto es NBA!(n)</desc>
+  </programme>
+  <programme start="20200924054500 +0200" stop="20200924081500 +0200" channel="Movistar Deportes">
+    <title lang="es">Torneo de Roma (T2020): N. Djokovic - D. Schwartzman. Final</title>
+    <desc lang="es">El Masters 1000 de Roma se juega en un mes poco habitual, para dar comienzo a la parte principal de lo que en 2020 va a ser la temporada de tierra, que se completará con el ATP 500 de Hamburgo y el Grand Slam de Roland Garros. A la cita italiana no van a faltar los dos mejores tenistas del circuito: Rafa Nadal y Novak Djokovic.(n)</desc>
+  </programme>
+  <programme start="20200924081500 +0200" stop="20200924100000 +0200" channel="Movistar Deportes">
+    <title lang="es">Liga Endesa (T20/21): RetaBet Bilbao Basket - Iberostar Tenerife</title>
+    <desc lang="es">La mejor liga de baloncesto de Europa se juega en Movistar+, donde ofrecemos todos los partidos de cada jornada de Liga Endesa.(n)</desc>
+  </programme>
+  <programme start="20200924100000 +0200" stop="20200924114500 +0200" channel="Movistar Deportes">
+    <title lang="es">Heineken Champions Cup (T19/20): Exeter Chiefs - Northampton Saints (Cuartos de Final)</title>
+    <desc lang="es">Exeter Chiefs y Northampton Saints cierran los cuartos de final de la CHAMPIONS CUP con su derbi en Sandy Park. Los de Rob Baxter han jugado las últimas cuatro finales de Premiership con un crecimiento imparable y están ante su gran oportunidad europea. Enfrente, los Saints dejan el cartel de favorito a su rival y apelarán a la dirección del galés Biggar y la velocidad del australiano Naiyaravoro para dar el golpe. 100% rugby inglés.(n)</desc>
+  </programme>
+  <programme start="20200924114500 +0200" stop="20200924134500 +0200" channel="Movistar Deportes">
+    <title lang="es">NBA (T19/20): Miami Heat - Boston Celtics (4ª Final de Conferencia)</title>
+    <desc lang="es">Cuarto partido de la final del Oeste con ventaja 2-1 para Miami. Boston perdió los dos primeros, pese a tener claras ventajas, lo que provocó una crisis de vestuario, crisis que han resuelto ganando el tercero.(n)</desc>
+  </programme>
+  <programme start="20200924134500 +0200" stop="20200924143000 +0200" channel="Movistar Deportes">
+    <title lang="es">Generación NBA (T19/20): Episodio 35</title>
+    <desc lang="es">Programa semanal presentado por Antoni Daimiel y Quique Peinado en el que repasamos la actualidad de la NBA y las actuaciones de los españoles: los mejores mates, asistencias, tapones... 'Generación NBA+' pone canasta, cronómetro y balón para analizar todo el mundo NBA a ritmo de partido.(n)</desc>
+  </programme>
+  <programme start="20200924143000 +0200" stop="20200924163000 +0200" channel="Movistar Deportes">
+    <title lang="es">Torneo de Hamburgo</title>
+    <desc lang="es">El ruso, Daniil Medvedev y el griego, Stefanos Tsitsipas son los dos primeros cabezas de serie del ATP 500 de Rotterdam, en el que han entrado al cuadro principal dos españoles: Roberto Bautista y Pablo Carreño.(n)</desc>
+  </programme>
+  <programme start="20200924163000 +0200" stop="20200924183000 +0200" channel="Movistar Deportes">
+    <title lang="es">Torneo de Hamburgo</title>
+    <desc lang="es">El ruso, Daniil Medvedev y el griego, Stefanos Tsitsipas son los dos primeros cabezas de serie del ATP 500 de Rotterdam, en el que han entrado al cuadro principal dos españoles: Roberto Bautista y Pablo Carreño.(n)</desc>
+  </programme>
+  <programme start="20200924183000 +0200" stop="20200924185500 +0200" channel="Movistar Deportes">
+    <title lang="es">ATP al descubierto (T2020): Episodio 38</title>
+    <desc lang="es">Un espacio que analiza la actualidad de la ATP. A lo largo del año, el circuito profesional masculino se desplaza por todo el mundo: desde los torneos 250, 500 y 1000 hasta los Grand Slams.(n)</desc>
+  </programme>
+  <programme start="20200924185500 +0200" stop="20200924211000 +0200" channel="Movistar Deportes">
+    <title lang="es">Liga Endesa (T20/21): UCAM Murcia CB - Movistar Estudiantes</title>
+    <desc lang="es">La mejor liga de baloncesto de Europa se juega en Movistar+, donde ofrecemos todos los partidos de cada jornada de Liga Endesa.(n)</desc>
+  </programme>
+  <programme start="20200924211000 +0200" stop="20200924214000 +0200" channel="Movistar Deportes">
+    <title lang="es">Track and Field (T2020): Episodio 24</title>
+    <desc lang="es">La Diamond League es una de las competiciones más prestigiosas del Atletismo mundial. En Track &amp; Field conoceremos cada semana a los protagonistas que después nos hacen disfrutar con sus marcas sobre el tartán de cada una de las citas de esta competición. Tendremos entrevistas exclusivas, reportajes y aprenderemos junto a las estrellas de este deporte a practicar algunas de sus disciplinas. También recordaremos algunos de los momentos históricos.(n)</desc>
+  </programme>
+  <programme start="20200924214000 +0200" stop="20200925000000 +0200" channel="Movistar Deportes">
+    <title lang="es">Liga Endesa (T20/21): Urbas Fuenlabrada - TD Systems Baskonia</title>
+    <desc lang="es">La mejor liga de baloncesto de Europa se juega en Movistar+, donde ofrecemos todos los partidos de cada jornada de Liga Endesa.(n)</desc>
+  </programme>
+  <programme start="20200925000000 +0200" stop="20200925003000 +0200" channel="Movistar Deportes">
+    <title lang="es">NBA al día (T19/20): Episodio 135</title>
+    <desc lang="es">Una cita diaria con la última hora de la NBA, de la mano de Iñaki Cano y José Ajero. Todos los partidos que se han jugado en la madrugada resumidos con las mejores canastas, rebotes y asistencias.(n)</desc>
+  </programme>
+  <programme start="20200922003500 +0200" stop="20200922012900 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">El jinete sin cabeza de la leyenda de Sleepy Hollow atormenta a Melinda y el libro legendario aparece misteriosamente en la escuela de su hijo.(n)</desc>
+  </programme>
+  <programme start="20200922012900 +0200" stop="20200922021500 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">Melinda ayuda a un paciente de Eli que cree que está siendo obsevado por el fantasma de su hermana. Mientras, Melinda y Jim están preocupadas porque Aiden empezó a hablar de unos amiguitos que no son fantasmas sino alguna otra cosa.(n)</desc>
+  </programme>
+  <programme start="20200922021500 +0200" stop="20200922025900 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">Tras una visión de su propia muerte a manos de un asesino sobrenatural, Baird trata de engañar al destino y detener la profecía mortal.(n)</desc>
+  </programme>
+  <programme start="20200922025900 +0200" stop="20200922034300 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">El equipo investiga un misterioso carnaval ambulante que esconde un siniestro secreto relacionado con un mago que utiliza la magia de una forma corrupta.(n)</desc>
+  </programme>
+  <programme start="20200922034300 +0200" stop="20200922042700 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">Para parar la difusión de Pura Maldad, el equipo tiene que encontrar el Ojo de Ra y revelar el misterio del Triángulo de las Bermudas.(n)</desc>
+  </programme>
+  <programme start="20200922042700 +0200" stop="20200922045700 +0200" channel="[ES]  SYFY">
+    <title lang="es">Universo Syfy</title>
+    <desc lang="es">Programa que propone la divulgación científica como entretenimiento.\r\n\r\n.(n)</desc>
+  </programme>
+  <programme start="20200922045700 +0200" stop="20200922054300 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">La base Stargate resulta contaminada por una peligrosa infección que convierte a sus habitantes en bestias.(n)</desc>
+  </programme>
+  <programme start="20200922054300 +0200" stop="20200922062800 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">El equipo SG-1 es enviado a buscar al equipo SG-9 cuando éste no consigue regresar.(n)</desc>
+  </programme>
+  <programme start="20200922062800 +0200" stop="20200922071400 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">Jack resulta herido por un alienígena de cristal; éste replica su forma y trata de curarlo.(n)</desc>
+  </programme>
+  <programme start="20200922071400 +0200" stop="20200922080000 +0200" channel="[ES]  SYFY">
+    <title lang="es">Colony</title>
+    <desc lang="es">En el episodio final de la temporada, una revelación sobre el destino de la colonia obliga a la familia Bowman a tomar una complicada decisión, mientras que el bloque se ve obligado a rendirse a La Fábrica.(n)</desc>
+  </programme>
+  <programme start="20200922080000 +0200" stop="20200922083100 +0200" channel="[ES]  SYFY">
+    <title lang="es">Universo Syfy</title>
+    <desc lang="es">Programa que propone la divulgación científica como entretenimiento.\r\n\r\n.(n)</desc>
+  </programme>
+  <programme start="20200922083100 +0200" stop="20200922091300 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">La desagradable Cindy Kroger consigue popularidad gracias a una poción de amor mágica y los bibliotecarios deberán evitar que envío un misil de amor que convertirá a todo el mundo en su seguidor.(n)</desc>
+  </programme>
+  <programme start="20200922091300 +0200" stop="20200922095700 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">La extraña muerte de un hombre, que falleció tras estallar en llamas envía a Jake, Cassandra y Ezekiel a un curioso retiro espiritual. Allí esperan encontrar la clave de la vida eterna.(n)</desc>
+  </programme>
+  <programme start="20200922095700 +0200" stop="20200922104100 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">Un despiadado coleccionista de artefactos mágicos se apodera de la patria del sagrado Rey Mono, poniendo en riesgo el equilibrio del universo y detonando una misión de los Librarians para salvar el territorio en peligro.(n)</desc>
+  </programme>
+  <programme start="20200922104100 +0200" stop="20200922112500 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">El equipo se enfrenta a dos frentes de batalla cuando se infiltran en la Biblioteca DOSA y Apep al mismo tiempo.(n)</desc>
+  </programme>
+  <programme start="20200922112500 +0200" stop="20200922121100 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">El equipo SG-1 viaja al planeta Cimmeria en su búsqueda de aliados contra el Goa'uld.(n)</desc>
+  </programme>
+  <programme start="20200922121100 +0200" stop="20200922125700 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">Daniel Jackson descubre que el Stargate fue activado en 1945.(n)</desc>
+  </programme>
+  <programme start="20200922125700 +0200" stop="20200922134300 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">Ha llegado el momento de que Rya, el hijo de Teal, tenga su primtal.(n)</desc>
+  </programme>
+  <programme start="20200922134300 +0200" stop="20200922143300 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">O'Neill, Carter y Teal regresan a través del Stargate y anuncian que Daniel Jackson fue asesinado.(n)</desc>
+  </programme>
+  <programme start="20200922143300 +0200" stop="20200922152700 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">Jim, sorprendido por la indiferencia de su colega a un encuentro paranormal, sospecha que está involucrado en la desaparición repentina de un estudiante de medicina.(n)</desc>
+  </programme>
+  <programme start="20200922152700 +0200" stop="20200922162300 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">Cuando un fantasma lleva a Melinda a su cuerpo en el entrepiso de un edificio, Melinda se envuelve en el misterio de un asesinato cada vez más profundo.(n)</desc>
+  </programme>
+  <programme start="20200922162300 +0200" stop="20200922175700 +0200" channel="[ES]  SYFY">
+    <title lang="es">Dredd</title>
+    <desc lang="es">En un futuro apocalíptico, en EE.UU. sólo queda una violenta y caótica megalópolis habitada por 800 millones de personas. Los agentes del orden, jueces y verdugos están dirigidos por el implacable Dredd, una leyenda de la justicia.(n)</desc>
+  </programme>
+  <programme start="20200922175700 +0200" stop="20200922192400 +0200" channel="[ES]  SYFY">
+    <title lang="es">Yo, Frankenstein</title>
+    <desc lang="es">Dos siglos después de su creación, la criatura del Dr. Frankenstein, Adam, vive en una ciudad en guerra que enfrenta a seres humanos e inmortales.(n)</desc>
+  </programme>
+  <programme start="20200922192400 +0200" stop="20200922201300 +0200" channel="[ES]  SYFY">
+    <title lang="es">Colony</title>
+    <desc lang="es">Will y Katie se ponen en riesgo para contactar con la Resistencia. Broussard ordena las piezas de los secretos del IGA.(n)</desc>
+  </programme>
+  <programme start="20200922201300 +0200" stop="20200922210700 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">Melinda verá por primera vez al espíritu de Julia Miller, la niña de once años que se esconde en el armario de Aiden.(n)</desc>
+  </programme>
+  <programme start="20200922210700 +0200" stop="20200922220000 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">Melinda Gordon no sabe a quién creer. Un joven de secundaria muere por un accidente mientras practicaba con su monopatín... o eso es lo que todo el mundo cree.(n)</desc>
+  </programme>
+  <programme start="20200922220000 +0200" stop="20200922225700 +0200" channel="[ES]  SYFY">
+    <title lang="es">Vagrant Queen</title>
+    <desc lang="es">El equipo llega a Wix con inesperados descubrimientos. La traición lleva a que se produzca un enfrentamiento sangriento.(n)</desc>
+  </programme>
+  <programme start="20200922225700 +0200" stop="20200923004800 +0200" channel="[ES]  SYFY">
+    <title lang="es">Abigail</title>
+    <desc lang="es">La joven Abigail vive en una ciudad cuyas fronteras se cerraron hace muchos años debido a una epidemia de una misteriosa enfermedad. El padre de Abby era uno de los enfermos, y se lo llevaron cuando ella tenía seis años.(n)</desc>
+  </programme>
+  <programme start="20200923004800 +0200" stop="20200923014100 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">Jim, sorprendido por la indiferencia de su colega a un encuentro paranormal, sospecha que está involucrado en la desaparición repentina de un estudiante de medicina.(n)</desc>
+  </programme>
+  <programme start="20200923014100 +0200" stop="20200923022500 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">Cuando un fantasma lleva a Melinda a su cuerpo en el entrepiso de un edificio, Melinda se envuelve en el misterio de un asesinato cada vez más profundo.(n)</desc>
+  </programme>
+  <programme start="20200923022500 +0200" stop="20200923030900 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">Para parar la difusión de Pura Maldad, el equipo tiene que encontrar el Ojo de Ra y revelar el misterio del Triángulo de las Bermudas.(n)</desc>
+  </programme>
+  <programme start="20200923030900 +0200" stop="20200923035200 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">La desagradable Cindy Kroger consigue popularidad gracias a una poción de amor mágica y los bibliotecarios deberán evitar que envío un misil de amor que convertirá a todo el mundo en su seguidor.(n)</desc>
+  </programme>
+  <programme start="20200923035200 +0200" stop="20200923043500 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">La extraña muerte de un hombre, que falleció tras estallar en llamas envía a Jake, Cassandra y Ezekiel a un curioso retiro espiritual. Allí esperan encontrar la clave de la vida eterna.(n)</desc>
+  </programme>
+  <programme start="20200923043500 +0200" stop="20200923045800 +0200" channel="[ES]  SYFY">
+    <title lang="es">Universo Syfy</title>
+    <desc lang="es">Programa que propone la divulgación científica como entretenimiento.\r\n\r\n.(n)</desc>
+  </programme>
+  <programme start="20200923045800 +0200" stop="20200923054400 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">El programa Stargate corre peligro de ser eliminado si el equipo no logra encontrar tecnología.(n)</desc>
+  </programme>
+  <programme start="20200923054400 +0200" stop="20200923062900 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">Kynthia seduce al coronel O'Neil en el planeta Argos, lo que reduce la esperanza de vida de éste a cien días.(n)</desc>
+  </programme>
+  <programme start="20200923062900 +0200" stop="20200923071400 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">El equipo SG-1 viaja al planeta Cimmeria en su búsqueda de aliados contra el Goa'uld.(n)</desc>
+  </programme>
+  <programme start="20200923071400 +0200" stop="20200923080000 +0200" channel="[ES]  SYFY">
+    <title lang="es">Colony</title>
+    <desc lang="es">Seis meses después de escapar de Los Ángeles, la familia Bowman y Snyder disfrutan de una vida sencilla en las montañas. Pero una visita inesperada lo cambia todo.(n)</desc>
+  </programme>
+  <programme start="20200923080000 +0200" stop="20200923084100 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">Un despiadado coleccionista de artefactos mágicos se apodera de la patria del sagrado Rey Mono, poniendo en riesgo el equilibrio del universo y detonando una misión de los Librarians para salvar el territorio en peligro.(n)</desc>
+  </programme>
+  <programme start="20200923084100 +0200" stop="20200923092400 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">El equipo se enfrenta a dos frentes de batalla cuando se infiltran en la Biblioteca DOSA y Apep al mismo tiempo.(n)</desc>
+  </programme>
+  <programme start="20200923092400 +0200" stop="20200923100800 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">Una secta secreta perteneciente al Vaticano descubre un antiguo mapa que detalla la localización de las cuatro piedras angulares de la Biblioteca de Alejandría. Flynn y los libreros entran en acción.(n)</desc>
+  </programme>
+  <programme start="20200923100800 +0200" stop="20200923105200 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">Santa Claus invita a Flynn, Baird y Jenkins a sus primeras vacaciones en siglos, deja su adorado trineo a cargo de los Libreros.(n)</desc>
+  </programme>
+  <programme start="20200923105200 +0200" stop="20200923113900 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">O'Neill, Carter y Teal regresan a través del Stargate y anuncian que Daniel Jackson fue asesinado.(n)</desc>
+  </programme>
+  <programme start="20200923113900 +0200" stop="20200923122500 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">Una de las madres de todos los Goa'uld le lava el cerebro a los hombres de Stargate con feromonas.(n)</desc>
+  </programme>
+  <programme start="20200923122500 +0200" stop="20200923131200 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">El Stargate SG-1 rescata a una niña a la que han implantado una bomba Naquadah inoperable.(n)</desc>
+  </programme>
+  <programme start="20200923131200 +0200" stop="20200923140100 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">El Stargate SG-1 viaja a un planeta en el que reconocen a Teal'c como el antiguo jefe Jaffa de Apophis.(n)</desc>
+  </programme>
+  <programme start="20200923140100 +0200" stop="20200923145500 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">Melinda verá por primera vez al espíritu de Julia Miller, la niña de once años que se esconde en el armario de Aiden.(n)</desc>
+  </programme>
+  <programme start="20200923145500 +0200" stop="20200923155000 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">Melinda Gordon no sabe a quién creer. Un joven de secundaria muere por un accidente mientras practicaba con su monopatín... o eso es lo que todo el mundo cree.(n)</desc>
+  </programme>
+  <programme start="20200923155000 +0200" stop="20200923173600 +0200" channel="[ES]  SYFY">
+    <title lang="es">El Rey Escorpión 3: Batalla por la redención</title>
+    <desc lang="es">En esta tercera entrega, Mathayus deberá recuperar el poder y la gloria perdida tras la muerte de su reina. Para ello, tendrá que defender a su pueblo y enfrentarse a un diabólico tirano.(n)</desc>
+  </programme>
+  <programme start="20200923173600 +0200" stop="20200923192400 +0200" channel="[ES]  SYFY">
+    <title lang="es">La brújula dorada</title>
+    <desc lang="es">Una niña de 12 años emprede un viaje en un mundo paralelo, en el que las almas de las personas se manifiestan como animales, para tratar de salvar a su mejor amigo.(n)</desc>
+  </programme>
+  <programme start="20200923192400 +0200" stop="20200923201200 +0200" channel="[ES]  SYFY">
+    <title lang="es">Colony</title>
+    <desc lang="es">Will evalúa la seguridad del campamento de la Resistencia. Katie quiere involucrarse más y Broussard y Amy encuentran supervivientes más allá del muro.(n)</desc>
+  </programme>
+  <programme start="20200923201200 +0200" stop="20200923210600 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">Ned y sus amigos tienen problemas en el estudio de radio de Grandview: un fantasma interrumpe la emisión de su programa.(n)</desc>
+  </programme>
+  <programme start="20200923210600 +0200" stop="20200923220200 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">Ned se siente atraído por una nueva chica, una bailarina algo introvertida y tímida. Melinda no tarda en darse cuenta de que parece esconder un gran secreto.(n)</desc>
+  </programme>
+  <programme start="20200923220200 +0200" stop="20200923234900 +0200" channel="[ES]  SYFY">
+    <title lang="es">Alien resurrección</title>
+    <desc lang="es">Dos siglos después de su muerte, la teniente Ripley vuelve a la vida mediante las avanzadas técnicas de clonación disponibles, pero no todo sale según lo planeado y termina poniendo a todo el equipo en peligro.(n)</desc>
+  </programme>
+  <programme start="20200923234900 +0200" stop="20200924014200 +0200" channel="[ES]  SYFY">
+    <title lang="es">Alien 3</title>
+    <desc lang="es">La teniente Ripley se enfrenta de nuevo a un alien, esta vez en un planeta prisión y sin armas para defenderse.(n)</desc>
+  </programme>
+  <programme start="20200924014200 +0200" stop="20200924022700 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">Melinda verá por primera vez al espíritu de Julia Miller, la niña de once años que se esconde en el armario de Aiden.(n)</desc>
+  </programme>
+  <programme start="20200924022700 +0200" stop="20200924031000 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">Melinda Gordon no sabe a quién creer. Un joven de secundaria muere por un accidente mientras practicaba con su monopatín... o eso es lo que todo el mundo cree.(n)</desc>
+  </programme>
+  <programme start="20200924031000 +0200" stop="20200924035200 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">Un despiadado coleccionista de artefactos mágicos se apodera de la patria del sagrado Rey Mono, poniendo en riesgo el equilibrio del universo y detonando una misión de los Librarians para salvar el territorio en peligro.(n)</desc>
+  </programme>
+  <programme start="20200924035200 +0200" stop="20200924043400 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">El equipo se enfrenta a dos frentes de batalla cuando se infiltran en la Biblioteca DOSA y Apep al mismo tiempo.(n)</desc>
+  </programme>
+  <programme start="20200924043400 +0200" stop="20200924050000 +0200" channel="[ES]  SYFY">
+    <title lang="es">Universo Syfy</title>
+    <desc lang="es">Programa que propone la divulgación científica como entretenimiento.\r\n\r\n.(n)</desc>
+  </programme>
+  <programme start="20200924050000 +0200" stop="20200924054500 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">Daniel Jackson descubre que el Stargate fue activado en 1945.(n)</desc>
+  </programme>
+  <programme start="20200924054500 +0200" stop="20200924063000 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">Ha llegado el momento de que Rya, el hijo de Teal, tenga su primtal.(n)</desc>
+  </programme>
+  <programme start="20200924063000 +0200" stop="20200924071400 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">O'Neill, Carter y Teal regresan a través del Stargate y anuncian que Daniel Jackson fue asesinado.(n)</desc>
+  </programme>
+  <programme start="20200924071400 +0200" stop="20200924080000 +0200" channel="[ES]  SYFY">
+    <title lang="es">Colony</title>
+    <desc lang="es">Will y Katie se ponen en riesgo para contactar con la Resistencia. Broussard ordena las piezas de los secretos del IGA.(n)</desc>
+  </programme>
+  <programme start="20200924080000 +0200" stop="20200924084400 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">Una secta secreta perteneciente al Vaticano descubre un antiguo mapa que detalla la localización de las cuatro piedras angulares de la Biblioteca de Alejandría. Flynn y los libreros entran en acción.(n)</desc>
+  </programme>
+  <programme start="20200924084400 +0200" stop="20200924092800 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">Santa Claus invita a Flynn, Baird y Jenkins a sus primeras vacaciones en siglos, deja su adorado trineo a cargo de los Libreros.(n)</desc>
+  </programme>
+  <programme start="20200924092800 +0200" stop="20200924101100 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">Cuando Flynn y Baird son transportados a su película clásica favorita, los libreros se sumergen en el mundo mágico del cine.(n)</desc>
+  </programme>
+  <programme start="20200924101100 +0200" stop="20200924105500 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">Cuando la gente comienza a resultar herida en las situaciones más desafortunadas, los libreros llegan a un casino en el que el propietario parece poseer un artefacto capaz de robar la suerte de las personas.(n)</desc>
+  </programme>
+  <programme start="20200924105500 +0200" stop="20200924114100 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">El Stargate SG-1 viaja a un planeta en el que reconocen a Teal'c como el antiguo jefe Jaffa de Apophis.(n)</desc>
+  </programme>
+  <programme start="20200924114100 +0200" stop="20200924122700 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">SG! viaja hasta un planeta donde Teal'c es arrestado por asesinato y juzgado. ¿Podrá el equipo salvar a Teal'c y probar que es inocente.(n)</desc>
+  </programme>
+  <programme start="20200924122700 +0200" stop="20200924131400 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">En su primera visita a un Nuevo planeta, el Stargate SG-1 se ve sometido a una actividad volcánica muy destructiva.(n)</desc>
+  </programme>
+  <programme start="20200924131400 +0200" stop="20200924140400 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">Tras un fallo técnico en el Stargate SG-1, O'Neill y Carter se encuentran en una cueva en medio de un paraje helado.(n)</desc>
+  </programme>
+  <programme start="20200924140400 +0200" stop="20200924145800 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">Ned y sus amigos tienen problemas en el estudio de radio de Grandview: un fantasma interrumpe la emisión de su programa.(n)</desc>
+  </programme>
+  <programme start="20200924145800 +0200" stop="20200924155400 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">Ned se siente atraído por una nueva chica, una bailarina algo introvertida y tímida. Melinda no tarda en darse cuenta de que parece esconder un gran secreto.(n)</desc>
+  </programme>
+  <programme start="20200924155400 +0200" stop="20200924173700 +0200" channel="[ES]  SYFY">
+    <title lang="es">Jennifer's Body</title>
+    <desc lang="es">La bella e inaccesible Jennifer, reina del instituto, es poseída por un demonio ávido de carne fresca. Ahora, todos los chicos que no tenían nada que hacer con Jennifer tienen su oportunidad.(n)</desc>
+  </programme>
+  <programme start="20200924173700 +0200" stop="20200924192400 +0200" channel="[ES]  SYFY">
+    <title lang="es">Species: Especie mortal</title>
+    <desc lang="es">Cuando una bella hembra híbrida humana/alienígena se escapa de un laboratorio de observación, el científico Javier Fich envía a un asesino del gobierno, a un psiquiatra, a una bióloga y a un antropólogo en su búsqueda.(n)</desc>
+  </programme>
+  <programme start="20200924192400 +0200" stop="20200924201300 +0200" channel="[ES]  SYFY">
+    <title lang="es">Colony</title>
+    <desc lang="es">En campamento de la Resistencia está sometido a control lo que hace sentir a Katie y Will en peligro. Mientras, Broussard pone en duda las intenciones de Amy después de que ésta presente un arriesgado plan.(n)</desc>
+  </programme>
+  <programme start="20200924201300 +0200" stop="20200924210700 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">Cuando Melinda descubre un secreto de familia, la locura asola el hospital local y también la ciudad. Un fantasma atormenta, sin motivo aparente, a un paciente que no le ha hecho nada.(n)</desc>
+  </programme>
+  <programme start="20200924210700 +0200" stop="20200924220200 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">La profesora de Antropología Oculta de Ned está siendo acosada por un admirador secreto. Pero no es un admirador cualquiera, es un fantasma muy insistente.(n)</desc>
+  </programme>
+  <programme start="20200924220200 +0200" stop="20200924235000 +0200" channel="[ES]  SYFY">
+    <title lang="es">Terminator</title>
+    <desc lang="es">Protagonizada por Arnold Schwarzenegger, es la primera de las cuatro películas de la saga Terminator. En ella, un cyborg indestructible es enviado desde el futuro para que asesine a Sarah Connor, madre del líder de la resistencia.(n)</desc>
+  </programme>
+  <programme start="20200924235000 +0200" stop="20200925004400 +0200" channel="[ES]  SYFY">
+    <title lang="es">Los 100</title>
+    <desc lang="es">Los planes de Clarke se ven interrumpidos.(n)</desc>
+  </programme>
+  <programme start="20200925004400 +0200" stop="20200925013700 +0200" channel="[ES]  SYFY">
+    <title lang="es">Vagrant Queen</title>
+    <desc lang="es">El equipo llega a Wix con inesperados descubrimientos. La traición lleva a que se produzca un enfrentamiento sangriento.(n)</desc>
+  </programme>
+  <programme start="20200925013700 +0200" stop="20200925022300 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">Ned y sus amigos tienen problemas en el estudio de radio de Grandview: un fantasma interrumpe la emisión de su programa.(n)</desc>
+  </programme>
+  <programme start="20200925022300 +0200" stop="20200925030900 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">Ned se siente atraído por una nueva chica, una bailarina algo introvertida y tímida. Melinda no tarda en darse cuenta de que parece esconder un gran secreto.(n)</desc>
+  </programme>
+  <programme start="20200925030900 +0200" stop="20200925035200 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">Una secta secreta perteneciente al Vaticano descubre un antiguo mapa que detalla la localización de las cuatro piedras angulares de la Biblioteca de Alejandría. Flynn y los libreros entran en acción.(n)</desc>
+  </programme>
+  <programme start="20200925035200 +0200" stop="20200925043400 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">Santa Claus invita a Flynn, Baird y Jenkins a sus primeras vacaciones en siglos, deja su adorado trineo a cargo de los Libreros.(n)</desc>
+  </programme>
+  <programme start="20200925043400 +0200" stop="20200925050100 +0200" channel="[ES]  SYFY">
+    <title lang="es">Universo Syfy</title>
+    <desc lang="es">Programa que propone la divulgación científica como entretenimiento.\r\n\r\n.(n)</desc>
+  </programme>
+  <programme start="20200925050100 +0200" stop="20200925054600 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">Una de las madres de todos los Goa'uld le lava el cerebro a los hombres de Stargate con feromonas.(n)</desc>
+  </programme>
+  <programme start="20200925054600 +0200" stop="20200925063000 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">El Stargate SG-1 rescata a una niña a la que han implantado una bomba Naquadah inoperable.(n)</desc>
+  </programme>
+  <programme start="20200925063000 +0200" stop="20200925071400 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">El Stargate SG-1 viaja a un planeta en el que reconocen a Teal'c como el antiguo jefe Jaffa de Apophis.(n)</desc>
+  </programme>
+  <programme start="20200925071400 +0200" stop="20200925080000 +0200" channel="[ES]  SYFY">
+    <title lang="es">Colony</title>
+    <desc lang="es">Will evalúa la seguridad del campamento de la Resistencia. Katie quiere involucrarse más y Broussard y Amy encuentran supervivientes más allá del muro.(n)</desc>
+  </programme>
+  <programme start="20200925080000 +0200" stop="20200925081100 +0200" channel="[ES]  SYFY">
+    <title lang="es">Universo Syfy</title>
+    <desc lang="es">Programa que propone la divulgación científica como entretenimiento.\r\n\r\n.(n)</desc>
+  </programme>
+  <programme start="20200925081100 +0200" stop="20200925085300 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">Cuando Flynn y Baird son transportados a su película clásica favorita, los libreros se sumergen en el mundo mágico del cine.(n)</desc>
+  </programme>
+  <programme start="20200925085300 +0200" stop="20200925093600 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">Cuando la gente comienza a resultar herida en las situaciones más desafortunadas, los libreros llegan a un casino en el que el propietario parece poseer un artefacto capaz de robar la suerte de las personas.(n)</desc>
+  </programme>
+  <programme start="20200925093600 +0200" stop="20200925101900 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">Un Librero procedente del pasado se une a los Libreros del presente con el fin de enfrentarse a un poderoso enemigo de su época que anda libre en el mundo moderno.(n)</desc>
+  </programme>
+  <programme start="20200925101900 +0200" stop="20200925110300 +0200" channel="[ES]  SYFY">
+    <title lang="es">The Librarians</title>
+    <desc lang="es">Cuando Baird busca a Nicole con el fin de que retome su relación con la Librería, ambas terminan envueltas en una misión centrada en recuperar un peligroso objeto antes de que caiga en manos de unos ladrones de tumbas rusos.(n)</desc>
+  </programme>
+  <programme start="20200925110300 +0200" stop="20200925115000 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">Tras un fallo técnico en el Stargate SG-1, O'Neill y Carter se encuentran en una cueva en medio de un paraje helado.(n)</desc>
+  </programme>
+  <programme start="20200925115000 +0200" stop="20200925123600 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">Tras su llegada al planeta P3X,989, todos los miembros del equipo pierden la conciencia.(n)</desc>
+  </programme>
+  <programme start="20200925123600 +0200" stop="20200925132200 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">Mientras se encuentran recogiendo objetos en un planeta distante, Daniel Jackson pierde la conciencia al tocar algo parecido a un espejo.(n)</desc>
+  </programme>
+  <programme start="20200925132200 +0200" stop="20200925141200 +0200" channel="[ES]  SYFY">
+    <title lang="es">Stargate SG-1</title>
+    <desc lang="es">El equipo del Stargate SG-1 ha de justificar la continuación del proyecto cuando un senador decide revisar los resultados del mismo.(n)</desc>
+  </programme>
+  <programme start="20200925141200 +0200" stop="20200925150600 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">Cuando Melinda descubre un secreto de familia, la locura asola el hospital local y también la ciudad. Un fantasma atormenta, sin motivo aparente, a un paciente que no le ha hecho nada.(n)</desc>
+  </programme>
+  <programme start="20200925150600 +0200" stop="20200925160100 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">La profesora de Antropología Oculta de Ned está siendo acosada por un admirador secreto. Pero no es un admirador cualquiera, es un fantasma muy insistente.(n)</desc>
+  </programme>
+  <programme start="20200925160100 +0200" stop="20200925175000 +0200" channel="[ES]  SYFY">
+    <title lang="es">Desaparecidos sin rastro (La última profecía)</title>
+    <desc lang="es">Como si de una hecatombe bíblica se tratase, de pronto empiezan a desaparecer millones de personas en la Tierra, dejando tan solo sus ropas y pertenencias.(n)</desc>
+  </programme>
+  <programme start="20200925175000 +0200" stop="20200925192400 +0200" channel="[ES]  SYFY">
+    <title lang="es">La noche de los desaparecidos</title>
+    <desc lang="es">Un profesor inicia una exhaustiva búsqueda tras descubrir que su hijo ha sido secuestrado durante un desfile de Halloween.(n)</desc>
+  </programme>
+  <programme start="20200925192400 +0200" stop="20200925201300 +0200" channel="[ES]  SYFY">
+    <title lang="es">Colony</title>
+    <desc lang="es">Durante el interrogatorio, Will, Katie y Snyder se esfuerzan por mantener sus secretos.(n)</desc>
+  </programme>
+  <programme start="20200925201300 +0200" stop="20200925210600 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">Un fantasma advierte a Melinda de que una bomba, que había permanecido oculta en un vertedero de municiones secreto, le costará la vida a alguien.(n)</desc>
+  </programme>
+  <programme start="20200925210600 +0200" stop="20200925220200 +0200" channel="[ES]  SYFY">
+    <title lang="es">Entre fantasmas</title>
+    <desc lang="es">Melinda, Ned y Eli ayudan a liberar al espíritu de una niña atrapada por las Sombras. El caso lo descubren cuando la madre de la pequeña quiere mudarse con urgencia.(n)</desc>
+  </programme>
+  <programme start="20200922005000 +0200" stop="20200922023000 +0200" channel="[ES] CUATRO">
+    <title lang="es">Ciberacoso</title>
+    <desc lang="es">Reagan le envía selfies sugerentes a sus compañeros de clase y sus padres la castigan. La soledad de la joven llama la atención de un hombre mayor que ella y lo que comenzó como una amistad inocente pronto se volverá peligroso.(n)</desc>
+  </programme>
+  <programme start="20200922023000 +0200" stop="20200922030500 +0200" channel="[ES] CUATRO">
+    <title lang="es">Callejeros</title>
+    <desc lang="es">Los agentes locales y municipales son los que mejor conocen nuestras calles. Patrullan para mantener la seguridad, desde un robo, un aviso de malos tratos o una música más alta de lo debido.(n)</desc>
+  </programme>
+  <programme start="20200922030500 +0200" stop="20200922033500 +0200" channel="[ES] CUATRO">
+    <title lang="es">Callejeros</title>
+    <desc lang="es">Callejeros se acerca en esta ocasión a Sevilla, al Puente de Triana.(n)</desc>
+  </programme>
+  <programme start="20200922033500 +0200" stop="20200922040000 +0200" channel="[ES] CUATRO">
+    <title lang="es">Puro Cuatro</title>
+    <desc lang="es">Programa que da a conocer la música que suena en Cuatro.(n)</desc>
+  </programme>
+  <programme start="20200922040000 +0200" stop="20200922051500 +0200" channel="[ES] CUATRO">
+    <title lang="es">La tienda en casa</title>
+    <desc lang="es">Espacio de televenta.(n)</desc>
+  </programme>
+  <programme start="20200922051500 +0200" stop="20200922054500 +0200" channel="[ES] CUATRO">
+    <title lang="es">Puro Cuatro</title>
+    <desc lang="es">Programa que da a conocer la música que suena en Cuatro.(n)</desc>
+  </programme>
+  <programme start="20200922054500 +0200" stop="20200922073000 +0200" channel="[ES] CUATRO">
+    <title lang="es">El zapping de Surferos</title>
+    <desc lang="es">Espacio que recopila las imágenes más destacadas y los momentos más curiosos emitidos en televisión.(n)</desc>
+  </programme>
+  <programme start="20200922073000 +0200" stop="20200922080000 +0200" channel="[ES] CUATRO">
+    <title lang="es">Mejor llama a Kiko</title>
+    <desc lang="es">Programa de televenta presentado por Kiko Hernández en el que se promocionan los productos oficiales de los programas de Mediaset España.(n)</desc>
+  </programme>
+  <programme start="20200922080000 +0200" stop="20200922083500 +0200" channel="[ES] CUATRO">
+    <title lang="es">¡Toma salami!</title>
+    <desc lang="es">Programa de nostalgia televisiva en el que el humorista Javier Capitán, como voz en off, rememorará los grandes momentos televisivos de los canales del grupo.(n)</desc>
+  </programme>
+  <programme start="20200922083500 +0200" stop="20200922093000 +0200" channel="[ES] CUATRO">
+    <title lang="es">El bribón</title>
+    <desc lang="es">Pablo Chiapella presenta este quiz show en el que los conocimientos sobre personajes y acontecimientos significativos, la intuición y la complicidad entre las parejas participantes son clave para conseguir un premio de hasta 70.000 euros.(n)</desc>
+  </programme>
+  <programme start="20200922093000 +0200" stop="20200922102000 +0200" channel="[ES] CUATRO">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">La brigada especial de autopistas se enfrenta constantemente a traficantes, fugitivos, secuestradores... mientras luchan contra el crimen intentando mantener el orden.(n)</desc>
+  </programme>
+  <programme start="20200922102000 +0200" stop="20200922111500 +0200" channel="[ES] CUATRO">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">Ben y Semir investigarán la muerte de un traficante de drogas encontrado muerto en su coche junto a un millón de euros.(n)</desc>
+  </programme>
+  <programme start="20200922111500 +0200" stop="20200922121000 +0200" channel="[ES] CUATRO">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">Ben y Semir seguirán la pista a un asesino que está planeando un crimen un tanto inusual, ya que su crimen sólo se puede realizar durante los cuatro minutos que dura un eclipse.(n)</desc>
+  </programme>
+  <programme start="20200922121000 +0200" stop="20200922131000 +0200" channel="[ES] CUATRO">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">La brigada especial de autopistas se enfrenta constantemente a traficantes, fugitivos, secuestradores... mientras luchan contra el crimen intentando mantener el orden.(n)</desc>
+  </programme>
+  <programme start="20200922131000 +0200" stop="20200922141000 +0200" channel="[ES] CUATRO">
+    <title lang="es">Mujeres y hombres y viceversa: Nueva Generación</title>
+    <desc lang="es">Jesús Vázquez presenta la nueva temporada del dating-show. Esta edición llega cargada de novedades, como la convivencia permanente en la casa de los tronistas o la elección de las citas a ciegas.(n)</desc>
+  </programme>
+  <programme start="20200922141000 +0200" stop="20200922151500 +0200" channel="[ES] CUATRO">
+    <title lang="es">El concurso del año</title>
+    <desc lang="es">Los participantes de hoy son Jesús y Lorena, que llegan desde Sevilla dispuestos a llevarse un premio que les permita pagar la entrada de un piso e irse de viaje a Cuba.(n)</desc>
+  </programme>
+  <programme start="20200922151500 +0200" stop="20200922153500 +0200" channel="[ES] CUATRO">
+    <title lang="es">Noticias Cuatro Deportes</title>
+    <desc lang="es">Informativo deportivo incluido en el espacio Noticias Cuatro, que nos detalla las últimas novedades del mundo del deporte.(n)</desc>
+  </programme>
+  <programme start="20200922153500 +0200" stop="20200922154500 +0200" channel="[ES] CUATRO">
+    <title lang="es">Deportes Cuatro 1</title>
+    <desc lang="es">Informativo presentado por Ricardo Reyes y Raúl Jimeno 'Menottinto' que ofrece las últimas noticias del mundo del deporte y las declaraciones de sus protagonistas.(n)</desc>
+  </programme>
+  <programme start="20200922154500 +0200" stop="20200922155000 +0200" channel="[ES] CUATRO">
+    <title lang="es">El Tiempo Cuatro 1</title>
+    <desc lang="es">Información meteorológica y pronóstico del tiempo, 1ª edición.(n)</desc>
+  </programme>
+  <programme start="20200922155000 +0200" stop="20200922170000 +0200" channel="[ES] CUATRO">
+    <title lang="es">Todo es mentira</title>
+    <desc lang="es">Programa de humor presentado por Risto Mejide que ofrece, de lunes a viernes, en directo, un repaso por la actualidad política, social y cultural de cada jornada convirtiendo las 'fake news' en risas.(n)</desc>
+  </programme>
+  <programme start="20200922170000 +0200" stop="20200922173500 +0200" channel="[ES] CUATRO">
+    <title lang="es">Todo es mentira bis</title>
+    <desc lang="es">Programa de humor presentado por Risto Mejide que ofrece, de lunes a viernes, en directo, un repaso por la actualidad política, social y cultural de cada jornada convirtiendo las 'fake news' en risas.(n)</desc>
+  </programme>
+  <programme start="20200922173500 +0200" stop="20200922200000 +0200" channel="[ES] CUATRO">
+    <title lang="es">Cuatro al día</title>
+    <desc lang="es">Joaquín Prat conduce este magazine de actualidad en las tardes de Cuatro. El programa ofrece toda la actualidad, información nacional e internacional, sucesos y política.(n)</desc>
+  </programme>
+  <programme start="20200922200000 +0200" stop="20200922204500 +0200" channel="[ES] CUATRO">
+    <title lang="es">Cuatro al día</title>
+    <desc lang="es">Joaquín Prat conduce este magazine de actualidad en las tardes de Cuatro. El programa ofrece toda la actualidad, información nacional e internacional, sucesos y política.(n)</desc>
+  </programme>
+  <programme start="20200922204500 +0200" stop="20200922205500 +0200" channel="[ES] CUATRO">
+    <title lang="es">Deportes Cuatro 2</title>
+    <desc lang="es">Segunda edición de las últimas noticias del mundo del deporte que incluye las declaraciones de sus protagonistas. Presenta Ricardo Reyes.(n)</desc>
+  </programme>
+  <programme start="20200922205500 +0200" stop="20200922210500 +0200" channel="[ES] CUATRO">
+    <title lang="es">El Tiempo Cuatro 2</title>
+    <desc lang="es">Información meteorológica y pronóstico del tiempo, 2ª edición.(n)</desc>
+  </programme>
+  <programme start="20200922210500 +0200" stop="20200922214000 +0200" channel="[ES] CUATRO">
+    <title lang="es">First Dates</title>
+    <desc lang="es">Se conocen esta noche en el restaurante del amor: Luis Fernando y Rosa María; Héctor y Yoyi; y Jorge y Rafa.(n)</desc>
+  </programme>
+  <programme start="20200922214000 +0200" stop="20200922225000 +0200" channel="[ES] CUATRO">
+    <title lang="es">First Dates</title>
+    <desc lang="es">El restaurante más romántico de la televisión abre sus puertas para recibir a Ichi, una chica algo resentida con lo hombres. Su cita será José, un chico maduro y sensible que viene dispuesto a hacerla cambiar de opinión.(n)</desc>
+  </programme>
+  <programme start="20200922225000 +0200" stop="20200923001000 +0200" channel="[ES] CUATRO">
+    <title lang="es">Samanta y la vida de</title>
+    <desc lang="es">Irene Villa repasa con Samanta momentos de su vida, se reencuentra con el fotógrafo que tomó las primeras imágenes de la explosión y asume el reto de disputar un partido de baloncesto con unhas antiguas contrincantes.(n)</desc>
+  </programme>
+  <programme start="20200923001000 +0200" stop="20200923012000 +0200" channel="[ES] CUATRO">
+    <title lang="es">La vida con Samanta</title>
+    <desc lang="es">Samanta Villar presenta a mujeres que han roto con todo aquello que se esperaba de ellas. Lina, Zainab y Blanca Manjón son las protagonistas de esta edición.(n)</desc>
+  </programme>
+  <programme start="20200923012000 +0200" stop="20200923023500 +0200" channel="[ES] CUATRO">
+    <title lang="es">La vida con Samanta</title>
+    <desc lang="es">Samanta Villar emprende un viaje al pasado. La periodista tratará de dar respuesta a cuestiones como si es cierto que el pasado siempre vuelve o que cualquier tiempo pasado fue mejor.(n)</desc>
+  </programme>
+  <programme start="20200923023500 +0200" stop="20200923031500 +0200" channel="[ES] CUATRO">
+    <title lang="es">Callejeros</title>
+    <desc lang="es">Le llaman "El pardo" por el color rojizo de su monte. "Aquí puedes tener las puertas abiertas, porque a 1,5 kilómetros están el Rey don Juan Carlos y el Príncipe Felipe\.(n)</desc>
+  </programme>
+  <programme start="20200923031500 +0200" stop="20200923040000 +0200" channel="[ES] CUATRO">
+    <title lang="es">Puro Cuatro</title>
+    <desc lang="es">Programa que da a conocer la música que suena en Cuatro.(n)</desc>
+  </programme>
+  <programme start="20200923040000 +0200" stop="20200923051500 +0200" channel="[ES] CUATRO">
+    <title lang="es">La tienda en casa</title>
+    <desc lang="es">Espacio de televenta.(n)</desc>
+  </programme>
+  <programme start="20200923051500 +0200" stop="20200923054500 +0200" channel="[ES] CUATRO">
+    <title lang="es">Puro Cuatro</title>
+    <desc lang="es">Programa que da a conocer la música que suena en Cuatro.(n)</desc>
+  </programme>
+  <programme start="20200923054500 +0200" stop="20200923073000 +0200" channel="[ES] CUATRO">
+    <title lang="es">El zapping de Surferos</title>
+    <desc lang="es">Espacio que recopila las imágenes más destacadas y los momentos más curiosos emitidos en televisión.(n)</desc>
+  </programme>
+  <programme start="20200923073000 +0200" stop="20200923080000 +0200" channel="[ES] CUATRO">
+    <title lang="es">Mejor llama a Kiko</title>
+    <desc lang="es">Programa de televenta presentado por Kiko Hernández en el que se promocionan los productos oficiales de los programas de Mediaset España.(n)</desc>
+  </programme>
+  <programme start="20200923080000 +0200" stop="20200923083500 +0200" channel="[ES] CUATRO">
+    <title lang="es">¡Toma salami!</title>
+    <desc lang="es">Programa de nostalgia televisiva en el que el humorista Javier Capitán, como voz en off, rememorará los grandes momentos televisivos de los canales del grupo.(n)</desc>
+  </programme>
+  <programme start="20200923083500 +0200" stop="20200923093000 +0200" channel="[ES] CUATRO">
+    <title lang="es">El bribón</title>
+    <desc lang="es">Pablo Chiapella presenta este quiz show en el que los conocimientos sobre personajes y acontecimientos significativos, la intuición y la complicidad entre las parejas participantes son clave para conseguir un premio de hasta 70.000 euros.(n)</desc>
+  </programme>
+  <programme start="20200923093000 +0200" stop="20200923102000 +0200" channel="[ES] CUATRO">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">La brigada especial de autopistas se enfrenta constantemente a traficantes, fugitivos, secuestradores... mientras luchan contra el crimen intentando mantener el orden.(n)</desc>
+  </programme>
+  <programme start="20200923102000 +0200" stop="20200923111500 +0200" channel="[ES] CUATRO">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">Un vehículo de SWAT lleno de explosivos desaparece. Durante la investigación, Ben se encontrará con un antiguo instructor suyo que pudiera ser sospechoso.(n)</desc>
+  </programme>
+  <programme start="20200923111500 +0200" stop="20200923121000 +0200" channel="[ES] CUATRO">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">El traficante de drogas Thomas Reinhardt es asesinado por Kim Krüger. El padre del asesinado y jefe de la mafia  pone de inmediato precio a la cabeza del asesino de su hijo.(n)</desc>
+  </programme>
+  <programme start="20200923121000 +0200" stop="20200923131000 +0200" channel="[ES] CUATRO">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">La brigada especial de autopistas se enfrenta constantemente a traficantes, fugitivos, secuestradores... mientras luchan contra el crimen intentando mantener el orden.(n)</desc>
+  </programme>
+  <programme start="20200923131000 +0200" stop="20200923141000 +0200" channel="[ES] CUATRO">
+    <title lang="es">Mujeres y hombres y viceversa: Nueva Generación</title>
+    <desc lang="es">Jesús Vázquez presenta la nueva temporada del dating-show. Esta edición llega cargada de novedades, como la convivencia permanente en la casa de los tronistas o la elección de las citas a ciegas.(n)</desc>
+  </programme>
+  <programme start="20200923141000 +0200" stop="20200923151500 +0200" channel="[ES] CUATRO">
+    <title lang="es">El concurso del año</title>
+    <desc lang="es">La pareja formada por Jessica y Patricia son las concursantes de hoy y quieren conseguir un premio que les permita organizar su boda por todo lo alto y efectuar una donación a una asociación protectora de animales.(n)</desc>
+  </programme>
+  <programme start="20200923151500 +0200" stop="20200923153500 +0200" channel="[ES] CUATRO">
+    <title lang="es">Noticias Cuatro Deportes</title>
+    <desc lang="es">Informativo deportivo incluido en el espacio Noticias Cuatro, que nos detalla las últimas novedades del mundo del deporte.(n)</desc>
+  </programme>
+  <programme start="20200923153500 +0200" stop="20200923154500 +0200" channel="[ES] CUATRO">
+    <title lang="es">Deportes Cuatro 1</title>
+    <desc lang="es">Informativo presentado por Ricardo Reyes y Raúl Jimeno 'Menottinto' que ofrece las últimas noticias del mundo del deporte y las declaraciones de sus protagonistas.(n)</desc>
+  </programme>
+  <programme start="20200923154500 +0200" stop="20200923155000 +0200" channel="[ES] CUATRO">
+    <title lang="es">El Tiempo Cuatro 1</title>
+    <desc lang="es">Información meteorológica y pronóstico del tiempo, 1ª edición.(n)</desc>
+  </programme>
+  <programme start="20200923155000 +0200" stop="20200923170000 +0200" channel="[ES] CUATRO">
+    <title lang="es">Todo es mentira</title>
+    <desc lang="es">Programa de humor presentado por Risto Mejide que ofrece, de lunes a viernes, en directo, un repaso por la actualidad política, social y cultural de cada jornada convirtiendo las 'fake news' en risas.(n)</desc>
+  </programme>
+  <programme start="20200923170000 +0200" stop="20200923173500 +0200" channel="[ES] CUATRO">
+    <title lang="es">Todo es mentira bis</title>
+    <desc lang="es">Programa de humor presentado por Risto Mejide que ofrece, de lunes a viernes, en directo, un repaso por la actualidad política, social y cultural de cada jornada convirtiendo las 'fake news' en risas.(n)</desc>
+  </programme>
+  <programme start="20200923173500 +0200" stop="20200923200000 +0200" channel="[ES] CUATRO">
+    <title lang="es">Cuatro al día</title>
+    <desc lang="es">Joaquín Prat conduce este magazine de actualidad en las tardes de Cuatro. El programa ofrece toda la actualidad, información nacional e internacional, sucesos y política.(n)</desc>
+  </programme>
+  <programme start="20200923200000 +0200" stop="20200923204500 +0200" channel="[ES] CUATRO">
+    <title lang="es">Cuatro al día</title>
+    <desc lang="es">Joaquín Prat conduce este magazine de actualidad en las tardes de Cuatro. El programa ofrece toda la actualidad, información nacional e internacional, sucesos y política.(n)</desc>
+  </programme>
+  <programme start="20200923204500 +0200" stop="20200923205500 +0200" channel="[ES] CUATRO">
+    <title lang="es">Deportes Cuatro 2</title>
+    <desc lang="es">Segunda edición de las últimas noticias del mundo del deporte que incluye las declaraciones de sus protagonistas. Presenta Ricardo Reyes.(n)</desc>
+  </programme>
+  <programme start="20200923205500 +0200" stop="20200923210500 +0200" channel="[ES] CUATRO">
+    <title lang="es">El Tiempo Cuatro 2</title>
+    <desc lang="es">Información meteorológica y pronóstico del tiempo, 2ª edición.(n)</desc>
+  </programme>
+  <programme start="20200923210500 +0200" stop="20200923214500 +0200" channel="[ES] CUATRO">
+    <title lang="es">First Dates</title>
+    <desc lang="es">El restaurante del amor abre sus puertas para recibir a las parejas formadas por: Julio y Abraham; Yaël y Adrián; y Yoann y Mayte.(n)</desc>
+  </programme>
+  <programme start="20200923214500 +0200" stop="20200923225000 +0200" channel="[ES] CUATRO">
+    <title lang="es">First Dates</title>
+    <desc lang="es">El restaurante recibe a Gileta, que acude con una larga lista de requisitos para encontrar su hombre ideal: alto, fuerte y con solvencia económica. Miguel lo tiene complicado, pero no hay nada imposible para él.(n)</desc>
+  </programme>
+  <programme start="20200923225000 +0200" stop="20200924003500 +0200" channel="[ES] CUATRO">
+    <title lang="es">En el punto de mira</title>
+    <desc lang="es">En su octava temporada, el equipo formado por Boro Barber, Verónica Dulanto, Mireia Llinares, Marta Losada y María Miñana seguirá destapando injusticias y fraudes, con una especial atención a la evolución de la pandemia.(n)</desc>
+  </programme>
+  <programme start="20200924003500 +0200" stop="20200924014500 +0200" channel="[ES] CUATRO">
+    <title lang="es">En el punto de mira</title>
+    <desc lang="es">Vivir bajo el mismo techo que un okupa o tener limitado el acceso a la propia vivienda es la situación a la que se enfrentan numerosos propietarios en España, una realidad incómoda y a veces insostenible.(n)</desc>
+  </programme>
+  <programme start="20200924014500 +0200" stop="20200924023000 +0200" channel="[ES] CUATRO">
+    <title lang="es">En el punto de mira</title>
+    <desc lang="es">El primer reportaje de la noche gira en torno a la ciberseguridad y la protección de nuestros datos personales en la red. El segundo de ellos aborda una nueva modalidad de okupación: los okupas chantajistas.(n)</desc>
+  </programme>
+  <programme start="20200924023000 +0200" stop="20200924031500 +0200" channel="[ES] CUATRO">
+    <title lang="es">En el punto de mira</title>
+    <desc lang="es">El programa de esta noche profundiza en los objetivos y fuentes de financiación de la organización 'Hazte oír', artífice de la campaña contra el colectivo LGTB. El 2º tema que se aborda es el de la okupación en lugares de lujo.(n)</desc>
+  </programme>
+  <programme start="20200924031500 +0200" stop="20200924040000 +0200" channel="[ES] CUATRO">
+    <title lang="es">Puro Cuatro</title>
+    <desc lang="es">Programa que da a conocer la música que suena en Cuatro.(n)</desc>
+  </programme>
+  <programme start="20200924040000 +0200" stop="20200924051500 +0200" channel="[ES] CUATRO">
+    <title lang="es">La tienda en casa</title>
+    <desc lang="es">Espacio de televenta.(n)</desc>
   </programme>
 </tv>
