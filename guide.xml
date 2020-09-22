@@ -1,0 +1,527 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TOONCAST MX">
+    <display-name lang="es">TOONCAST MX</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tooncast-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal A&amp;E (México)">
+    <display-name lang="es">Canal A&amp;E (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DISCOVERY ID MX">
+    <display-name lang="es">DISCOVERY ID MX</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20200922001800 +0200" stop="20200922002800 +0200" channel="TOONCAST MX">
+    <title lang="es">Las Chicas Superpoderosas</title>
+  </programme>
+  <programme start="20200922002800 +0200" stop="20200922003900 +0200" channel="TOONCAST MX">
+    <title lang="es">Las Chicas Superpoderosas</title>
+  </programme>
+  <programme start="20200922003900 +0200" stop="20200922005200 +0200" channel="TOONCAST MX">
+    <title lang="es">Las Chicas Superpoderosas</title>
+  </programme>
+  <programme start="20200922005200 +0200" stop="20200922010300 +0200" channel="TOONCAST MX">
+    <title lang="es">Ed, Edd y Eddy</title>
+  </programme>
+  <programme start="20200922010300 +0200" stop="20200922011400 +0200" channel="TOONCAST MX">
+    <title lang="es">Ed, Edd y Eddy</title>
+  </programme>
+  <programme start="20200922011400 +0200" stop="20200922012800 +0200" channel="TOONCAST MX">
+    <title lang="es">Ed, Edd y Eddy</title>
+  </programme>
+  <programme start="20200922012800 +0200" stop="20200922013900 +0200" channel="TOONCAST MX">
+    <title lang="es">Coraje, el perro cobarde</title>
+  </programme>
+  <programme start="20200922013900 +0200" stop="20200922015000 +0200" channel="TOONCAST MX">
+    <title lang="es">Coraje, el perro cobarde</title>
+  </programme>
+  <programme start="20200922015000 +0200" stop="20200922020300 +0200" channel="TOONCAST MX">
+    <title lang="es">Coraje, el perro cobarde</title>
+  </programme>
+  <programme start="20200922020300 +0200" stop="20200922022400 +0200" channel="TOONCAST MX">
+    <title lang="es">ThunderCats rugen</title>
+  </programme>
+  <programme start="20200922022400 +0200" stop="20200922024700 +0200" channel="TOONCAST MX">
+    <title lang="es">ThunderCats rugen</title>
+  </programme>
+  <programme start="20200922024700 +0200" stop="20200922031000 +0200" channel="TOONCAST MX">
+    <title lang="es">ThunderCats rugen</title>
+  </programme>
+  <programme start="20200922031000 +0200" stop="20200922033300 +0200" channel="TOONCAST MX">
+    <title lang="es">¿Scooby Doo, dónde estás</title>
+  </programme>
+  <programme start="20200922033300 +0200" stop="20200922040000 +0200" channel="TOONCAST MX">
+    <title lang="es">Don Gato y Su Pandilla</title>
+  </programme>
+  <programme start="20200922040000 +0200" stop="20200922040700 +0200" channel="TOONCAST MX">
+    <title lang="es">La Hormiga Atómica</title>
+  </programme>
+  <programme start="20200922040700 +0200" stop="20200922041300 +0200" channel="TOONCAST MX">
+    <title lang="es">La Hormiga Atómica</title>
+  </programme>
+  <programme start="20200922041300 +0200" stop="20200922042000 +0200" channel="TOONCAST MX">
+    <title lang="es">La Hormiga Atómica</title>
+  </programme>
+  <programme start="20200922042000 +0200" stop="20200922042600 +0200" channel="TOONCAST MX">
+    <title lang="es">La Hormiga Atómica</title>
+  </programme>
+  <programme start="20200922042600 +0200" stop="20200922043500 +0200" channel="TOONCAST MX">
+    <title lang="es">La Hormiga Atómica</title>
+  </programme>
+  <programme start="20200922043500 +0200" stop="20200922044200 +0200" channel="TOONCAST MX">
+    <title lang="es">Ricochet Rabbit</title>
+  </programme>
+  <programme start="20200922044200 +0200" stop="20200922044900 +0200" channel="TOONCAST MX">
+    <title lang="es">Ricochet Rabbit</title>
+  </programme>
+  <programme start="20200922044900 +0200" stop="20200922045600 +0200" channel="TOONCAST MX">
+    <title lang="es">Ricochet Rabbit</title>
+  </programme>
+  <programme start="20200922045600 +0200" stop="20200922050500 +0200" channel="TOONCAST MX">
+    <title lang="es">Ricochet Rabbit</title>
+  </programme>
+  <programme start="20200922050500 +0200" stop="20200922052800 +0200" channel="TOONCAST MX">
+    <title lang="es">Los peligros de Penélope Glamour</title>
+  </programme>
+  <programme start="20200922052800 +0200" stop="20200922053500 +0200" channel="TOONCAST MX">
+    <title lang="es">Popeye</title>
+  </programme>
+  <programme start="20200922053500 +0200" stop="20200922054200 +0200" channel="TOONCAST MX">
+    <title lang="es">Popeye</title>
+  </programme>
+  <programme start="20200922054200 +0200" stop="20200922054900 +0200" channel="TOONCAST MX">
+    <title lang="es">Popeye</title>
+  </programme>
+  <programme start="20200922054900 +0200" stop="20200922055700 +0200" channel="TOONCAST MX">
+    <title lang="es">Popeye</title>
+  </programme>
+  <programme start="20200922055700 +0200" stop="20200922060500 +0200" channel="TOONCAST MX">
+    <title lang="es">Favoritos de MGM</title>
+  </programme>
+  <programme start="20200922060500 +0200" stop="20200922061400 +0200" channel="TOONCAST MX">
+    <title lang="es">Favoritos de MGM</title>
+  </programme>
+  <programme start="20200922061400 +0200" stop="20200922062100 +0200" channel="TOONCAST MX">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20200922062100 +0200" stop="20200922063000 +0200" channel="TOONCAST MX">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20200922063000 +0200" stop="20200922065500 +0200" channel="TOONCAST MX">
+    <title lang="es">Pinky y Cerebro</title>
+  </programme>
+  <programme start="20200922065500 +0200" stop="20200922071600 +0200" channel="TOONCAST MX">
+    <title lang="es">Animaniacs</title>
+  </programme>
+  <programme start="20200922071600 +0200" stop="20200922073800 +0200" channel="TOONCAST MX">
+    <title lang="es">Animaniacs</title>
+  </programme>
+  <programme start="20200922073800 +0200" stop="20200922080000 +0200" channel="TOONCAST MX">
+    <title lang="es">Pokémon: Sol y luna</title>
+  </programme>
+  <programme start="20200922080000 +0200" stop="20200922082400 +0200" channel="TOONCAST MX">
+    <title lang="es">Mansión foster para amigos imaginarios</title>
+  </programme>
+  <programme start="20200922082400 +0200" stop="20200922082900 +0200" channel="TOONCAST MX">
+    <title lang="es">Sheep en la Gran Ciudad</title>
+  </programme>
+  <programme start="20200922082900 +0200" stop="20200922083100 +0200" channel="TOONCAST MX">
+    <title lang="es">Sheep en la Gran Ciudad</title>
+  </programme>
+  <programme start="20200922083100 +0200" stop="20200922083500 +0200" channel="TOONCAST MX">
+    <title lang="es">Sheep en la Gran Ciudad</title>
+  </programme>
+  <programme start="20200922083500 +0200" stop="20200922084600 +0200" channel="TOONCAST MX">
+    <title lang="es">Jones, el robot</title>
+  </programme>
+  <programme start="20200922084600 +0200" stop="20200922090000 +0200" channel="TOONCAST MX">
+    <title lang="es">Jones, el robot</title>
+  </programme>
+  <programme start="20200922090000 +0200" stop="20200922090700 +0200" channel="TOONCAST MX">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20200922090700 +0200" stop="20200922091400 +0200" channel="TOONCAST MX">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20200922091400 +0200" stop="20200922092100 +0200" channel="TOONCAST MX">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20200922092100 +0200" stop="20200922092800 +0200" channel="TOONCAST MX">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20200922092800 +0200" stop="20200922093800 +0200" channel="TOONCAST MX">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20200922093800 +0200" stop="20200922100000 +0200" channel="TOONCAST MX">
+    <title lang="es">Taz-Mania</title>
+  </programme>
+  <programme start="20200922100000 +0200" stop="20200922102300 +0200" channel="TOONCAST MX">
+    <title lang="es">Las Aventuras de Silvestre y Piolín</title>
+  </programme>
+  <programme start="20200922102300 +0200" stop="20200922103000 +0200" channel="TOONCAST MX">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20200922103000 +0200" stop="20200922103700 +0200" channel="TOONCAST MX">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20200922103700 +0200" stop="20200922104400 +0200" channel="TOONCAST MX">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20200922104400 +0200" stop="20200922105100 +0200" channel="TOONCAST MX">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20200922105100 +0200" stop="20200922110000 +0200" channel="TOONCAST MX">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20200922110000 +0200" stop="20200922112700 +0200" channel="TOONCAST MX">
+    <title lang="es">Static Shock</title>
+  </programme>
+  <programme start="20200922112700 +0200" stop="20200922115000 +0200" channel="TOONCAST MX">
+    <title lang="es">Justice League</title>
+  </programme>
+  <programme start="20200922115000 +0200" stop="20200922121700 +0200" channel="TOONCAST MX">
+    <title lang="es">Batman beyond</title>
+  </programme>
+  <programme start="20200922121700 +0200" stop="20200922122700 +0200" channel="TOONCAST MX">
+    <title lang="es">Las Chicas Superpoderosas</title>
+  </programme>
+  <programme start="20200922122700 +0200" stop="20200922123800 +0200" channel="TOONCAST MX">
+    <title lang="es">Las Chicas Superpoderosas</title>
+  </programme>
+  <programme start="20200922123800 +0200" stop="20200922125200 +0200" channel="TOONCAST MX">
+    <title lang="es">Las Chicas Superpoderosas</title>
+  </programme>
+  <programme start="20200922125200 +0200" stop="20200922130300 +0200" channel="TOONCAST MX">
+    <title lang="es">Ed, Edd y Eddy</title>
+  </programme>
+  <programme start="20200922130300 +0200" stop="20200922131400 +0200" channel="TOONCAST MX">
+    <title lang="es">Ed, Edd y Eddy</title>
+  </programme>
+  <programme start="20200922131400 +0200" stop="20200922132800 +0200" channel="TOONCAST MX">
+    <title lang="es">Ed, Edd y Eddy</title>
+  </programme>
+  <programme start="20200922132800 +0200" stop="20200922133900 +0200" channel="TOONCAST MX">
+    <title lang="es">Coraje, el perro cobarde</title>
+  </programme>
+  <programme start="20200922133900 +0200" stop="20200922134900 +0200" channel="TOONCAST MX">
+    <title lang="es">Coraje, el perro cobarde</title>
+  </programme>
+  <programme start="20200922134900 +0200" stop="20200922140200 +0200" channel="TOONCAST MX">
+    <title lang="es">Coraje, el perro cobarde</title>
+  </programme>
+  <programme start="20200922140200 +0200" stop="20200922142300 +0200" channel="TOONCAST MX">
+    <title lang="es">ThunderCats rugen</title>
+  </programme>
+  <programme start="20200922142300 +0200" stop="20200922144600 +0200" channel="TOONCAST MX">
+    <title lang="es">ThunderCats rugen</title>
+  </programme>
+  <programme start="20200922144600 +0200" stop="20200922151000 +0200" channel="TOONCAST MX">
+    <title lang="es">ThunderCats rugen</title>
+  </programme>
+  <programme start="20200922151000 +0200" stop="20200922153400 +0200" channel="TOONCAST MX">
+    <title lang="es">¿Scooby Doo, dónde estás</title>
+  </programme>
+  <programme start="20200922153400 +0200" stop="20200922160100 +0200" channel="TOONCAST MX">
+    <title lang="es">Don Gato y Su Pandilla</title>
+  </programme>
+  <programme start="20200922160100 +0200" stop="20200922160800 +0200" channel="TOONCAST MX">
+    <title lang="es">La Hormiga Atómica</title>
+  </programme>
+  <programme start="20200922160800 +0200" stop="20200922161500 +0200" channel="TOONCAST MX">
+    <title lang="es">La Hormiga Atómica</title>
+  </programme>
+  <programme start="20200922161500 +0200" stop="20200922163800 +0200" channel="TOONCAST MX">
+    <title lang="es">La Hormiga Atómica</title>
+  </programme>
+  <programme start="20200922163800 +0200" stop="20200922164500 +0200" channel="TOONCAST MX">
+    <title lang="es">Ricochet Rabbit</title>
+  </programme>
+  <programme start="20200922164500 +0200" stop="20200922165100 +0200" channel="TOONCAST MX">
+    <title lang="es">Ricochet Rabbit</title>
+  </programme>
+  <programme start="20200922165100 +0200" stop="20200922170100 +0200" channel="TOONCAST MX">
+    <title lang="es">Ricochet Rabbit</title>
+  </programme>
+  <programme start="20200922170100 +0200" stop="20200922172400 +0200" channel="TOONCAST MX">
+    <title lang="es">Los peligros de Penélope Glamour</title>
+  </programme>
+  <programme start="20200922172400 +0200" stop="20200922173100 +0200" channel="TOONCAST MX">
+    <title lang="es">Popeye</title>
+  </programme>
+  <programme start="20200922173100 +0200" stop="20200922173800 +0200" channel="TOONCAST MX">
+    <title lang="es">Popeye</title>
+  </programme>
+  <programme start="20200922173800 +0200" stop="20200922174400 +0200" channel="TOONCAST MX">
+    <title lang="es">Popeye</title>
+  </programme>
+  <programme start="20200922174400 +0200" stop="20200922175300 +0200" channel="TOONCAST MX">
+    <title lang="es">Popeye</title>
+  </programme>
+  <programme start="20200922175300 +0200" stop="20200922180100 +0200" channel="TOONCAST MX">
+    <title lang="es">Favoritos de MGM</title>
+  </programme>
+  <programme start="20200922180100 +0200" stop="20200922181000 +0200" channel="TOONCAST MX">
+    <title lang="es">Favoritos de MGM</title>
+  </programme>
+  <programme start="20200922181000 +0200" stop="20200922181600 +0200" channel="TOONCAST MX">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20200922181600 +0200" stop="20200922182500 +0200" channel="TOONCAST MX">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20200922182500 +0200" stop="20200922185000 +0200" channel="TOONCAST MX">
+    <title lang="es">Pinky y Cerebro</title>
+  </programme>
+  <programme start="20200922185000 +0200" stop="20200922191100 +0200" channel="TOONCAST MX">
+    <title lang="es">Animaniacs</title>
+  </programme>
+  <programme start="20200922191100 +0200" stop="20200922193500 +0200" channel="TOONCAST MX">
+    <title lang="es">Animaniacs</title>
+  </programme>
+  <programme start="20200922193500 +0200" stop="20200922195900 +0200" channel="TOONCAST MX">
+    <title lang="es">Pokémon: Sol y luna</title>
+  </programme>
+  <programme start="20200922195900 +0200" stop="20200922202400 +0200" channel="TOONCAST MX">
+    <title lang="es">Mansión foster para amigos imaginarios</title>
+  </programme>
+  <programme start="20200922202400 +0200" stop="20200922202800 +0200" channel="TOONCAST MX">
+    <title lang="es">Sheep en la Gran Ciudad</title>
+  </programme>
+  <programme start="20200922202800 +0200" stop="20200922203500 +0200" channel="TOONCAST MX">
+    <title lang="es">Sheep en la Gran Ciudad</title>
+  </programme>
+  <programme start="20200922203500 +0200" stop="20200922204600 +0200" channel="TOONCAST MX">
+    <title lang="es">Jones, el robot</title>
+  </programme>
+  <programme start="20200922204600 +0200" stop="20200922210000 +0200" channel="TOONCAST MX">
+    <title lang="es">Jones, el robot</title>
+  </programme>
+  <programme start="20200922210000 +0200" stop="20200922210700 +0200" channel="TOONCAST MX">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20200922210700 +0200" stop="20200922211400 +0200" channel="TOONCAST MX">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20200922211400 +0200" stop="20200922212100 +0200" channel="TOONCAST MX">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20200922212100 +0200" stop="20200922212800 +0200" channel="TOONCAST MX">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20200922212800 +0200" stop="20200922213800 +0200" channel="TOONCAST MX">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20200922213800 +0200" stop="20200922220100 +0200" channel="TOONCAST MX">
+    <title lang="es">Taz-Mania</title>
+  </programme>
+  <programme start="20200922220100 +0200" stop="20200922222400 +0200" channel="TOONCAST MX">
+    <title lang="es">Las Aventuras de Silvestre y Piolín</title>
+  </programme>
+  <programme start="20200922222400 +0200" stop="20200922223100 +0200" channel="TOONCAST MX">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20200922223100 +0200" stop="20200922223800 +0200" channel="TOONCAST MX">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20200922223800 +0200" stop="20200922224500 +0200" channel="TOONCAST MX">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20200922224500 +0200" stop="20200922225200 +0200" channel="TOONCAST MX">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20200922225200 +0200" stop="20200922230000 +0200" channel="TOONCAST MX">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20200922230000 +0200" stop="20200922232700 +0200" channel="TOONCAST MX">
+    <title lang="es">Static Shock</title>
+  </programme>
+  <programme start="20200922232700 +0200" stop="20200922235000 +0200" channel="TOONCAST MX">
+    <title lang="es">Justice League</title>
+  </programme>
+  <programme start="20200922235000 +0200" stop="20200923001700 +0200" channel="TOONCAST MX">
+    <title lang="es">Batman beyond</title>
+  </programme>
+  <programme start="20200923001700 +0200" stop="20200923002800 +0200" channel="TOONCAST MX">
+    <title lang="es">Las Chicas Superpoderosas</title>
+  </programme>
+  <programme start="20200923013900 +0200" stop="20200923014900 +0200" channel="TOONCAST MX">
+    <title lang="es">Coraje, el perro cobarde</title>
+  </programme>
+  <programme start="20200923014900 +0200" stop="20200923020300 +0200" channel="TOONCAST MX">
+    <title lang="es">Coraje, el perro cobarde</title>
+  </programme>
+  <programme start="20200923031000 +0200" stop="20200923033500 +0200" channel="TOONCAST MX">
+    <title lang="es">¿Scooby Doo, dónde estás</title>
+  </programme>
+  <programme start="20200923033500 +0200" stop="20200923040200 +0200" channel="TOONCAST MX">
+    <title lang="es">Don Gato y Su Pandilla</title>
+  </programme>
+  <programme start="20200923040200 +0200" stop="20200923040800 +0200" channel="TOONCAST MX">
+    <title lang="es">La Hormiga Atómica</title>
+  </programme>
+  <programme start="20200923040800 +0200" stop="20200923041500 +0200" channel="TOONCAST MX">
+    <title lang="es">La Hormiga Atómica</title>
+  </programme>
+  <programme start="20200923041500 +0200" stop="20200923043800 +0200" channel="TOONCAST MX">
+    <title lang="es">La Hormiga Atómica</title>
+  </programme>
+  <programme start="20200923043800 +0200" stop="20200923044500 +0200" channel="TOONCAST MX">
+    <title lang="es">Ricochet Rabbit</title>
+  </programme>
+  <programme start="20200923044500 +0200" stop="20200923045200 +0200" channel="TOONCAST MX">
+    <title lang="es">Ricochet Rabbit</title>
+  </programme>
+  <programme start="20200923045200 +0200" stop="20200923050100 +0200" channel="TOONCAST MX">
+    <title lang="es">Ricochet Rabbit</title>
+  </programme>
+  <programme start="20200923050100 +0200" stop="20200923052400 +0200" channel="TOONCAST MX">
+    <title lang="es">Los peligros de Penélope Glamour</title>
+  </programme>
+  <programme start="20200923052400 +0200" stop="20200923053100 +0200" channel="TOONCAST MX">
+    <title lang="es">Popeye</title>
+  </programme>
+  <programme start="20200923053100 +0200" stop="20200923053800 +0200" channel="TOONCAST MX">
+    <title lang="es">Popeye</title>
+  </programme>
+  <programme start="20200923053800 +0200" stop="20200923054400 +0200" channel="TOONCAST MX">
+    <title lang="es">Popeye</title>
+  </programme>
+  <programme start="20200923054400 +0200" stop="20200923055300 +0200" channel="TOONCAST MX">
+    <title lang="es">Popeye</title>
+  </programme>
+  <programme start="20200923055300 +0200" stop="20200923060200 +0200" channel="TOONCAST MX">
+    <title lang="es">Favoritos de MGM</title>
+  </programme>
+  <programme start="20200923060200 +0200" stop="20200923061000 +0200" channel="TOONCAST MX">
+    <title lang="es">Favoritos de MGM</title>
+  </programme>
+  <programme start="20200923061000 +0200" stop="20200923061600 +0200" channel="TOONCAST MX">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20200923061600 +0200" stop="20200923062500 +0200" channel="TOONCAST MX">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20200923062500 +0200" stop="20200923065000 +0200" channel="TOONCAST MX">
+    <title lang="es">Pinky y Cerebro</title>
+  </programme>
+  <programme start="20200923065000 +0200" stop="20200923071200 +0200" channel="TOONCAST MX">
+    <title lang="es">Animaniacs</title>
+  </programme>
+  <programme start="20200923071200 +0200" stop="20200923073500 +0200" channel="TOONCAST MX">
+    <title lang="es">Animaniacs</title>
+  </programme>
+  <programme start="20200923073500 +0200" stop="20200923075900 +0200" channel="TOONCAST MX">
+    <title lang="es">Pokémon: Sol y luna</title>
+  </programme>
+  <programme start="20200923075900 +0200" stop="20200923082400 +0200" channel="TOONCAST MX">
+    <title lang="es">Mansión foster para amigos imaginarios</title>
+  </programme>
+  <programme start="20200923082400 +0200" stop="20200923082900 +0200" channel="TOONCAST MX">
+    <title lang="es">Sheep en la Gran Ciudad</title>
+  </programme>
+  <programme start="20200923082900 +0200" stop="20200923083500 +0200" channel="TOONCAST MX">
+    <title lang="es">Sheep en la Gran Ciudad</title>
+  </programme>
+  <programme start="20200923084600 +0200" stop="20200923090100 +0200" channel="TOONCAST MX">
+    <title lang="es">Jones, el robot</title>
+  </programme>
+  <programme start="20200923090100 +0200" stop="20200923090700 +0200" channel="TOONCAST MX">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20200923093800 +0200" stop="20200923100100 +0200" channel="TOONCAST MX">
+    <title lang="es">Taz-Mania</title>
+  </programme>
+  <programme start="20200923100100 +0200" stop="20200923102300 +0200" channel="TOONCAST MX">
+    <title lang="es">Las Aventuras de Silvestre y Piolín</title>
+  </programme>
+  <programme start="20200923110000 +0200" stop="20200923113000 +0200" channel="TOONCAST MX">
+    <title lang="es">Static Shock</title>
+  </programme>
+  <programme start="20200923113000 +0200" stop="20200923120000 +0200" channel="TOONCAST MX">
+    <title lang="es">Justice League</title>
+  </programme>
+  <programme start="20200923120000 +0200" stop="20200923123000 +0200" channel="TOONCAST MX">
+    <title lang="es">Batman beyond</title>
+  </programme>
+  <programme start="20200923123000 +0200" stop="20200923130000 +0200" channel="TOONCAST MX">
+    <title lang="es">Las Chicas Superpoderosas</title>
+  </programme>
+  <programme start="20200923130000 +0200" stop="20200923133000 +0200" channel="TOONCAST MX">
+    <title lang="es">Ed, Edd y Eddy</title>
+  </programme>
+  <programme start="20200923133000 +0200" stop="20200923140000 +0200" channel="TOONCAST MX">
+    <title lang="es">Coraje, el perro cobarde</title>
+  </programme>
+  <programme start="20200923140000 +0200" stop="20200923150000 +0200" channel="TOONCAST MX">
+    <title lang="es">ThunderCats rugen</title>
+  </programme>
+  <programme start="20200923150000 +0200" stop="20200923153000 +0200" channel="TOONCAST MX">
+    <title lang="es">¿Scooby Doo, dónde estás</title>
+  </programme>
+  <programme start="20200923153000 +0200" stop="20200923160000 +0200" channel="TOONCAST MX">
+    <title lang="es">Don Gato y Su Pandilla</title>
+  </programme>
+  <programme start="20200923160000 +0200" stop="20200923163000 +0200" channel="TOONCAST MX">
+    <title lang="es">La Hormiga Atómica</title>
+  </programme>
+  <programme start="20200923163000 +0200" stop="20200923170000 +0200" channel="TOONCAST MX">
+    <title lang="es">Ricochet Rabbit</title>
+  </programme>
+  <programme start="20200923170000 +0200" stop="20200923173000 +0200" channel="TOONCAST MX">
+    <title lang="es">Los peligros de Penélope Glamour</title>
+  </programme>
+  <programme start="20200923173000 +0200" stop="20200923180000 +0200" channel="TOONCAST MX">
+    <title lang="es">Popeye</title>
+  </programme>
+  <programme start="20200923180000 +0200" stop="20200923181500 +0200" channel="TOONCAST MX">
+    <title lang="es">Droopy</title>
+  </programme>
+  <programme start="20200923181500 +0200" stop="20200923183000 +0200" channel="TOONCAST MX">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20200923183000 +0200" stop="20200923190000 +0200" channel="TOONCAST MX">
+    <title lang="es">Pinky y Cerebro</title>
+  </programme>
+  <programme start="20200923190000 +0200" stop="20200923193000 +0200" channel="TOONCAST MX">
+    <title lang="es">Animaniacs</title>
+  </programme>
+  <programme start="20200923193000 +0200" stop="20200923200000 +0200" channel="TOONCAST MX">
+    <title lang="es">Pokémon: Sol y luna</title>
+  </programme>
+  <programme start="20200923200000 +0200" stop="20200923202000 +0200" channel="TOONCAST MX">
+    <title lang="es">Mansión foster para amigos imaginarios</title>
+  </programme>
+  <programme start="20200923202000 +0200" stop="20200923203000 +0200" channel="TOONCAST MX">
+    <title lang="es">Sheep en la Gran Ciudad</title>
+  </programme>
+  <programme start="20200923203000 +0200" stop="20200923210000 +0200" channel="TOONCAST MX">
+    <title lang="es">Jones, el robot</title>
+  </programme>
+  <programme start="20200923210000 +0200" stop="20200923213000 +0200" channel="TOONCAST MX">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20200923213000 +0200" stop="20200923220000 +0200" channel="TOONCAST MX">
+    <title lang="es">Taz-Mania</title>
+  </programme>
+  <programme start="20200923220000 +0200" stop="20200923223000 +0200" channel="TOONCAST MX">
+    <title lang="es">Las Aventuras de Silvestre y Piolín</title>
+  </programme>
+  <programme start="20200923223000 +0200" stop="20200923230000 +0200" channel="TOONCAST MX">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20200923230000 +0200" stop="20200923233000 +0200" channel="TOONCAST MX">
+    <title lang="es">Static Shock</title>
+  </programme>
+  <programme start="20200923233000 +0200" stop="20200924000000 +0200" channel="TOONCAST MX">
+    <title lang="es">Justice League</title>
+  </programme>
+  <programme start="20200922005000 +0200" stop="20200922014000 +0200" channel="Canal A&amp;E (México)">
+    <title lang="es">Las Primeras 48 Horas</title>
+  </programme>
+  <programme start="20200922014000 +0200" stop="20200922023000 +0200" channel="Canal A&amp;E (México)">
+    <title lang="es">Bull</title>
+  </programme>
+</tv>
