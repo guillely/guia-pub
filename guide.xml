@@ -1,10 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="75 | Tooncast">
-    <display-name lang="es">T75 | Tooncast</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tooncast-mediano.png" />
-    <url>http://www.gatotv.com</url>
-  </channel>
   <channel id="69 | Discovery Kids">
     <display-name lang="es">69 | Discovery Kids</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png" />
@@ -15,336 +10,35 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20200922001800 +0200" stop="20200922002800 +0200" channel="75 | Tooncast">
-    <title lang="es">Las Chicas Superpoderosas</title>
-  </programme>
-  <programme start="20200922002800 +0200" stop="20200922003900 +0200" channel="75 | Tooncast">
-    <title lang="es">Las Chicas Superpoderosas</title>
-  </programme>
-  <programme start="20200922003900 +0200" stop="20200922005200 +0200" channel="75 | Tooncast">
-    <title lang="es">Las Chicas Superpoderosas</title>
-  </programme>
-  <programme start="20200922005200 +0200" stop="20200922010300 +0200" channel="75 | Tooncast">
-    <title lang="es">Ed, Edd y Eddy</title>
-  </programme>
-  <programme start="20200922010300 +0200" stop="20200922011400 +0200" channel="75 | Tooncast">
-    <title lang="es">Ed, Edd y Eddy</title>
-  </programme>
-  <programme start="20200922011400 +0200" stop="20200922012800 +0200" channel="75 | Tooncast">
-    <title lang="es">Ed, Edd y Eddy</title>
-  </programme>
-  <programme start="20200922012800 +0200" stop="20200922013900 +0200" channel="75 | Tooncast">
-    <title lang="es">Coraje, el perro cobarde</title>
-  </programme>
-  <programme start="20200922013900 +0200" stop="20200922015000 +0200" channel="75 | Tooncast">
-    <title lang="es">Coraje, el perro cobarde</title>
-  </programme>
-  <programme start="20200922015000 +0200" stop="20200922020300 +0200" channel="75 | Tooncast">
-    <title lang="es">Coraje, el perro cobarde</title>
-  </programme>
-  <programme start="20200922020300 +0200" stop="20200922022400 +0200" channel="75 | Tooncast">
-    <title lang="es">ThunderCats rugen</title>
-  </programme>
-  <programme start="20200922022400 +0200" stop="20200922024700 +0200" channel="75 | Tooncast">
-    <title lang="es">ThunderCats rugen</title>
-  </programme>
-  <programme start="20200922024700 +0200" stop="20200922031000 +0200" channel="75 | Tooncast">
-    <title lang="es">ThunderCats rugen</title>
-  </programme>
-  <programme start="20200922031000 +0200" stop="20200922033300 +0200" channel="75 | Tooncast">
-    <title lang="es">¿Scooby Doo, dónde estás</title>
-  </programme>
-  <programme start="20200922033300 +0200" stop="20200922040000 +0200" channel="75 | Tooncast">
-    <title lang="es">Don Gato y Su Pandilla</title>
-  </programme>
-  <programme start="20200922040000 +0200" stop="20200922040700 +0200" channel="75 | Tooncast">
-    <title lang="es">La Hormiga Atómica</title>
-  </programme>
-  <programme start="20200922040700 +0200" stop="20200922041300 +0200" channel="75 | Tooncast">
-    <title lang="es">La Hormiga Atómica</title>
-  </programme>
-  <programme start="20200922041300 +0200" stop="20200922042000 +0200" channel="75 | Tooncast">
-    <title lang="es">La Hormiga Atómica</title>
-  </programme>
-  <programme start="20200922042000 +0200" stop="20200922042600 +0200" channel="75 | Tooncast">
-    <title lang="es">La Hormiga Atómica</title>
-  </programme>
-  <programme start="20200922042600 +0200" stop="20200922043500 +0200" channel="75 | Tooncast">
-    <title lang="es">La Hormiga Atómica</title>
-  </programme>
-  <programme start="20200922043500 +0200" stop="20200922044200 +0200" channel="75 | Tooncast">
-    <title lang="es">Ricochet Rabbit</title>
-  </programme>
-  <programme start="20200922044200 +0200" stop="20200922044900 +0200" channel="75 | Tooncast">
-    <title lang="es">Ricochet Rabbit</title>
-  </programme>
-  <programme start="20200922044900 +0200" stop="20200922045600 +0200" channel="75 | Tooncast">
-    <title lang="es">Ricochet Rabbit</title>
-  </programme>
-  <programme start="20200922045600 +0200" stop="20200922050500 +0200" channel="75 | Tooncast">
-    <title lang="es">Ricochet Rabbit</title>
-  </programme>
-  <programme start="20200922050500 +0200" stop="20200922052800 +0200" channel="75 | Tooncast">
-    <title lang="es">Los peligros de Penélope Glamour</title>
-  </programme>
-  <programme start="20200922052800 +0200" stop="20200922053500 +0200" channel="75 | Tooncast">
-    <title lang="es">Popeye</title>
-  </programme>
-  <programme start="20200922053500 +0200" stop="20200922054200 +0200" channel="75 | Tooncast">
-    <title lang="es">Popeye</title>
-  </programme>
-  <programme start="20200922054200 +0200" stop="20200922054900 +0200" channel="75 | Tooncast">
-    <title lang="es">Popeye</title>
-  </programme>
-  <programme start="20200922054900 +0200" stop="20200922055700 +0200" channel="75 | Tooncast">
-    <title lang="es">Popeye</title>
-  </programme>
-  <programme start="20200922055700 +0200" stop="20200922060500 +0200" channel="75 | Tooncast">
-    <title lang="es">Favoritos de MGM</title>
-  </programme>
-  <programme start="20200922060500 +0200" stop="20200922061400 +0200" channel="75 | Tooncast">
-    <title lang="es">Favoritos de MGM</title>
-  </programme>
-  <programme start="20200922061400 +0200" stop="20200922062100 +0200" channel="75 | Tooncast">
-    <title lang="es">Tom y Jerry</title>
-  </programme>
-  <programme start="20200922062100 +0200" stop="20200922063000 +0200" channel="75 | Tooncast">
-    <title lang="es">Tom y Jerry</title>
-  </programme>
-  <programme start="20200922063000 +0200" stop="20200922065500 +0200" channel="75 | Tooncast">
-    <title lang="es">Pinky y Cerebro</title>
-  </programme>
-  <programme start="20200922065500 +0200" stop="20200922071600 +0200" channel="75 | Tooncast">
-    <title lang="es">Animaniacs</title>
-  </programme>
-  <programme start="20200922071600 +0200" stop="20200922073800 +0200" channel="75 | Tooncast">
-    <title lang="es">Animaniacs</title>
-  </programme>
-  <programme start="20200922073800 +0200" stop="20200922080000 +0200" channel="75 | Tooncast">
-    <title lang="es">Pokémon: Sol y luna</title>
-  </programme>
-  <programme start="20200922080000 +0200" stop="20200922082400 +0200" channel="75 | Tooncast">
-    <title lang="es">Mansión foster para amigos imaginarios</title>
-  </programme>
-  <programme start="20200922082400 +0200" stop="20200922082900 +0200" channel="75 | Tooncast">
-    <title lang="es">Sheep en la Gran Ciudad</title>
-  </programme>
-  <programme start="20200922082900 +0200" stop="20200922083100 +0200" channel="75 | Tooncast">
-    <title lang="es">Sheep en la Gran Ciudad</title>
-  </programme>
-  <programme start="20200922083100 +0200" stop="20200922083500 +0200" channel="75 | Tooncast">
-    <title lang="es">Sheep en la Gran Ciudad</title>
-  </programme>
-  <programme start="20200922083500 +0200" stop="20200922084600 +0200" channel="75 | Tooncast">
-    <title lang="es">Jones, el robot</title>
-  </programme>
-  <programme start="20200922084600 +0200" stop="20200922090000 +0200" channel="75 | Tooncast">
-    <title lang="es">Jones, el robot</title>
-  </programme>
-  <programme start="20200922090000 +0200" stop="20200922090700 +0200" channel="75 | Tooncast">
-    <title lang="es">Hi Hi Puffy Amiyumi</title>
-  </programme>
-  <programme start="20200922090700 +0200" stop="20200922091400 +0200" channel="75 | Tooncast">
-    <title lang="es">Hi Hi Puffy Amiyumi</title>
-  </programme>
-  <programme start="20200922091400 +0200" stop="20200922092100 +0200" channel="75 | Tooncast">
-    <title lang="es">Hi Hi Puffy Amiyumi</title>
-  </programme>
-  <programme start="20200922092100 +0200" stop="20200922092800 +0200" channel="75 | Tooncast">
-    <title lang="es">Hi Hi Puffy Amiyumi</title>
-  </programme>
-  <programme start="20200922092800 +0200" stop="20200922093800 +0200" channel="75 | Tooncast">
-    <title lang="es">Hi Hi Puffy Amiyumi</title>
-  </programme>
-  <programme start="20200922093800 +0200" stop="20200922100000 +0200" channel="75 | Tooncast">
-    <title lang="es">Taz-Mania</title>
-  </programme>
-  <programme start="20200922100000 +0200" stop="20200922102300 +0200" channel="75 | Tooncast">
-    <title lang="es">Las Aventuras de Silvestre y Piolín</title>
-  </programme>
-  <programme start="20200922102300 +0200" stop="20200922103000 +0200" channel="75 | Tooncast">
-    <title lang="es">Zuzubalandia</title>
-  </programme>
-  <programme start="20200922103000 +0200" stop="20200922103700 +0200" channel="75 | Tooncast">
-    <title lang="es">Zuzubalandia</title>
-  </programme>
-  <programme start="20200922103700 +0200" stop="20200922104400 +0200" channel="75 | Tooncast">
-    <title lang="es">Zuzubalandia</title>
-  </programme>
-  <programme start="20200922104400 +0200" stop="20200922105100 +0200" channel="75 | Tooncast">
-    <title lang="es">Zuzubalandia</title>
-  </programme>
-  <programme start="20200922105100 +0200" stop="20200922110000 +0200" channel="75 | Tooncast">
-    <title lang="es">Zuzubalandia</title>
-  </programme>
-  <programme start="20200922110000 +0200" stop="20200922112700 +0200" channel="75 | Tooncast">
-    <title lang="es">Static Shock</title>
-  </programme>
-  <programme start="20200922112700 +0200" stop="20200922115000 +0200" channel="75 | Tooncast">
-    <title lang="es">Justice League</title>
-  </programme>
-  <programme start="20200922115000 +0200" stop="20200922121700 +0200" channel="75 | Tooncast">
-    <title lang="es">Batman beyond</title>
-  </programme>
-  <programme start="20200922121700 +0200" stop="20200922122700 +0200" channel="75 | Tooncast">
-    <title lang="es">Las Chicas Superpoderosas</title>
-  </programme>
-  <programme start="20200922122700 +0200" stop="20200922123800 +0200" channel="75 | Tooncast">
-    <title lang="es">Las Chicas Superpoderosas</title>
-  </programme>
-  <programme start="20200922123800 +0200" stop="20200922125200 +0200" channel="75 | Tooncast">
-    <title lang="es">Las Chicas Superpoderosas</title>
-  </programme>
-  <programme start="20200922125200 +0200" stop="20200922130300 +0200" channel="75 | Tooncast">
-    <title lang="es">Ed, Edd y Eddy</title>
-  </programme>
-  <programme start="20200922130300 +0200" stop="20200922131400 +0200" channel="75 | Tooncast">
-    <title lang="es">Ed, Edd y Eddy</title>
-  </programme>
-  <programme start="20200922131400 +0200" stop="20200922132800 +0200" channel="75 | Tooncast">
-    <title lang="es">Ed, Edd y Eddy</title>
-  </programme>
-  <programme start="20200922132800 +0200" stop="20200922133900 +0200" channel="75 | Tooncast">
-    <title lang="es">Coraje, el perro cobarde</title>
-  </programme>
-  <programme start="20200922133900 +0200" stop="20200922134900 +0200" channel="75 | Tooncast">
-    <title lang="es">Coraje, el perro cobarde</title>
-  </programme>
-  <programme start="20200922134900 +0200" stop="20200922140200 +0200" channel="75 | Tooncast">
-    <title lang="es">Coraje, el perro cobarde</title>
-  </programme>
-  <programme start="20200922140200 +0200" stop="20200922142300 +0200" channel="75 | Tooncast">
-    <title lang="es">ThunderCats rugen</title>
-  </programme>
-  <programme start="20200922142300 +0200" stop="20200922144600 +0200" channel="75 | Tooncast">
-    <title lang="es">ThunderCats rugen</title>
-  </programme>
-  <programme start="20200922144600 +0200" stop="20200922151000 +0200" channel="75 | Tooncast">
-    <title lang="es">ThunderCats rugen</title>
-  </programme>
-  <programme start="20200922151000 +0200" stop="20200922153400 +0200" channel="75 | Tooncast">
-    <title lang="es">¿Scooby Doo, dónde estás</title>
-  </programme>
-  <programme start="20200922153400 +0200" stop="20200922160100 +0200" channel="75 | Tooncast">
-    <title lang="es">Don Gato y Su Pandilla</title>
-  </programme>
-  <programme start="20200922160100 +0200" stop="20200922160800 +0200" channel="75 | Tooncast">
-    <title lang="es">La Hormiga Atómica</title>
-  </programme>
-  <programme start="20200922160800 +0200" stop="20200922161500 +0200" channel="75 | Tooncast">
-    <title lang="es">La Hormiga Atómica</title>
-  </programme>
-  <programme start="20200922161500 +0200" stop="20200922163800 +0200" channel="75 | Tooncast">
-    <title lang="es">La Hormiga Atómica</title>
-  </programme>
-  <programme start="20200922163800 +0200" stop="20200922164500 +0200" channel="75 | Tooncast">
-    <title lang="es">Ricochet Rabbit</title>
-  </programme>
-  <programme start="20200922164500 +0200" stop="20200922165100 +0200" channel="75 | Tooncast">
-    <title lang="es">Ricochet Rabbit</title>
-  </programme>
-  <programme start="20200922165100 +0200" stop="20200922170100 +0200" channel="75 | Tooncast">
-    <title lang="es">Ricochet Rabbit</title>
-  </programme>
-  <programme start="20200922170100 +0200" stop="20200922172400 +0200" channel="75 | Tooncast">
-    <title lang="es">Los peligros de Penélope Glamour</title>
-  </programme>
-  <programme start="20200922172400 +0200" stop="20200922173100 +0200" channel="75 | Tooncast">
-    <title lang="es">Popeye</title>
-  </programme>
-  <programme start="20200922173100 +0200" stop="20200922173800 +0200" channel="75 | Tooncast">
-    <title lang="es">Popeye</title>
-  </programme>
-  <programme start="20200922173800 +0200" stop="20200922174400 +0200" channel="75 | Tooncast">
-    <title lang="es">Popeye</title>
-  </programme>
-  <programme start="20200922174400 +0200" stop="20200922175300 +0200" channel="75 | Tooncast">
-    <title lang="es">Popeye</title>
-  </programme>
-  <programme start="20200922175300 +0200" stop="20200922180100 +0200" channel="75 | Tooncast">
-    <title lang="es">Favoritos de MGM</title>
-  </programme>
-  <programme start="20200922180100 +0200" stop="20200922181000 +0200" channel="75 | Tooncast">
-    <title lang="es">Favoritos de MGM</title>
-  </programme>
-  <programme start="20200922181000 +0200" stop="20200922181600 +0200" channel="75 | Tooncast">
-    <title lang="es">Tom y Jerry</title>
-  </programme>
-  <programme start="20200922181600 +0200" stop="20200922182500 +0200" channel="75 | Tooncast">
-    <title lang="es">Tom y Jerry</title>
-  </programme>
-  <programme start="20200922182500 +0200" stop="20200922185000 +0200" channel="75 | Tooncast">
-    <title lang="es">Pinky y Cerebro</title>
-  </programme>
-  <programme start="20200922185000 +0200" stop="20200922191100 +0200" channel="75 | Tooncast">
-    <title lang="es">Animaniacs</title>
-  </programme>
-  <programme start="20200922191100 +0200" stop="20200922193500 +0200" channel="75 | Tooncast">
-    <title lang="es">Animaniacs</title>
-  </programme>
-  <programme start="20200922193500 +0200" stop="20200922195900 +0200" channel="75 | Tooncast">
-    <title lang="es">Pokémon: Sol y luna</title>
-  </programme>
-  <programme start="20200922195900 +0200" stop="20200922202400 +0200" channel="75 | Tooncast">
-    <title lang="es">Mansión foster para amigos imaginarios</title>
-  </programme>
-  <programme start="20200922202400 +0200" stop="20200922202800 +0200" channel="75 | Tooncast">
-    <title lang="es">Sheep en la Gran Ciudad</title>
-  </programme>
-  <programme start="20200922202800 +0200" stop="20200922203500 +0200" channel="75 | Tooncast">
-    <title lang="es">Sheep en la Gran Ciudad</title>
-  </programme>
-  <programme start="20200922203500 +0200" stop="20200922204600 +0200" channel="75 | Tooncast">
-    <title lang="es">Jones, el robot</title>
-  </programme>
-  <programme start="20200922204600 +0200" stop="20200922210000 +0200" channel="75 | Tooncast">
-    <title lang="es">Jones, el robot</title>
-  </programme>
-  <programme start="20200922210000 +0200" stop="20200922210700 +0200" channel="75 | Tooncast">
-    <title lang="es">Hi Hi Puffy Amiyumi</title>
-  </programme>
-  <programme start="20200922210700 +0200" stop="20200922211400 +0200" channel="75 | Tooncast">
-    <title lang="es">Hi Hi Puffy Amiyumi</title>
-  </programme>
-  <programme start="20200922211400 +0200" stop="20200922212100 +0200" channel="75 | Tooncast">
-    <title lang="es">Hi Hi Puffy Amiyumi</title>
-  </programme>
-  <programme start="20200922212100 +0200" stop="20200922212800 +0200" channel="75 | Tooncast">
-    <title lang="es">Hi Hi Puffy Amiyumi</title>
-  </programme>
-  <programme start="20200922212800 +0200" stop="20200922213800 +0200" channel="75 | Tooncast">
-    <title lang="es">Hi Hi Puffy Amiyumi</title>
-  </programme>
-  <programme start="20200922213800 +0200" stop="20200922220100 +0200" channel="75 | Tooncast">
-    <title lang="es">Taz-Mania</title>
-  </programme>
-  <programme start="20200922220100 +0200" stop="20200922222400 +0200" channel="75 | Tooncast">
-    <title lang="es">Las Aventuras de Silvestre y Piolín</title>
-  </programme>
-  <programme start="20200922222400 +0200" stop="20200922223100 +0200" channel="75 | Tooncast">
-    <title lang="es">Zuzubalandia</title>
-  </programme>
-  <programme start="20200922223100 +0200" stop="20200922223800 +0200" channel="75 | Tooncast">
-    <title lang="es">Zuzubalandia</title>
-  </programme>
-  <programme start="20200922223800 +0200" stop="20200922224500 +0200" channel="75 | Tooncast">
-    <title lang="es">Zuzubalandia</title>
-  </programme>
-  <programme start="20200922224500 +0200" stop="20200922225200 +0200" channel="75 | Tooncast">
-    <title lang="es">Zuzubalandia</title>
-  </programme>
-  <programme start="20200922225200 +0200" stop="20200922230000 +0200" channel="75 | Tooncast">
-    <title lang="es">Zuzubalandia</title>
-  </programme>
-  <programme start="20200922230000 +0200" stop="20200922232700 +0200" channel="75 | Tooncast">
-    <title lang="es">Static Shock</title>
-  </programme>
-  <programme start="20200922232700 +0200" stop="20200922235000 +0200" channel="75 | Tooncast">
-    <title lang="es">Justice League</title>
-  </programme>
-  <programme start="20200922235000 +0200" stop="20200923001700 +0200" channel="75 | Tooncast">
-    <title lang="es">Batman beyond</title>
-  </programme>
+  <channel id="68 | Cartoon Network">
+    <display-name lang="es">68 | Cartoon Network</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="66 | Baby TV">
+    <display-name lang="es">66 | Baby TV</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/baby_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="67 | Boomerang">
+    <display-name lang="es">67 | Boomerang</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/boomerang_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="70 | Disney Channel">
+    <display-name lang="es">70 | Disney Channel</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="[ES]  DISNEY CHANNEL">
+    <display-name lang="es">[ES]  DISNEY CHANNEL</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="62 | Discovery Home y Health">
+    <display-name lang="es">62 | Discovery Home y Health</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20200922004000 +0200" stop="20200922010700 +0200" channel="69 | Discovery Kids">
     <title lang="es">44 Gatos</title>
   </programme>
@@ -608,5 +302,650 @@
   </programme>
   <programme start="20200922233300 +0200" stop="20200923002600 +0200" channel="71 | Disney Junior">
     <title lang="es">La Guardia del León</title>
+  </programme>
+  <programme start="20200922004500 +0200" stop="20200922010000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Any Malu Show</title>
+  </programme>
+  <programme start="20200922010000 +0200" stop="20200922020000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20200922020000 +0200" stop="20200922024500 +0200" channel="68 | Cartoon Network">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20200922024500 +0200" stop="20200922030000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Unikitty</title>
+  </programme>
+  <programme start="20200922030000 +0200" stop="20200922034500 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20200922034500 +0200" stop="20200922040000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Victor y Valentino</title>
+  </programme>
+  <programme start="20200922040000 +0200" stop="20200922050000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20200922050000 +0200" stop="20200922060000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">CN Off Air</title>
+  </programme>
+  <programme start="20200922060000 +0200" stop="20200922063000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20200922063000 +0200" stop="20200922073000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20200922073000 +0200" stop="20200922080000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20200922080000 +0200" stop="20200922090000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Mao Mao Héroes de puro</title>
+  </programme>
+  <programme start="20200922090000 +0200" stop="20200922100000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Unikitty</title>
+  </programme>
+  <programme start="20200922100000 +0200" stop="20200922110000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20200922110000 +0200" stop="20200922111500 +0200" channel="68 | Cartoon Network">
+    <title lang="es">El Laboratorio de Dexter</title>
+  </programme>
+  <programme start="20200922111500 +0200" stop="20200922114500 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Generador rex</title>
+  </programme>
+  <programme start="20200922114500 +0200" stop="20200922120000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Sheep en la Gran Ciudad</title>
+  </programme>
+  <programme start="20200922120000 +0200" stop="20200922130000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Tío grandpa</title>
+  </programme>
+  <programme start="20200922130000 +0200" stop="20200922140000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Unikitty</title>
+  </programme>
+  <programme start="20200922140000 +0200" stop="20200922142500 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Transformers Cyberverse</title>
+  </programme>
+  <programme start="20200922142500 +0200" stop="20200922150000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Pokémon Sol y Luna</title>
+  </programme>
+  <programme start="20200922150000 +0200" stop="20200922153000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20200922153000 +0200" stop="20200922163000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20200922163000 +0200" stop="20200922170000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20200922170000 +0200" stop="20200922180000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20200922180000 +0200" stop="20200922183000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Mao Mao Héroes de puro</title>
+  </programme>
+  <programme start="20200922183000 +0200" stop="20200922190000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20200922190000 +0200" stop="20200922194500 +0200" channel="68 | Cartoon Network">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20200922194500 +0200" stop="20200922200000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Ben 10</title>
+  </programme>
+  <programme start="20200922200000 +0200" stop="20200922204500 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20200922204500 +0200" stop="20200922213000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20200922213000 +0200" stop="20200922220000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Drama total: La guardería</title>
+  </programme>
+  <programme start="20200922220000 +0200" stop="20200922230000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Mao Mao Héroes de puro</title>
+  </programme>
+  <programme start="20200922230000 +0200" stop="20200923000000 +0200" channel="68 | Cartoon Network">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20200922003000 +0200" stop="20200922010000 +0200" channel="66 | Baby TV">
+    <title lang="es">Descubriendo con Vegibugs</title>
+  </programme>
+  <programme start="20200922010000 +0200" stop="20200922013000 +0200" channel="66 | Baby TV">
+    <title lang="es">Juega y aprende con canciones</title>
+  </programme>
+  <programme start="20200922013000 +0200" stop="20200922020000 +0200" channel="66 | Baby TV">
+    <title lang="es">Juegos de adivinanzas</title>
+  </programme>
+  <programme start="20200922020000 +0200" stop="20200922023000 +0200" channel="66 | Baby TV">
+    <title lang="es">La hora de la diversión</title>
+  </programme>
+  <programme start="20200922023000 +0200" stop="20200922030000 +0200" channel="66 | Baby TV">
+    <title lang="es">La hora de la diversión</title>
+  </programme>
+  <programme start="20200922030000 +0200" stop="20200922033000 +0200" channel="66 | Baby TV">
+    <title lang="es">La hora del arte</title>
+  </programme>
+  <programme start="20200922033000 +0200" stop="20200922040000 +0200" channel="66 | Baby TV">
+    <title lang="es">Música clásica e Historias</title>
+  </programme>
+  <programme start="20200922040000 +0200" stop="20200922043000 +0200" channel="66 | Baby TV">
+    <title lang="es">Cálmate y Relájate</title>
+  </programme>
+  <programme start="20200922043000 +0200" stop="20200922050000 +0200" channel="66 | Baby TV">
+    <title lang="es">Cálmate y Relájate</title>
+  </programme>
+  <programme start="20200922050000 +0200" stop="20200922053000 +0200" channel="66 | Baby TV">
+    <title lang="es">Dulces Sueños</title>
+  </programme>
+  <programme start="20200922053000 +0200" stop="20200922060000 +0200" channel="66 | Baby TV">
+    <title lang="es">Dulces Sueños</title>
+  </programme>
+  <programme start="20200922060000 +0200" stop="20200922063000 +0200" channel="66 | Baby TV">
+    <title lang="es">Noches de ensueño</title>
+  </programme>
+  <programme start="20200922063000 +0200" stop="20200922070000 +0200" channel="66 | Baby TV">
+    <title lang="es">Noches de ensueño</title>
+  </programme>
+  <programme start="20200922070000 +0200" stop="20200922073000 +0200" channel="66 | Baby TV">
+    <title lang="es">Noches de ensueño</title>
+  </programme>
+  <programme start="20200922073000 +0200" stop="20200922080000 +0200" channel="66 | Baby TV">
+    <title lang="es">Noches de ensueño</title>
+  </programme>
+  <programme start="20200922080000 +0200" stop="20200922083000 +0200" channel="66 | Baby TV">
+    <title lang="es">Noches de ensueño</title>
+  </programme>
+  <programme start="20200922083000 +0200" stop="20200922090000 +0200" channel="66 | Baby TV">
+    <title lang="es">La luna y las estrellas</title>
+  </programme>
+  <programme start="20200922090000 +0200" stop="20200922093000 +0200" channel="66 | Baby TV">
+    <title lang="es">Las melodías nocturnas</title>
+  </programme>
+  <programme start="20200922093000 +0200" stop="20200922100000 +0200" channel="66 | Baby TV">
+    <title lang="es">Dulces Sueños</title>
+  </programme>
+  <programme start="20200922100000 +0200" stop="20200922103000 +0200" channel="66 | Baby TV">
+    <title lang="es">Abrazos de Buenas Noches</title>
+  </programme>
+  <programme start="20200922103000 +0200" stop="20200922110000 +0200" channel="66 | Baby TV">
+    <title lang="es">Noches de ensueño</title>
+  </programme>
+  <programme start="20200922110000 +0200" stop="20200922113000 +0200" channel="66 | Baby TV">
+    <title lang="es">La luna y las estrellas</title>
+  </programme>
+  <programme start="20200922113000 +0200" stop="20200922120000 +0200" channel="66 | Baby TV">
+    <title lang="es">Sonidos Relajantes</title>
+  </programme>
+  <programme start="20200922120000 +0200" stop="20200922123000 +0200" channel="66 | Baby TV">
+    <title lang="es">De la Noche al Día</title>
+  </programme>
+  <programme start="20200922123000 +0200" stop="20200922130000 +0200" channel="66 | Baby TV">
+    <title lang="es">De la Noche al Día</title>
+  </programme>
+  <programme start="20200922130000 +0200" stop="20200922133000 +0200" channel="66 | Baby TV">
+    <title lang="es">Amanence y brilla</title>
+  </programme>
+  <programme start="20200922133000 +0200" stop="20200922140000 +0200" channel="66 | Baby TV">
+    <title lang="es">Amanence y brilla</title>
+  </programme>
+  <programme start="20200922140000 +0200" stop="20200922143000 +0200" channel="66 | Baby TV">
+    <title lang="es">El momento de los buenos dìas</title>
+  </programme>
+  <programme start="20200922143000 +0200" stop="20200922150000 +0200" channel="66 | Baby TV">
+    <title lang="es">El momento de los buenos dìas</title>
+  </programme>
+  <programme start="20200922150000 +0200" stop="20200922153000 +0200" channel="66 | Baby TV">
+    <title lang="es">Empieza tu dìa con los amigos</title>
+  </programme>
+  <programme start="20200922153000 +0200" stop="20200922160000 +0200" channel="66 | Baby TV">
+    <title lang="es">Ratones constructores</title>
+  </programme>
+  <programme start="20200922160000 +0200" stop="20200922163000 +0200" channel="66 | Baby TV">
+    <title lang="es">La clase de Teeny &amp; Tiny</title>
+  </programme>
+  <programme start="20200922163000 +0200" stop="20200922170000 +0200" channel="66 | Baby TV">
+    <title lang="es">La hora del arte</title>
+  </programme>
+  <programme start="20200922170000 +0200" stop="20200922173000 +0200" channel="66 | Baby TV">
+    <title lang="es">Los primeros descubrimientos</title>
+  </programme>
+  <programme start="20200922173000 +0200" stop="20200922180000 +0200" channel="66 | Baby TV">
+    <title lang="es">El patio de la imaginación</title>
+  </programme>
+  <programme start="20200922180000 +0200" stop="20200922183000 +0200" channel="66 | Baby TV">
+    <title lang="es">Explorando con BabyHood</title>
+  </programme>
+  <programme start="20200922183000 +0200" stop="20200922190000 +0200" channel="66 | Baby TV">
+    <title lang="es">La Pequeña Lola</title>
+  </programme>
+  <programme start="20200922190000 +0200" stop="20200922193000 +0200" channel="66 | Baby TV">
+    <title lang="es">A bailar</title>
+  </programme>
+  <programme start="20200922193000 +0200" stop="20200922200000 +0200" channel="66 | Baby TV">
+    <title lang="es">La hora del arte</title>
+  </programme>
+  <programme start="20200922200000 +0200" stop="20200922203000 +0200" channel="66 | Baby TV">
+    <title lang="es">Los primeros descubrimientos</title>
+  </programme>
+  <programme start="20200922203000 +0200" stop="20200922210000 +0200" channel="66 | Baby TV">
+    <title lang="es">El patio de la imaginación</title>
+  </programme>
+  <programme start="20200922210000 +0200" stop="20200922213000 +0200" channel="66 | Baby TV">
+    <title lang="es">Explorando con BabyHood</title>
+  </programme>
+  <programme start="20200922213000 +0200" stop="20200922220000 +0200" channel="66 | Baby TV">
+    <title lang="es">La Pequeña Pandilla</title>
+  </programme>
+  <programme start="20200922220000 +0200" stop="20200922223000 +0200" channel="66 | Baby TV">
+    <title lang="es">Ratones constructores</title>
+  </programme>
+  <programme start="20200922223000 +0200" stop="20200922230000 +0200" channel="66 | Baby TV">
+    <title lang="es">La hora del arte</title>
+  </programme>
+  <programme start="20200922230000 +0200" stop="20200922233000 +0200" channel="66 | Baby TV">
+    <title lang="es">Los primeros descubrimientos</title>
+  </programme>
+  <programme start="20200922233000 +0200" stop="20200923000000 +0200" channel="66 | Baby TV">
+    <title lang="es">El patio de la imaginación</title>
+  </programme>
+  <programme start="20200922003000 +0200" stop="20200922010000 +0200" channel="67 | Boomerang">
+    <title lang="es">Las Chicas Superpoderosas</title>
+  </programme>
+  <programme start="20200922010000 +0200" stop="20200922013000 +0200" channel="67 | Boomerang">
+    <title lang="es">Mr. Bean</title>
+  </programme>
+  <programme start="20200922013000 +0200" stop="20200922020000 +0200" channel="67 | Boomerang">
+    <title lang="es">WeeBoom</title>
+  </programme>
+  <programme start="20200922010100 +0200" stop="20200922013100 +0200" channel="70 | Disney Channel">
+    <title lang="es">Sydney como Max</title>
+  </programme>
+  <programme start="20200922013100 +0200" stop="20200922020000 +0200" channel="70 | Disney Channel">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20200922020000 +0200" stop="20200922023200 +0200" channel="70 | Disney Channel">
+    <title lang="es">Encuéntrame en París</title>
+  </programme>
+  <programme start="20200922023200 +0200" stop="20200922030000 +0200" channel="70 | Disney Channel">
+    <title lang="es">Gabby Duran Niñera de aliens</title>
+  </programme>
+  <programme start="20200922030000 +0200" stop="20200922044300 +0200" channel="70 | Disney Channel">
+    <title lang="es">Herbie a toda marcha</title>
+  </programme>
+  <programme start="20200922044300 +0200" stop="20200922053300 +0200" channel="70 | Disney Channel">
+    <title lang="es">Bia</title>
+  </programme>
+  <programme start="20200922053300 +0200" stop="20200922055800 +0200" channel="70 | Disney Channel">
+    <title lang="es">Encuéntrame en París</title>
+  </programme>
+  <programme start="20200922055800 +0200" stop="20200922062500 +0200" channel="70 | Disney Channel">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20200922062500 +0200" stop="20200922075700 +0200" channel="70 | Disney Channel">
+    <title lang="es">Radio Rebel</title>
+  </programme>
+  <programme start="20200922075700 +0200" stop="20200922082000 +0200" channel="70 | Disney Channel">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20200922082000 +0200" stop="20200922084300 +0200" channel="70 | Disney Channel">
+    <title lang="es">Jessie</title>
+  </programme>
+  <programme start="20200922084300 +0200" stop="20200922095400 +0200" channel="70 | Disney Channel">
+    <title lang="es">Soy Luna</title>
+  </programme>
+  <programme start="20200922095400 +0200" stop="20200922101600 +0200" channel="70 | Disney Channel">
+    <title lang="es">Hotel Transylvania La serie</title>
+  </programme>
+  <programme start="20200922101600 +0200" stop="20200922103900 +0200" channel="70 | Disney Channel">
+    <title lang="es">Enredados otra vez La serie</title>
+  </programme>
+  <programme start="20200922103900 +0200" stop="20200922110200 +0200" channel="70 | Disney Channel">
+    <title lang="es">Los 7E</title>
+  </programme>
+  <programme start="20200922110200 +0200" stop="20200922112300 +0200" channel="70 | Disney Channel">
+    <title lang="es">Andi Mack</title>
+  </programme>
+  <programme start="20200922112300 +0200" stop="20200922114500 +0200" channel="70 | Disney Channel">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20200922114500 +0200" stop="20200922120800 +0200" channel="70 | Disney Channel">
+    <title lang="es">Miraculous Las aventuras de</title>
+  </programme>
+  <programme start="20200922120800 +0200" stop="20200922123200 +0200" channel="70 | Disney Channel">
+    <title lang="es">Coop y Cami</title>
+  </programme>
+  <programme start="20200922123200 +0200" stop="20200922130000 +0200" channel="70 | Disney Channel">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20200922130000 +0200" stop="20200922132400 +0200" channel="70 | Disney Channel">
+    <title lang="es">Miraculous Las aventuras de</title>
+  </programme>
+  <programme start="20200922132400 +0200" stop="20200922140000 +0200" channel="70 | Disney Channel">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20200922140000 +0200" stop="20200922150000 +0200" channel="70 | Disney Channel">
+    <title lang="es">Los 7E</title>
+  </programme>
+  <programme start="20200922150000 +0200" stop="20200922152400 +0200" channel="70 | Disney Channel">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20200922152400 +0200" stop="20200922155900 +0200" channel="70 | Disney Channel">
+    <title lang="es">Amphibia</title>
+  </programme>
+  <programme start="20200922155900 +0200" stop="20200922162400 +0200" channel="70 | Disney Channel">
+    <title lang="es">Enredados otra vez La serie</title>
+  </programme>
+  <programme start="20200922162400 +0200" stop="20200922172400 +0200" channel="70 | Disney Channel">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20200922172400 +0200" stop="20200922182300 +0200" channel="70 | Disney Channel">
+    <title lang="es">The Owl House ? La Casa Búho</title>
+  </programme>
+  <programme start="20200922182300 +0200" stop="20200922185400 +0200" channel="70 | Disney Channel">
+    <title lang="es">Andi Mack</title>
+  </programme>
+  <programme start="20200922185400 +0200" stop="20200922210200 +0200" channel="70 | Disney Channel">
+    <title lang="es">El Buen Amigo Gigante</title>
+  </programme>
+  <programme start="20200922210200 +0200" stop="20200922220300 +0200" channel="70 | Disney Channel">
+    <title lang="es">Bia</title>
+  </programme>
+  <programme start="20200922220300 +0200" stop="20200922223200 +0200" channel="70 | Disney Channel">
+    <title lang="es">Coop y Cami</title>
+  </programme>
+  <programme start="20200922223200 +0200" stop="20200922230200 +0200" channel="70 | Disney Channel">
+    <title lang="es">Hotel Transylvania La serie</title>
+  </programme>
+  <programme start="20200922230200 +0200" stop="20200922233100 +0200" channel="70 | Disney Channel">
+    <title lang="es">The Owl House ? La Casa Búho</title>
+  </programme>
+  <programme start="20200922233100 +0200" stop="20200923000100 +0200" channel="70 | Disney Channel">
+    <title lang="es">Miraculous Las aventuras de</title>
+  </programme>
+  <programme start="20200922000500 +0200" stop="20200922001800 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">C.R.A.K.S</title>
+  </programme>
+  <programme start="20200922001800 +0200" stop="20200922003200 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">C.R.A.K.S</title>
+  </programme>
+  <programme start="20200922003200 +0200" stop="20200922005300 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Cambio de clase</title>
+  </programme>
+  <programme start="20200922005300 +0200" stop="20200922010100 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Cambio de clase</title>
+  </programme>
+  <programme start="20200922010100 +0200" stop="20200922012500 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Art Attack</title>
+  </programme>
+  <programme start="20200922012500 +0200" stop="20200922013900 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Club Houdini</title>
+  </programme>
+  <programme start="20200922013900 +0200" stop="20200922015200 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Club Houdini</title>
+  </programme>
+  <programme start="20200922015200 +0200" stop="20200922020400 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Club Houdini</title>
+  </programme>
+  <programme start="20200922020400 +0200" stop="20200922021500 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Club Houdini</title>
+  </programme>
+  <programme start="20200922021500 +0200" stop="20200922023700 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Cambio de clase</title>
+  </programme>
+  <programme start="20200922023700 +0200" stop="20200922025800 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Cambio de clase</title>
+  </programme>
+  <programme start="20200922025800 +0200" stop="20200922031100 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">C.R.A.K.S</title>
+  </programme>
+  <programme start="20200922031100 +0200" stop="20200922032300 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">C.R.A.K.S</title>
+  </programme>
+  <programme start="20200922032300 +0200" stop="20200922033600 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Club Houdini</title>
+  </programme>
+  <programme start="20200922033600 +0200" stop="20200922034800 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Club Houdini</title>
+  </programme>
+  <programme start="20200922034800 +0200" stop="20200922040900 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Cambio de clase</title>
+  </programme>
+  <programme start="20200922040900 +0200" stop="20200922043000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Cambio de clase</title>
+  </programme>
+  <programme start="20200922043000 +0200" stop="20200922044200 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Club Houdini</title>
+  </programme>
+  <programme start="20200922044200 +0200" stop="20200922045700 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Club Houdini</title>
+  </programme>
+  <programme start="20200922045700 +0200" stop="20200922050700 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Club Houdini</title>
+  </programme>
+  <programme start="20200922050700 +0200" stop="20200922052100 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Club Houdini</title>
+  </programme>
+  <programme start="20200922052100 +0200" stop="20200922053300 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">C.R.A.K.S</title>
+  </programme>
+  <programme start="20200922053300 +0200" stop="20200922054500 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">C.R.A.K.S</title>
+  </programme>
+  <programme start="20200922054500 +0200" stop="20200922055200 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Cambio de clase</title>
+  </programme>
+  <programme start="20200922055200 +0200" stop="20200922060000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Cambio de clase</title>
+  </programme>
+  <programme start="20200922060000 +0200" stop="20200922061500 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">C.R.A.K.S</title>
+  </programme>
+  <programme start="20200922061500 +0200" stop="20200922062700 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Henry, El Monstruo Feliz</title>
+  </programme>
+  <programme start="20200922062700 +0200" stop="20200922064000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Henry, El Monstruo Feliz</title>
+  </programme>
+  <programme start="20200922064000 +0200" stop="20200922065200 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Henry, El Monstruo Feliz</title>
+  </programme>
+  <programme start="20200922065200 +0200" stop="20200922070500 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Henry, El Monstruo Feliz</title>
+  </programme>
+  <programme start="20200922070500 +0200" stop="20200922071700 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+  </programme>
+  <programme start="20200922071700 +0200" stop="20200922073000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+  </programme>
+  <programme start="20200922073000 +0200" stop="20200922074200 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+  </programme>
+  <programme start="20200922074200 +0200" stop="20200922075500 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+  </programme>
+  <programme start="20200922075500 +0200" stop="20200922080700 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200922080700 +0200" stop="20200922082000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200922082000 +0200" stop="20200922083200 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200922083200 +0200" stop="20200922084500 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200922084500 +0200" stop="20200922085700 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200922085700 +0200" stop="20200922091500 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200922091500 +0200" stop="20200922092600 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Los Green en la gran ciudad</title>
+  </programme>
+  <programme start="20200922092600 +0200" stop="20200922094000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Los Green en la gran ciudad</title>
+  </programme>
+  <programme start="20200922094000 +0200" stop="20200922095100 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Los Green en la gran ciudad</title>
+  </programme>
+  <programme start="20200922095100 +0200" stop="20200922100500 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Los Green en la gran ciudad</title>
+  </programme>
+  <programme start="20200922100500 +0200" stop="20200922101300 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Pat El Perro</title>
+  </programme>
+  <programme start="20200922101300 +0200" stop="20200922102100 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Pat El Perro</title>
+  </programme>
+  <programme start="20200922102100 +0200" stop="20200922103000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Pat El Perro</title>
+  </programme>
+  <programme start="20200922103000 +0200" stop="20200922103800 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Pat El Perro</title>
+  </programme>
+  <programme start="20200922103800 +0200" stop="20200922104600 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Pat El Perro</title>
+  </programme>
+  <programme start="20200922104600 +0200" stop="20200922105500 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Pat El Perro</title>
+  </programme>
+  <programme start="20200922105500 +0200" stop="20200922110300 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Pat El Perro</title>
+  </programme>
+  <programme start="20200922110300 +0200" stop="20200922111000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Pat El Perro</title>
+  </programme>
+  <programme start="20200922111000 +0200" stop="20200922112000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Pat El Perro</title>
+  </programme>
+  <programme start="20200922112000 +0200" stop="20200922113200 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+  </programme>
+  <programme start="20200922113200 +0200" stop="20200922114500 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+  </programme>
+  <programme start="20200922114500 +0200" stop="20200922115700 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+  </programme>
+  <programme start="20200922115700 +0200" stop="20200922121000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+  </programme>
+  <programme start="20200922121000 +0200" stop="20200922123500 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Prodigiosa Las Aventuras</title>
+  </programme>
+  <programme start="20200922123500 +0200" stop="20200922130000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Prodigiosa Las Aventuras</title>
+  </programme>
+  <programme start="20200922130000 +0200" stop="20200922131100 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Los Green en la gran ciudad</title>
+  </programme>
+  <programme start="20200922131100 +0200" stop="20200922132500 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Los Green en la gran ciudad</title>
+  </programme>
+  <programme start="20200922132500 +0200" stop="20200922133600 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Los Green en la gran ciudad</title>
+  </programme>
+  <programme start="20200922133600 +0200" stop="20200922135000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Los Green en la gran ciudad</title>
+  </programme>
+  <programme start="20200922135000 +0200" stop="20200922140200 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200922140200 +0200" stop="20200922142000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200922142000 +0200" stop="20200922143200 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200922143200 +0200" stop="20200922144500 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200922144500 +0200" stop="20200922151000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200922151000 +0200" stop="20200922154000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Gabby Duran Alien total</title>
+  </programme>
+  <programme start="20200922154000 +0200" stop="20200922160500 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Gabby Duran Alien total</title>
+  </programme>
+  <programme start="20200922160500 +0200" stop="20200922163000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Prodigiosa Las Aventuras</title>
+  </programme>
+  <programme start="20200922163000 +0200" stop="20200922170000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Prodigiosa Las Aventuras</title>
+  </programme>
+  <programme start="20200922170000 +0200" stop="20200922172800 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200922172800 +0200" stop="20200922173900 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200922173900 +0200" stop="20200922175700 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200922175700 +0200" stop="20200922181700 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200922181700 +0200" stop="20200922182900 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+  </programme>
+  <programme start="20200922182900 +0200" stop="20200922184500 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+  </programme>
+  <programme start="20200922184500 +0200" stop="20200922185700 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+  </programme>
+  <programme start="20200922185700 +0200" stop="20200922191000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Alvinnn!!! Y las Ardillas</title>
+  </programme>
+  <programme start="20200922191000 +0200" stop="20200922192100 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Los Green en la gran ciudad</title>
+  </programme>
+  <programme start="20200922192100 +0200" stop="20200922194000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Los Green en la gran ciudad</title>
+  </programme>
+  <programme start="20200922194000 +0200" stop="20200922195100 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Los Green en la gran ciudad</title>
+  </programme>
+  <programme start="20200922195100 +0200" stop="20200922200500 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Los Green en la gran ciudad</title>
+  </programme>
+  <programme start="20200922200500 +0200" stop="20200922203000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Súper Mickey Mouse Squad</title>
+  </programme>
+  <programme start="20200922203000 +0200" stop="20200922204200 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200922204200 +0200" stop="20200922210000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200922210000 +0200" stop="20200922211200 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200922211200 +0200" stop="20200922212500 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200922212500 +0200" stop="20200922213700 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200922213700 +0200" stop="20200922215000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20200922215000 +0200" stop="20200922222000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Gabby Duran Alien total</title>
+  </programme>
+  <programme start="20200922222000 +0200" stop="20200922224500 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Gabby Duran Alien total</title>
+  </programme>
+  <programme start="20200922224500 +0200" stop="20200922231500 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Sydney &amp; Max</title>
+  </programme>
+  <programme start="20200922231500 +0200" stop="20200922234000 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Campamento Kikiwaka</title>
+  </programme>
+  <programme start="20200922234000 +0200" stop="20200923000500 +0200" channel="[ES]  DISNEY CHANNEL">
+    <title lang="es">Prodigiosa Las Aventuras</title>
   </programme>
 </tv>
