@@ -65,10 +65,53 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="37 | Discovery World">
-    <display-name lang="es">37 | Discovery World</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world-mediano.png" />
-    <url>http://www.gatotv.com</url>
+  <channel id="SPAIN | MOVISTAR LA LIGA">
+    <display-name lang="es">SPAIN | MOVISTAR LA LIGA</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="SPAIN | MOVISTAR LA LIGA  HD">
+    <display-name lang="es">SPAIN | MOVISTAR LA LIGA  HD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="SPAIN | MOVISTAR LALIGA FHD">
+    <display-name lang="es">SPAIN | MOVISTAR LALIGA FHD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="SPAIN | MOVISTAR #VAMOS">
+    <display-name lang="es">SPAIN | MOVISTAR #VAMOS</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="SPAIN | MOVISTAR DEPORTE 8">
+    <display-name lang="es">SPAIN | MOVISTAR DEPORTE 8</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="SPAIN | MOVISTAR DEPORTES FULL HD">
+    <display-name lang="es">SPAIN | MOVISTAR DEPORTES FULL HD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="[ES] CUATRO">
+    <display-name lang="es">[ES] CUATRO</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="[ES]  CUATRO FHD">
+    <display-name lang="es">[ES]  CUATRO FHD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="[ES]  MOVISTAR ESTRENOS">
+    <display-name lang="es">[ES]  MOVISTAR ESTRENOS</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="[ES]  MOVISTAR ESTRENOS HD">
+    <display-name lang="es">[ES]  MOVISTAR ESTRENOS HD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="[ES] CALLE 13">
+    <display-name lang="es">[ES] CALLE 13</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="[ES] CALLE 13 HD">
+    <display-name lang="es">[ES] CALLE 13 HD</display-name>
+    <url>http://www.movistarplus.es</url>
   </channel>
   <programme start="20200922004000 +0200" stop="20200922010700 +0200" channel="69 | Discovery Kids">
     <title lang="es">44 Gatos</title>
@@ -234,6 +277,9 @@
   </programme>
   <programme start="20200923191900 +0200" stop="20200923194400 +0200" channel="69 | Discovery Kids">
     <title lang="es">Jorge, el curioso</title>
+  </programme>
+  <programme start="20200923194400 +0200" stop="20200923204300 +0200" channel="69 | Discovery Kids">
+    <title lang="es">Peppa</title>
   </programme>
   <programme start="20200924174200 +0200" stop="20200924180700 +0200" channel="69 | Discovery Kids">
     <title lang="es">Polly Pocket</title>
@@ -1027,6 +1073,9 @@
   <programme start="20200923181500 +0200" stop="20200923183000 +0200" channel="68 | Cartoon Network">
     <title lang="es">Mao Mao Héroes de puro</title>
   </programme>
+  <programme start="20200923200000 +0200" stop="20200923204500 +0200" channel="68 | Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
   <programme start="20200924004500 +0200" stop="20200924010000 +0200" channel="68 | Cartoon Network">
     <title lang="es">Oswaldo</title>
   </programme>
@@ -1243,8 +1292,8 @@
   <programme start="20200922233000 +0200" stop="20200923000000 +0200" channel="66 | Baby TV">
     <title lang="es">El patio de la imaginación</title>
   </programme>
-  <programme start="20200923180000 +0200" stop="20200923183000 +0200" channel="66 | Baby TV">
-    <title lang="es">Explorando con BabyHood</title>
+  <programme start="20200923200000 +0200" stop="20200923203000 +0200" channel="66 | Baby TV">
+    <title lang="es">Los primeros descubrimientos</title>
   </programme>
   <programme start="20200922003000 +0200" stop="20200922010000 +0200" channel="67 | Boomerang">
     <title lang="es">Las Chicas Superpoderosas</title>
@@ -4147,6 +4196,9 @@
   <programme start="20200923193000 +0200" stop="20200923200000 +0200" channel="72 | Disney XD">
     <title lang="es">Marvel's Spider-Man</title>
   </programme>
+  <programme start="20200923200000 +0200" stop="20200923203000 +0200" channel="72 | Disney XD">
+    <title lang="es">Trollhunters de Guillermo del Toro Relatos de Arcadia</title>
+  </programme>
   <programme start="20200923203000 +0200" stop="20200923210000 +0200" channel="72 | Disney XD">
     <title lang="es">Grandes héroes la serie</title>
   </programme>
@@ -5589,452 +5641,5 @@
   </programme>
   <programme start="20200926234000 +0200" stop="20200927003200 +0200" channel="36 | Discovery Turbo">
     <title lang="es">Texas Trocas</title>
-  </programme>
-  <programme start="20200922001200 +0200" stop="20200922003600 +0200" channel="37 | Discovery World">
-    <title lang="es">Buying Hawaii</title>
-  </programme>
-  <programme start="20200922003600 +0200" stop="20200922010000 +0200" channel="37 | Discovery World">
-    <title lang="es">Menos es más</title>
-  </programme>
-  <programme start="20200922010000 +0200" stop="20200922012400 +0200" channel="37 | Discovery World">
-    <title lang="es">Menos es más</title>
-  </programme>
-  <programme start="20200922012400 +0200" stop="20200922014800 +0200" channel="37 | Discovery World">
-    <title lang="es">Buying Hawaii</title>
-  </programme>
-  <programme start="20200922014800 +0200" stop="20200922021200 +0200" channel="37 | Discovery World">
-    <title lang="es">Buying Hawaii</title>
-  </programme>
-  <programme start="20200922021200 +0200" stop="20200922023600 +0200" channel="37 | Discovery World">
-    <title lang="es">¿Podría vivir ahí</title>
-  </programme>
-  <programme start="20200922023600 +0200" stop="20200922030000 +0200" channel="37 | Discovery World">
-    <title lang="es">¿Podría vivir ahí</title>
-  </programme>
-  <programme start="20200922030000 +0200" stop="20200922034800 +0200" channel="37 | Discovery World">
-    <title lang="es">Hoteles increíbles</title>
-  </programme>
-  <programme start="20200922034800 +0200" stop="20200922043600 +0200" channel="37 | Discovery World">
-    <title lang="es">Casas rodantes increíbles</title>
-  </programme>
-  <programme start="20200922043600 +0200" stop="20200922052400 +0200" channel="37 | Discovery World">
-    <title lang="es">Yates increíbles</title>
-  </programme>
-  <programme start="20200922052400 +0200" stop="20200922061200 +0200" channel="37 | Discovery World">
-    <title lang="es">Megayates</title>
-  </programme>
-  <programme start="20200922061200 +0200" stop="20200922070000 +0200" channel="37 | Discovery World">
-    <title lang="es">Vagones de lujo</title>
-  </programme>
-  <programme start="20200922070000 +0200" stop="20200922072400 +0200" channel="37 | Discovery World">
-    <title lang="es">A puertas abiertas por el mundo</title>
-  </programme>
-  <programme start="20200922072400 +0200" stop="20200922074800 +0200" channel="37 | Discovery World">
-    <title lang="es">A puertas abiertas por el mundo</title>
-  </programme>
-  <programme start="20200922074800 +0200" stop="20200922081200 +0200" channel="37 | Discovery World">
-    <title lang="es">A puertas abiertas por el mundo</title>
-  </programme>
-  <programme start="20200922081200 +0200" stop="20200922083600 +0200" channel="37 | Discovery World">
-    <title lang="es">A puertas abiertas por el mundo</title>
-  </programme>
-  <programme start="20200922083600 +0200" stop="20200922090000 +0200" channel="37 | Discovery World">
-    <title lang="es">Pantano Se vende</title>
-  </programme>
-  <programme start="20200922090000 +0200" stop="20200922092400 +0200" channel="37 | Discovery World">
-    <title lang="es">Pantano Se vende</title>
-  </programme>
-  <programme start="20200922092400 +0200" stop="20200922094800 +0200" channel="37 | Discovery World">
-    <title lang="es">Buying Alaska</title>
-  </programme>
-  <programme start="20200922094800 +0200" stop="20200922101200 +0200" channel="37 | Discovery World">
-    <title lang="es">Buying Alaska</title>
-  </programme>
-  <programme start="20200922101200 +0200" stop="20200922110000 +0200" channel="37 | Discovery World">
-    <title lang="es">Desafío parrillero</title>
-  </programme>
-  <programme start="20200922110000 +0200" stop="20200922112400 +0200" channel="37 | Discovery World">
-    <title lang="es">El poder de la comida</title>
-  </programme>
-  <programme start="20200922112400 +0200" stop="20200922114800 +0200" channel="37 | Discovery World">
-    <title lang="es">El poder de la comida</title>
-  </programme>
-  <programme start="20200922114800 +0200" stop="20200922121200 +0200" channel="37 | Discovery World">
-    <title lang="es">La vida en la playa</title>
-  </programme>
-  <programme start="20200922121200 +0200" stop="20200922123600 +0200" channel="37 | Discovery World">
-    <title lang="es">La vida en la playa</title>
-  </programme>
-  <programme start="20200922123600 +0200" stop="20200922130000 +0200" channel="37 | Discovery World">
-    <title lang="es">¿Podría vivir ahí</title>
-  </programme>
-  <programme start="20200922130000 +0200" stop="20200922132400 +0200" channel="37 | Discovery World">
-    <title lang="es">¿Podría vivir ahí</title>
-  </programme>
-  <programme start="20200922132400 +0200" stop="20200922141200 +0200" channel="37 | Discovery World">
-    <title lang="es">1000 Lugares que ver antes de morir</title>
-  </programme>
-  <programme start="20200922141200 +0200" stop="20200922150000 +0200" channel="37 | Discovery World">
-    <title lang="es">Taiwán desconocido</title>
-  </programme>
-  <programme start="20200922150000 +0200" stop="20200922154800 +0200" channel="37 | Discovery World">
-    <title lang="es">Vagones de lujo</title>
-  </programme>
-  <programme start="20200922154800 +0200" stop="20200922163600 +0200" channel="37 | Discovery World">
-    <title lang="es">Hoteles asombrosos</title>
-  </programme>
-  <programme start="20200922163600 +0200" stop="20200922170000 +0200" channel="37 | Discovery World">
-    <title lang="es">Tocinolandia</title>
-  </programme>
-  <programme start="20200922170000 +0200" stop="20200922172400 +0200" channel="37 | Discovery World">
-    <title lang="es">Tocinolandia</title>
-  </programme>
-  <programme start="20200922172400 +0200" stop="20200922181200 +0200" channel="37 | Discovery World">
-    <title lang="es">Desafío parrillero</title>
-  </programme>
-  <programme start="20200922181200 +0200" stop="20200922183600 +0200" channel="37 | Discovery World">
-    <title lang="es">El mejor hotel</title>
-  </programme>
-  <programme start="20200922183600 +0200" stop="20200922190000 +0200" channel="37 | Discovery World">
-    <title lang="es">Secretos de la isla</title>
-  </programme>
-  <programme start="20200922190000 +0200" stop="20200922194800 +0200" channel="37 | Discovery World">
-    <title lang="es">1000 Lugares que ver antes de morir</title>
-  </programme>
-  <programme start="20200922194800 +0200" stop="20200922203600 +0200" channel="37 | Discovery World">
-    <title lang="es">1000 Lugares que ver antes de morir</title>
-  </programme>
-  <programme start="20200922203600 +0200" stop="20200922212400 +0200" channel="37 | Discovery World">
-    <title lang="es">Desafío parrillero</title>
-  </programme>
-  <programme start="20200922212400 +0200" stop="20200922214800 +0200" channel="37 | Discovery World">
-    <title lang="es">El poder de la comida</title>
-  </programme>
-  <programme start="20200922214800 +0200" stop="20200922221200 +0200" channel="37 | Discovery World">
-    <title lang="es">El poder de la comida</title>
-  </programme>
-  <programme start="20200922221200 +0200" stop="20200922223600 +0200" channel="37 | Discovery World">
-    <title lang="es">Emeril ecogastronomía</title>
-  </programme>
-  <programme start="20200922223600 +0200" stop="20200922230000 +0200" channel="37 | Discovery World">
-    <title lang="es">Emeril ecogastronomía</title>
-  </programme>
-  <programme start="20200922230000 +0200" stop="20200922232400 +0200" channel="37 | Discovery World">
-    <title lang="es">A puertas abiertas por el mundo</title>
-  </programme>
-  <programme start="20200922232400 +0200" stop="20200922234800 +0200" channel="37 | Discovery World">
-    <title lang="es">A puertas abiertas por el mundo</title>
-  </programme>
-  <programme start="20200922234800 +0200" stop="20200923003600 +0200" channel="37 | Discovery World">
-    <title lang="es">1000 Lugares que ver antes de morir</title>
-  </programme>
-  <programme start="20200923003600 +0200" stop="20200923010000 +0200" channel="37 | Discovery World">
-    <title lang="es">Menos es más</title>
-  </programme>
-  <programme start="20200923010000 +0200" stop="20200923012400 +0200" channel="37 | Discovery World">
-    <title lang="es">Menos es más</title>
-  </programme>
-  <programme start="20200923012400 +0200" stop="20200923014800 +0200" channel="37 | Discovery World">
-    <title lang="es">Hogares de vacaciones increíbles</title>
-  </programme>
-  <programme start="20200923014800 +0200" stop="20200923021200 +0200" channel="37 | Discovery World">
-    <title lang="es">Hogares de vacaciones increíbles</title>
-  </programme>
-  <programme start="20200923021200 +0200" stop="20200923030000 +0200" channel="37 | Discovery World">
-    <title lang="es">1000 Lugares que ver antes de morir</title>
-  </programme>
-  <programme start="20200923030000 +0200" stop="20200923032400 +0200" channel="37 | Discovery World">
-    <title lang="es">La vida en la playa</title>
-  </programme>
-  <programme start="20200923032400 +0200" stop="20200923034800 +0200" channel="37 | Discovery World">
-    <title lang="es">La vida en la playa</title>
-  </programme>
-  <programme start="20200923034800 +0200" stop="20200923041200 +0200" channel="37 | Discovery World">
-    <title lang="es">¿Podría vivir ahí</title>
-  </programme>
-  <programme start="20200923041200 +0200" stop="20200923043600 +0200" channel="37 | Discovery World">
-    <title lang="es">¿Podría vivir ahí</title>
-  </programme>
-  <programme start="20200923043600 +0200" stop="20200923052400 +0200" channel="37 | Discovery World">
-    <title lang="es">Italia sobre ruedas</title>
-  </programme>
-  <programme start="20200923052400 +0200" stop="20200923061200 +0200" channel="37 | Discovery World">
-    <title lang="es">Piscinas con vista increíble</title>
-  </programme>
-  <programme start="20200923061200 +0200" stop="20200923070000 +0200" channel="37 | Discovery World">
-    <title lang="es">Taiwán desconocido</title>
-  </programme>
-  <programme start="20200923070000 +0200" stop="20200923072400 +0200" channel="37 | Discovery World">
-    <title lang="es">¿Podría vivir ahí</title>
-  </programme>
-  <programme start="20200923072400 +0200" stop="20200923074800 +0200" channel="37 | Discovery World">
-    <title lang="es">¿Podría vivir ahí</title>
-  </programme>
-  <programme start="20200923074800 +0200" stop="20200923083600 +0200" channel="37 | Discovery World">
-    <title lang="es">Yates increíbles</title>
-  </programme>
-  <programme start="20200923083600 +0200" stop="20200923090000 +0200" channel="37 | Discovery World">
-    <title lang="es">Megamansiones</title>
-  </programme>
-  <programme start="20200923090000 +0200" stop="20200923092400 +0200" channel="37 | Discovery World">
-    <title lang="es">Megamansiones</title>
-  </programme>
-  <programme start="20200923092400 +0200" stop="20200923094800 +0200" channel="37 | Discovery World">
-    <title lang="es">Mi casa en la montaña</title>
-  </programme>
-  <programme start="20200923094800 +0200" stop="20200923101200 +0200" channel="37 | Discovery World">
-    <title lang="es">Mi casa en la montaña</title>
-  </programme>
-  <programme start="20200923101200 +0200" stop="20200923103600 +0200" channel="37 | Discovery World">
-    <title lang="es">Buying Alaska</title>
-  </programme>
-  <programme start="20200923103600 +0200" stop="20200923110000 +0200" channel="37 | Discovery World">
-    <title lang="es">Buying Alaska</title>
-  </programme>
-  <programme start="20200923110000 +0200" stop="20200923112400 +0200" channel="37 | Discovery World">
-    <title lang="es">Buying Hawaii</title>
-  </programme>
-  <programme start="20200923112400 +0200" stop="20200923114800 +0200" channel="37 | Discovery World">
-    <title lang="es">Buying Hawaii</title>
-  </programme>
-  <programme start="20200923114800 +0200" stop="20200923123600 +0200" channel="37 | Discovery World">
-    <title lang="es">Desafío parrillero</title>
-  </programme>
-  <programme start="20200923123600 +0200" stop="20200923130000 +0200" channel="37 | Discovery World">
-    <title lang="es">Emeril ecogastronomía</title>
-  </programme>
-  <programme start="20200923130000 +0200" stop="20200923132400 +0200" channel="37 | Discovery World">
-    <title lang="es">Emeril ecogastronomía</title>
-  </programme>
-  <programme start="20200923132400 +0200" stop="20200923134800 +0200" channel="37 | Discovery World">
-    <title lang="es">Tocinolandia</title>
-  </programme>
-  <programme start="20200923134800 +0200" stop="20200923141200 +0200" channel="37 | Discovery World">
-    <title lang="es">Tocinolandia</title>
-  </programme>
-  <programme start="20200923141200 +0200" stop="20200923143600 +0200" channel="37 | Discovery World">
-    <title lang="es">Emeril ecogastronomía</title>
-  </programme>
-  <programme start="20200923143600 +0200" stop="20200923150000 +0200" channel="37 | Discovery World">
-    <title lang="es">Emeril ecogastronomía</title>
-  </programme>
-  <programme start="20200923150000 +0200" stop="20200923154800 +0200" channel="37 | Discovery World">
-    <title lang="es">Yates increíbles</title>
-  </programme>
-  <programme start="20200923154800 +0200" stop="20200923163600 +0200" channel="37 | Discovery World">
-    <title lang="es">Megayates</title>
-  </programme>
-  <programme start="20200923163600 +0200" stop="20200923172400 +0200" channel="37 | Discovery World">
-    <title lang="es">Ecorrenovación</title>
-  </programme>
-  <programme start="20200923172400 +0200" stop="20200923174800 +0200" channel="37 | Discovery World">
-    <title lang="es">¿Podría vivir ahí</title>
-  </programme>
-  <programme start="20200923174800 +0200" stop="20200923181200 +0200" channel="37 | Discovery World">
-    <title lang="es">¿Podría vivir ahí</title>
-  </programme>
-  <programme start="20200923181200 +0200" stop="20200923183600 +0200" channel="37 | Discovery World">
-    <title lang="es">Mi casa en la montaña</title>
-  </programme>
-  <programme start="20200923183600 +0200" stop="20200923190000 +0200" channel="37 | Discovery World">
-    <title lang="es">Mi casa en la montaña</title>
-  </programme>
-  <programme start="20200923190000 +0200" stop="20200923194800 +0200" channel="37 | Discovery World">
-    <title lang="es">1000 Lugares que ver antes de morir</title>
-  </programme>
-  <programme start="20200923194800 +0200" stop="20200923203600 +0200" channel="37 | Discovery World">
-    <title lang="es">Placeres del Caribe</title>
-  </programme>
-  <programme start="20200923203600 +0200" stop="20200923210000 +0200" channel="37 | Discovery World">
-    <title lang="es">Buying Alaska</title>
-  </programme>
-  <programme start="20200923210000 +0200" stop="20200923212400 +0200" channel="37 | Discovery World">
-    <title lang="es">Buying Alaska</title>
-  </programme>
-  <programme start="20200923212400 +0200" stop="20200923214800 +0200" channel="37 | Discovery World">
-    <title lang="es">Buying Hawaii</title>
-  </programme>
-  <programme start="20200923214800 +0200" stop="20200923221200 +0200" channel="37 | Discovery World">
-    <title lang="es">Buying Hawaii</title>
-  </programme>
-  <programme start="20200923221200 +0200" stop="20200923223600 +0200" channel="37 | Discovery World">
-    <title lang="es">Hogares de vacaciones increíbles</title>
-  </programme>
-  <programme start="20200923223600 +0200" stop="20200923230000 +0200" channel="37 | Discovery World">
-    <title lang="es">Hogares de vacaciones increíbles</title>
-  </programme>
-  <programme start="20200923230000 +0200" stop="20200923232400 +0200" channel="37 | Discovery World">
-    <title lang="es">¿Podría vivir ahí</title>
-  </programme>
-  <programme start="20200923232400 +0200" stop="20200923234800 +0200" channel="37 | Discovery World">
-    <title lang="es">¿Podría vivir ahí</title>
-  </programme>
-  <programme start="20200923234800 +0200" stop="20200924003600 +0200" channel="37 | Discovery World">
-    <title lang="es">Hoteles increíbles</title>
-  </programme>
-  <programme start="20200924003600 +0200" stop="20200924010000 +0200" channel="37 | Discovery World">
-    <title lang="es">Menos es más</title>
-  </programme>
-  <programme start="20200924010000 +0200" stop="20200924012400 +0200" channel="37 | Discovery World">
-    <title lang="es">Menos es más</title>
-  </programme>
-  <programme start="20200924012400 +0200" stop="20200924014800 +0200" channel="37 | Discovery World">
-    <title lang="es">El mejor hotel</title>
-  </programme>
-  <programme start="20200924014800 +0200" stop="20200924021200 +0200" channel="37 | Discovery World">
-    <title lang="es">El mejor hotel</title>
-  </programme>
-  <programme start="20200924021200 +0200" stop="20200924023600 +0200" channel="37 | Discovery World">
-    <title lang="es">Tocinolandia</title>
-  </programme>
-  <programme start="20200924023600 +0200" stop="20200924030000 +0200" channel="37 | Discovery World">
-    <title lang="es">Tocinolandia</title>
-  </programme>
-  <programme start="20200924030000 +0200" stop="20200924034800 +0200" channel="37 | Discovery World">
-    <title lang="es">Desafío parrillero</title>
-  </programme>
-  <programme start="20200924034800 +0200" stop="20200924041200 +0200" channel="37 | Discovery World">
-    <title lang="es">Emeril ecogastronomía</title>
-  </programme>
-  <programme start="20200924041200 +0200" stop="20200924043600 +0200" channel="37 | Discovery World">
-    <title lang="es">Emeril ecogastronomía</title>
-  </programme>
-  <programme start="20200924043600 +0200" stop="20200924050000 +0200" channel="37 | Discovery World">
-    <title lang="es">Fast Food Mania</title>
-  </programme>
-  <programme start="20200924050000 +0200" stop="20200924052400 +0200" channel="37 | Discovery World">
-    <title lang="es">Fast Food Mania</title>
-  </programme>
-  <programme start="20200924052400 +0200" stop="20200924054800 +0200" channel="37 | Discovery World">
-    <title lang="es">El poder de la comida</title>
-  </programme>
-  <programme start="20200924054800 +0200" stop="20200924061200 +0200" channel="37 | Discovery World">
-    <title lang="es">El poder de la comida</title>
-  </programme>
-  <programme start="20200924061200 +0200" stop="20200924063600 +0200" channel="37 | Discovery World">
-    <title lang="es">Emeril ecogastronomía</title>
-  </programme>
-  <programme start="20200924063600 +0200" stop="20200924070000 +0200" channel="37 | Discovery World">
-    <title lang="es">Emeril ecogastronomía</title>
-  </programme>
-  <programme start="20200924070000 +0200" stop="20200924074800 +0200" channel="37 | Discovery World">
-    <title lang="es">1000 Lugares que ver antes de morir</title>
-  </programme>
-  <programme start="20200924074800 +0200" stop="20200924081200 +0200" channel="37 | Discovery World">
-    <title lang="es">Hogares de vacaciones increíbles</title>
-  </programme>
-  <programme start="20200924081200 +0200" stop="20200924083600 +0200" channel="37 | Discovery World">
-    <title lang="es">Hogares de vacaciones increíbles</title>
-  </programme>
-  <programme start="20200924083600 +0200" stop="20200924090000 +0200" channel="37 | Discovery World">
-    <title lang="es">El mejor hotel</title>
-  </programme>
-  <programme start="20200924090000 +0200" stop="20200924092400 +0200" channel="37 | Discovery World">
-    <title lang="es">El mejor hotel</title>
-  </programme>
-  <programme start="20200924092400 +0200" stop="20200924094800 +0200" channel="37 | Discovery World">
-    <title lang="es">El mejor hotel</title>
-  </programme>
-  <programme start="20200924094800 +0200" stop="20200924101200 +0200" channel="37 | Discovery World">
-    <title lang="es">Secretos de la isla</title>
-  </programme>
-  <programme start="20200924101200 +0200" stop="20200924103600 +0200" channel="37 | Discovery World">
-    <title lang="es">Mi casa en la playa</title>
-  </programme>
-  <programme start="20200924103600 +0200" stop="20200924110000 +0200" channel="37 | Discovery World">
-    <title lang="es">Mi casa en la playa</title>
-  </programme>
-  <programme start="20200924110000 +0200" stop="20200924112400 +0200" channel="37 | Discovery World">
-    <title lang="es">Exploradores de islas</title>
-  </programme>
-  <programme start="20200924112400 +0200" stop="20200924114800 +0200" channel="37 | Discovery World">
-    <title lang="es">Exploradores de islas</title>
-  </programme>
-  <programme start="20200924114800 +0200" stop="20200924121200 +0200" channel="37 | Discovery World">
-    <title lang="es">¿Podría vivir ahí</title>
-  </programme>
-  <programme start="20200924121200 +0200" stop="20200924123600 +0200" channel="37 | Discovery World">
-    <title lang="es">¿Podría vivir ahí</title>
-  </programme>
-  <programme start="20200924123600 +0200" stop="20200924130000 +0200" channel="37 | Discovery World">
-    <title lang="es">Hogares de vacaciones increíbles</title>
-  </programme>
-  <programme start="20200924130000 +0200" stop="20200924132400 +0200" channel="37 | Discovery World">
-    <title lang="es">Hogares de vacaciones increíbles</title>
-  </programme>
-  <programme start="20200924132400 +0200" stop="20200924141200 +0200" channel="37 | Discovery World">
-    <title lang="es">Ecorrenovación</title>
-  </programme>
-  <programme start="20200924141200 +0200" stop="20200924143600 +0200" channel="37 | Discovery World">
-    <title lang="es">Buying Alaska</title>
-  </programme>
-  <programme start="20200924143600 +0200" stop="20200924150000 +0200" channel="37 | Discovery World">
-    <title lang="es">Buying Alaska</title>
-  </programme>
-  <programme start="20200924150000 +0200" stop="20200924154800 +0200" channel="37 | Discovery World">
-    <title lang="es">Italia sobre ruedas</title>
-  </programme>
-  <programme start="20200924154800 +0200" stop="20200924163600 +0200" channel="37 | Discovery World">
-    <title lang="es">Piscinas con vista increíble</title>
-  </programme>
-  <programme start="20200924163600 +0200" stop="20200924170000 +0200" channel="37 | Discovery World">
-    <title lang="es">A puertas abiertas por el mundo</title>
-  </programme>
-  <programme start="20200924170000 +0200" stop="20200924172400 +0200" channel="37 | Discovery World">
-    <title lang="es">A puertas abiertas por el mundo</title>
-  </programme>
-  <programme start="20200924172400 +0200" stop="20200924181200 +0200" channel="37 | Discovery World">
-    <title lang="es">1000 Lugares que ver antes de morir</title>
-  </programme>
-  <programme start="20200924181200 +0200" stop="20200924183600 +0200" channel="37 | Discovery World">
-    <title lang="es">Buying Alaska</title>
-  </programme>
-  <programme start="20200924183600 +0200" stop="20200924190000 +0200" channel="37 | Discovery World">
-    <title lang="es">Buying Alaska</title>
-  </programme>
-  <programme start="20200924190000 +0200" stop="20200924192400 +0200" channel="37 | Discovery World">
-    <title lang="es">¿Podría vivir ahí</title>
-  </programme>
-  <programme start="20200924192400 +0200" stop="20200924194800 +0200" channel="37 | Discovery World">
-    <title lang="es">¿Podría vivir ahí</title>
-  </programme>
-  <programme start="20200924194800 +0200" stop="20200924201200 +0200" channel="37 | Discovery World">
-    <title lang="es">Megamansiones</title>
-  </programme>
-  <programme start="20200924201200 +0200" stop="20200924203600 +0200" channel="37 | Discovery World">
-    <title lang="es">Megamansiones</title>
-  </programme>
-  <programme start="20200924203600 +0200" stop="20200924210000 +0200" channel="37 | Discovery World">
-    <title lang="es">Mi casa en la playa</title>
-  </programme>
-  <programme start="20200924210000 +0200" stop="20200924212400 +0200" channel="37 | Discovery World">
-    <title lang="es">Mi casa en la playa</title>
-  </programme>
-  <programme start="20200924212400 +0200" stop="20200924214800 +0200" channel="37 | Discovery World">
-    <title lang="es">Exploradores de islas</title>
-  </programme>
-  <programme start="20200924214800 +0200" stop="20200924221200 +0200" channel="37 | Discovery World">
-    <title lang="es">Exploradores de islas</title>
-  </programme>
-  <programme start="20200924221200 +0200" stop="20200924230000 +0200" channel="37 | Discovery World">
-    <title lang="es">Casas rodantes increíbles</title>
-  </programme>
-  <programme start="20200924230000 +0200" stop="20200924234800 +0200" channel="37 | Discovery World">
-    <title lang="es">1000 Lugares que ver antes de morir</title>
-  </programme>
-  <programme start="20200924234800 +0200" stop="20200925001200 +0200" channel="37 | Discovery World">
-    <title lang="es">La vida en la playa</title>
-  </programme>
-  <programme start="20200925234800 +0200" stop="20200926001200 +0200" channel="37 | Discovery World">
-    <title lang="es">La vida en la playa</title>
-  </programme>
-  <programme start="20200926001200 +0200" stop="20200926003600 +0200" channel="37 | Discovery World">
-    <title lang="es">La vida en la playa</title>
-  </programme>
-  <programme start="20200926003600 +0200" stop="20200926012400 +0200" channel="37 | Discovery World">
-    <title lang="es">Yates increíbles</title>
-  </programme>
-  <programme start="20200926012400 +0200" stop="20200926021200 +0200" channel="37 | Discovery World">
-    <title lang="es">1000 Lugares que ver antes de morir</title>
   </programme>
 </tv>
